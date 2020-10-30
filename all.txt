@@ -16,10 +16,22 @@ The Bog	Bigod 20	Steel Works!	spotify:track:6vfzTgsEdN30THva2kGqSV
 Isn't It Funny How Your Body Works - 2006 Remaster	Nitzer Ebb	Body of Work 1984-1997	spotify:track:26MODUplLjXREmeU0EnSSR
 
 Gerd Janson's track IDs
+Reality - Hysteric Edit	Cover Boys, Hysteric	Reality	spotify:track:2KNSRqBKirwqkZ8gtNtdL2
+The Fourth Wave	Marvo Genetic	New World Basics	spotify:track:6SiF90SoNsp5jB1pIImIl7
+One Day - Deep Mix	Shan, Candi Staton	One Day	spotify:track:5NbatWIfnc41WITDTvKpC9
+Everything U Need	Overmono	Everything U Need	spotify:track:0pwYCGZE0qELSDnXyQBlWn
+Locked	Tim Schlockermann	Untitled	spotify:track:0Hegs8sueJX8G1Ks3w6fRU
+Remanisance - Original Mix	Transparent Sound	Atmosphere/Remanisance	spotify:track:0mMMKBf8N7pK9s9Qige2Ew
+45:33 - Prince Language Remix	LCD Soundsystem	45:33 Remixes	spotify:track:3vQKmZHZLdvPiNDFRuqmlb
+Oolong Trance - Club Mix	Alex Kassian	Oolong Trance	spotify:track:2hGhNabWsHnXyjatmIUmb8
+Golden Light - Matrixxman Remix	STRFKR	Golden Light	spotify:track:7vAvnJpW0Il5GCVoFyQrID
+Heaven to Hell - Eden Burns Remix	Vanessa Worm, Eden Burns	Heaven to Hell	spotify:track:40MlsThEIUWJbTz118oVRH
+Unity - Gerd Janson Ramona Remix	Portable, Gerd Janson	Lifesaver 4 Compilation - 21 - Dedicated to Andrew Weatherall	spotify:track:5AEkNPoCRDrJsCp75P27FN
 An Item	Hotspring	Obit For Sunshade	spotify:track:4e7OTjl7PJ8K4NtM0fQQZE
 Hot And Sexable - Extended Club Mix	Natural Wild	Hot and Sexable (Morgan Buckley Remixes)	spotify:track:5GQjRBS4GDY1SO9tD41WZ7
 Lunatic Dolphin - Lauer Remix	Lexx, Lauer	LX72 Remixed	spotify:track:31jH4CwfzcG5bPMtMQaFRG
 Big Beat Manifesto	Eden Burns	Big Beat Manifesto	spotify:track:4O6aFTVJScCFm8e2lQtIvJ
+Firefox - Gerd Janson Remix	Dorothys Fortress, Gerd Janson	Firefox (Gerd Janson Remix)	spotify:track:7zGZIwx9KTo65Qa3dAOwmy
 Second Life	Omar S, John F.M.	You Want	spotify:track:6rAnjfvnJs5tNzE8kjZJWI
 Reality 2 - Edit	Digitalism	Reality 2	spotify:track:0XtuoSOlRerKPc3NOanwDn
 Warp	e-Dancer	Heavenly	spotify:track:6AEn2nMkbxlf9soNh3aRXp
@@ -34,7 +46,6 @@ Equinox	9th House	803 Crystal Grooves Collective Cuts	spotify:track:7e5ffIsyU6YN
 Zeus - Gerd Janson Symposion Remix	Sirens Of Lesbos, Gerd Janson	Zeus Remixes	spotify:track:0fEu7sn6rssTJVnMmCmmt8
 Extra Dimensions	Johannes Volk	Extra Dimensions	spotify:track:1AN6iETDM1zDH4gNGDBuT0
 Jail Bait	Ben Mays	Kill Yourself Dancing - The Story of Sunset Records, Inc. Chicago 1985-89	spotify:track:1XPuBgKF5G3MEAQ2tsOIqo
-What A Room	Garies	In Bits	spotify:track:5fVYe5x2daUIFjdOSKwfAJ
 I Can't Keep My Head (He's Mine)	1-800 GIRLS	Slipping	spotify:track:10T1IPKf8pYNivnvm6eu0A
 Special Times & Places	AKSK, Adda Kaleh, Suzanne Kraft	Things We Do	spotify:track:51lUlauS6YQ3cyD24eYT9l
 Santiago Black - Ptaki Remix	Al Dobson Jr., Ptaki	Rye Lane Versions	spotify:track:1iKdJFEIZ0KuzLkJEMorA2
@@ -45,45 +56,34 @@ Can You Feel It	DJ Duke	Lost Deep House Trax - Volume 3	spotify:track:66gEyEH7WA
 Human Factor	Reznik, good guy mikesh	Human Factor	spotify:track:5AGAinKC7baBY4OWUsyRpK
 Hypno Hypno	Johannes Volk	Extra Dimensions	spotify:track:2bFNuXZD1oSV36NfkJb4Ln
 Acid Drop - Edit	Alan Dixon	Piano Drop	spotify:track:0fWFCEgTlFHD5eMlgZS2j4
-Play The World	Johnick	Play The World	spotify:track:4eeh5uXv0ClK8IjxOTxnm0
 Sidney Street - Radio Edit	Mella Dee	Sidney Street	spotify:track:5x2SLzE6AVqdVLRuD53bHV
 Rey - Gerd Janson Dance Mix, Edit	Zimmer, Gerd Janson	Rey (Gerd Janson Dance Mix, Edit)	spotify:track:18bT1DoDVhfTND9iJEjZSI
 Central Store	Lipelis, AC	One Swallow Doesn't Make A Summer Part. 2	spotify:track:5rsSWRNvEzXRQv4qdFv9FZ
 Brace & Bit	Earth To Mickey	Brace & Bit	spotify:track:2JWRgmcZ3yz2I6AO39LXeQ
-Pluck - Gerd Janson Remix	Ivan Fabra, Gerd Janson	Pluck	spotify:track:789NcWwRydfh9SIeCp5PhE
 Pianodance	Unknown Artist	QC Passed #01	spotify:track:14GwcBtYPpZK3YBq4cuCBc
-Scalar	Vril	Bad Manners 4	spotify:track:1mB25QcfqfEtTPD3B8O67Y
 My Love is Free	Liam Doc	East Coast Edits	spotify:track:0zoS0MffOn784VR4iI8KRr
 Never Come Back - Four Tet Remix	Caribou, Four Tet	Never Come Back (Four Tet Remix)	spotify:track:7DbreVo6L52z1RpplC9mPz
-Introspective	Swoose	Introspective	spotify:track:27r798NbmRLMi12YXQBm1g
 Soul Control - Palms Trax Remix	Galcher Lustwerk, Palms Trax	Soul Control (Palms Trax Remix)	spotify:track:5NocaTEsF0MhAJK3qod7SD
 Test 1	Roman Flügel	Acid Test	spotify:track:3ZbblzUY1m5CCY3sVZmMci
-Sapo Scream	Rene Wise	Loud Colours EP	spotify:track:116ztdXWQ07GR5rYhoMMoY
-Pronto Arpeggio - KiNK Remix	Bawrut, Kink	Pronto Arpeggio (KiNK Remix)	spotify:track:4m4p0B1PLWc2gylkawFmPf
-The Sequence Cabinet	Echonomist	Dixon Presents Transmoderna Part 4/4	spotify:track:5GBU6xAMG2zvJKFvMuvo25
 Pure Bliss Meltdown	Loods	Pure Bliss Meltdown	spotify:track:37v8ot9CoxOs0ciFGIUhB5
 Feel The Fire	Tiger & Woods	Boot & Heel EP	spotify:track:16LnnBYFBppbFNlo1a4qEQ
 Let's Make a Deal	Linda "Babe" Majika	Don't Treat Me So Bad	spotify:track:7x4M6XCzMkv6DqCgyXWN0Y
 Synergy Bar - Edit	Llewellyn	One Swallow Doesn't Make A Summer Part. 2	spotify:track:2AvVEU12zZ8nTTANeUyXWc
 Feel so Good Inside - Extended Waxist Edit Mix	Lamar Thomas, Waxist	Feel so Good Inside	spotify:track:283Y6HOAcf48dWvtpMgVXi
-Darkest Hour	Sevdaliza	Shabrang	spotify:track:5kKSRef0a8xs9EMeLVbHXX
 Yera	Masalo, Doussou Koulibaly	Esa Presents Amandla: Music to the People	spotify:track:4XeAZCADlfvqSmgVoFVtFA
 Jeanette	Kelly Lee Owens	Inner Song	spotify:track:5V28G1ktbqATUy4ioDzJZM
-Thirst (Dressed in Nothing But UV Paint and Biodegradable Glitter)	Varg²™	Fuck Varg	spotify:track:6r9Pc6KEsnmyrzmyY6ElHS
+Session 1 - Live	I:Cube	Cubo Live Session, Vol. 1	spotify:track:6laVSVGWTwRAXNoUBUSuj6
+Pattern One	Roman Flügel	Tracks On Delivery	spotify:track:4LqzPjVTdZH8TNBd1FhilV
 Hyper Reality	Panteros666	Bromance #8: Hyper Reality	spotify:track:0yOKtb9QBhPS2VX2fTvUDf
-Wait A Minute	Radio Slave	Stay Out All Night	spotify:track:58lHbCIW98BIAF6ZZ08nHA
 Please Please - Gerd Janson Remix	Zogo, Gerd Janson	Please Please	spotify:track:1IfRiIxZijJMbzaHEn7jhQ
-Knock Knock	dj funk	Gold (20th Anniversary Greatest Hits Collection)	spotify:track:5faxn4w6sNLHhhedqPobRO
 Yes I Need My Generator	Turnstile, Mall Grab	Share A View	spotify:track:4vFicRRBJFCC5UofT5sWAT
-Entropia	Duplex	Overdue EP	spotify:track:1YcW5j2PIUKaj0vXG6qUbV
-The Tresor Track	Mike Huckaby	The Tresor	spotify:track:05jH3loacX2r8PTAB2mkwP
 Early Byrd	Theo Parrish	Baby Steps EP	spotify:track:3bBNkMUG7KLnyZ3i9HoVjd
 I Wanna Be Myself	Don Laka	I Wanna Be Myself	spotify:track:0UMyuLC92BeAn8edQKxBVd
+1992	No_4mat	1992	spotify:track:4N28QlYB0XW6H5gaXBHt6T
 Frodo	Zombies In Miami	Frodo	spotify:track:06hSMkP58aNPmWqZWDSkFl
 Mirrors	Jonus Eric	Pentagon Palette	spotify:track:1RsiicgjfO5BdDbZxfsIGA
 Broken Heart	David Jackson	Broken Heart	spotify:track:1Pusg3VSg72pqjnuu81jER
 Tomorrow	Ntombi Ndaba	Tomorrow	spotify:track:0TvTlguvpXe3h3RCiekArA
-Party More	Cram	Two House Limited	spotify:track:7flDtSq5Y79qrrvHPvz6MA
 Volevi Una Hit - Extended Version	Cristalli Liquidi	Volevi Una Hit	spotify:track:1cqMaulAZAoUZfRZlOR29V
 Enjoy Your Life	Oby Onyioha	I Want to Feel Your Love	spotify:track:1UKk8v7T2IrpcLEP1KKqZb
 
@@ -176,85 +176,110 @@ Experimenting Love	Dz Lectric, Anthon Shield	Lickin'	spotify:track:3Doeh8atFcwrB
 Disco-a-Bomb-Bomb	Blancmange	Irene & Mavis	spotify:track:3pwKYMsnP9fYVbLNRJA5gR
 
 hyperpop
-october's lullaby (feat. glaive)	Savage Ga$p, glaive	october's lullaby (feat. glaive)	spotify:track:3GbPm4gaQXSsF4HTra0cI0
-oblivion	p4rkr, blackwinterwells	oblivion	spotify:track:2cLMP7JToEJnsLgh5lMLid
-Anxious	Numl6ck	Anxious	spotify:track:3tHiZoAVy74PHocSl5MDu0
-Look At Me	That Kid	Skater Boy	spotify:track:2SxWoBYo2XrFa4fB0Fmmpv
-marrow	blackwinterwells, coldrose, Wstdyth	marrow	spotify:track:35lGCQ5ASOCgZDN39WSwZn
-okay, jeez	St Jimmy	okay, jeez	spotify:track:4YrVvJhfn8KcyOWEIn1vaB
-arsenic	glaive	arsenic	spotify:track:6jRj5tzddShW6JVEktRePw
-I <3 Harajuku	Alice Longyu Gao, Fraxiom	I <3 Harajuku	spotify:track:1fMIomiIqQUSLynNzU4y1w
-IPHONE	Rico Nasty	IPHONE	spotify:track:2dMvqE5MHPH7Ksd5pQqFmL
+NEVER MET! (feat. Glitch Gum) - 100 gecs r3mix	Cmten, Glitch Gum, 100 gecs	NEVER MET! (feat. Glitch Gum) [100 gecs r3mix]	spotify:track:5EjBvv27sI75Kh1iUJgo8O
+mos thoser	food house, Gupi, Fraxiom	mos thoser	spotify:track:45TI4VoSs08jayolmDYl1y
 1:15	8485	1:15	spotify:track:0TNFCRzOnlgu7W1K47sFnY
-glittr	aldn	glittr	spotify:track:6rsuyY8DWNwngUuchlWTx2
-Beautiful Superstar	A. G. Cook	Beautiful Superstar	spotify:track:7y31z2opHEoqxEiHK0RTRn
+Anxious	Numl6ck	Anxious	spotify:track:3tHiZoAVy74PHocSl5MDu0
+Calcium	MIMIDEATH	Effective. Power	spotify:track:1l3Aiqc1f7rTSlUfntBrLr
+POWER FANTASY	HEALTH, 100 gecs	DISCO4 :: PART I	spotify:track:2uhMO2asSGhkTvOykBy7HB
+oblivion	p4rkr, blackwinterwells	oblivion	spotify:track:2cLMP7JToEJnsLgh5lMLid
+Big Break	Lewis Grant	Big Break	spotify:track:3XkF97AUMDBcixfFndkIF5
+moment	lildeath	moment	spotify:track:2JKIYl8KaAMzOR1dIzEO5f
+algae	blackwinterwells, d0llywood1	Stone Ocean	spotify:track:2DjP4YFuiBuwS6byzHBxhG
 sheaskedwhatmylifeislike	Ericdoa	sheaskedwhatmylifeislike	spotify:track:2LnJ9alfzImtK4t0KzEgYd
-SLUG SLUG SLUG	blackwinterwells	SLUG SLUG SLUG	spotify:track:7IFqcJvqi9uf2GX8RxuZJC
-Less Intro	saturn	L.S.D : LESS SUNNY DAYS	spotify:track:6WU5CBcMSe3ebHVE0V9ZnY
-witchcraft	Ericdoa	hi, i'm dante	spotify:track:7qvGaSMDqimo9UjyO0IeDw
-Blame!	EXODUS1900	Blame!	spotify:track:4AvjXe9wzqQXEYR9RN5qNa
-clueless	kuru, kurtains	clueless	spotify:track:2PlrJupGTWvgVlGXSK95Me
-Stuck Up	kasper gem	Stuck Up	spotify:track:2PcGdvIzl8lXTwvP1oRcC8
-cishets (i don't want it at all)	Fraxiom	Feeling Cool And Normal	spotify:track:0bQbhk35Ix8itSmWeGvKe2
+arsenic	glaive	arsenic	spotify:track:6jRj5tzddShW6JVEktRePw
+Six (umru Remix)	Kacy Hill, umru	Six (umru Remix)	spotify:track:2x9GC3fRPEbUcYI31GmIwb
+My Agenda (feat. Village People & Pussy Riot)	Dorian Electra, Village People, Pussy Riot	My Agenda (feat. Village People & Pussy Riot)	spotify:track:2aKrS1piFqGk1ZLs3DXTTw
+GOLDFiiSH	SEBii	VVSS	spotify:track:7MvHXUWvAaBOsFWoDLcN4R
+if you make music .. stop it	High Zoey, Fraxiom	if you make music .. stop it	spotify:track:05Am6HJ1KDkb6J7V4YnS8T
+Silver	A. G. Cook	7G	spotify:track:4zkau5yMAm8DublNrrbShN
+touché	glaive	touché	spotify:track:2njvplEOxAH15IiIVYAxqy
+IPHONE	Rico Nasty	IPHONE	spotify:track:2dMvqE5MHPH7Ksd5pQqFmL
+crowd - umru remix	Silver Sphere, umru	crowd (umru remix)	spotify:track:3kNVyfDTEGtFCAa2H1mr7v
+I <3 Harajuku	Alice Longyu Gao, Fraxiom	I <3 Harajuku	spotify:track:1fMIomiIqQUSLynNzU4y1w
+october's lullaby (feat. glaive)	Savage Ga$p, glaive	october's lullaby (feat. glaive)	spotify:track:3GbPm4gaQXSsF4HTra0cI0
+Idiot (Def Jam 2022)	Truse Tarzan, Öresus, Tjuven	Idiot (Def Jam 2022)	spotify:track:6UL8qf09JIQQpS1TOVAnwf
+precious	aldn	precious	spotify:track:0M1Qd85tCgbUKBZz4uMCQC
+BONErr	SEBii	BONErr	spotify:track:17YrOWwZmJ1idxwX8eu3CP
+marrow	blackwinterwells, coldrose, Wstdyth	marrow	spotify:track:35lGCQ5ASOCgZDN39WSwZn
+Look At Me	That Kid	Skater Boy	spotify:track:2SxWoBYo2XrFa4fB0Fmmpv
+84k	andy polk, Hollowheart.	84k	spotify:track:0XhKBz0T4RCa3jFywI20TC
+let me die (feat. polearm)	Savage Ga$p, polearm	the long halloween	spotify:track:76PniOSbK2YMnHuR85IaOD
+So & So	HANA	So & So	spotify:track:0RN0bTW2BOLZgkah4Vrvhj
+Cyan Hardcore	Machine Girl	RePorpoised Phantasies	spotify:track:5DbCXRs5PXXDgFrsdzjGDg
+okay, jeez	St Jimmy	okay, jeez	spotify:track:4YrVvJhfn8KcyOWEIn1vaB
+Talk Shit	Chach, Ericdoa, p4rkr	Talk Shit	spotify:track:6zh5iuRUCwErbBIpQ9oiGo
+8 now	food house, Gupi, Fraxiom	food house	spotify:track:3lzX0mU3pfXOQRnH0ryZJR
+5W3375W3375W337L1K3BUBBL36UM	six impala	WFLYTD NIGHTCORE	spotify:track:4IBlKJ1bk8DaUHG5h7OrgN
+toothless	100 gecs	1000 gecs and The Tree of Clues	spotify:track:4u2jCma9zHR59lfKxBIOoy
+clown shit (up the wall) [SOPHIE Remix]	BABYNYMPH, SOPHIE, BAYLI	clown shit	spotify:track:4RMtFI3hGFBnyDg9YIvLLs
+2021	A. G. Cook	7G	spotify:track:6wJvvuAKqrPbXYlO6iqgJ2
+Running From The Sun	Terror Jr	Running From The Sun	spotify:track:7alAE2bNG5fsBsWwogFbUd
 FUCK THE CLUB (chillpill Remix) [feat. Ravenna Golden]	chillpill, Ravenna Golden	FUCK THE CLUB (chillpill Remix) [feat. Ravenna Golden]	spotify:track:0aK32FiwfIMJDXlOFmcaPj
+I don't talk about that much	Smerz	I don’t talk about that much / Hva hvis	spotify:track:3jmdsIveyM5LK8Gggm2uV3
+glittr	aldn	glittr	spotify:track:6rsuyY8DWNwngUuchlWTx2
+Hanakotoba	Golin	Crush	spotify:track:2wpXNBkuzz1mPZDVOLq5gb
+SLUG SLUG SLUG	blackwinterwells	SLUG SLUG SLUG	spotify:track:7IFqcJvqi9uf2GX8RxuZJC
+I Shake That Ath	Deaton Chris Anthony	BOOGY WOOGY	spotify:track:6vzYVGtbfLuKbDjeZo9Euh
+hello kitty gurl :P	2worth	hello kitty gurl :P	spotify:track:7BChRKmMlOmLaqxKFbaPXa
+witchcraft	Ericdoa	hi, i'm dante	spotify:track:7qvGaSMDqimo9UjyO0IeDw
+clueless	kuru, kurtains	clueless	spotify:track:2PlrJupGTWvgVlGXSK95Me
+cishets (i don't want it at all)	Fraxiom	Feeling Cool And Normal	spotify:track:0bQbhk35Ix8itSmWeGvKe2
+anthems	Charli XCX	how i'm feeling now	spotify:track:2ljvO8ZpKFMT3HXwCjW4Yw
+not that inna you	cookii	not that inna you	spotify:track:0G4pHIru6ICLiqjo3QPdzq
+U & I	Pepe Pecas	U & I	spotify:track:3xjm6jkIzksoTxle3mgQsI
 go white boy go	saturn	go white boy go	spotify:track:6RZrdPiUXNBC9ENt1mca2O
 Fatal	Pitfall	Fatal	spotify:track:021Rhrsf6wCPAONboIQl2U
+Thos Moser	Gupi, Fraxiom, food house	None	spotify:track:6pe1T2thmWds9hPq67Xv74
+redeyes	aldn, glaive	redeyes	spotify:track:0K6uoThGKsRQVvnK6bJ8rL
+Hot Pink	Let's Eat Grandma	I'm All Ears	spotify:track:59rdoga3q8OVCR5WnSGVM8
+SWEETSWEETSWEETLIKEBUBBLEGUM	six impala	SWEETSWEETSWEETLIKEBUBBLEGUM	spotify:track:01VLcMErDScLDOBT0NQ035
+Imgonnagetmyrevenge	d0llywood1, Alice Gas, blackwinterwells, 8485	Imgonnagetmyrevenge	spotify:track:5X3NLqODCmjLmsGTzB3gks
+Beautiful Superstar	A. G. Cook	Beautiful Superstar	spotify:track:7y31z2opHEoqxEiHK0RTRn
+i dont want that many friends in the first place	p4rkr	i dont want that many friends in the first place	spotify:track:2ayE3eeIsWpmuSFdeyFlVe
+LITTLE NOKIA	Bree Runway	LITTLE NOKIA	spotify:track:0WnSxBQ7OuwHc1nFqtqMni
+A.D.H.D. - Alice Gas Remix	Cowgirl Clue, Alice Gas	Icebreaker Remixes	spotify:track:64xfimARokOanwwDr38EpM
+GO FAST BABY - Mura Masa Remix	Raissa, Mura Masa	GO FAST BABY (Mura Masa Remix)	spotify:track:77kwUrhZW5cdteY1tKKXju
 Tainted - Count Baldor Remix	Cowgirl Clue, Count Baldor	Icebreaker Remixes	spotify:track:3JZj8VoeIQ0zhfdQSjRWUp
-toothless	100 gecs	1000 gecs and The Tree of Clues	spotify:track:4u2jCma9zHR59lfKxBIOoy
+Blame!	EXODUS1900	Blame!	spotify:track:4AvjXe9wzqQXEYR9RN5qNa
 take loop	blackwinterwells	take loop	spotify:track:5YlSM6ZWbzCfigJzZdcPNU
+grinning	saturn, oaf1	grinning	spotify:track:7Bcov4ktc7cLnIo7cbKiZw
 Monopoly	EASYFUN, Noonie Bao	Monopoly	spotify:track:7bzGIvAl75rZB20O9t5a5Z
-Salt Licorice (with Robyn)	Jónsi, Robyn	Shiver	spotify:track:5YwlMbMkYLSZ82Y8XOKfDF
+Edgelord (feat. Rebecca Black)	Dorian Electra, Rebecca Black	Edgelord (feat. Rebecca Black)	spotify:track:7zBg4D54nRnWYiujlR6FKe
 bad idea	p4rkr, blackwinterwells	bad idea	spotify:track:4U0VPz4nbsMXqoLLvXNbsv
 Sick Duck	XIX	Sick Duck	spotify:track:7AYm98xV9UJiQYlENdO2dq
-if you make music .. stop it	High Zoey, Fraxiom	if you make music .. stop it	spotify:track:05Am6HJ1KDkb6J7V4YnS8T
+EURO PLUG	Tony Velour, Dylan Brady	EURO PLUG	spotify:track:2ufW8qoeh5qFqjqbJHlpin
 ride	food house, Gupi, Fraxiom	ride	spotify:track:4W4OEjGrfd7kB4u30wYF5W
-GO FAST BABY - Mura Masa Remix	Raissa, Mura Masa	GO FAST BABY (Mura Masa Remix)	spotify:track:77kwUrhZW5cdteY1tKKXju
 u watch my every single move	p4rkr	u watch my every single move	spotify:track:3oowcczSv3Gductl7SlbWQ
 coca-cola	cookii	coca-cola	spotify:track:1Z6WO5ZPAhXsQcER3rkl1U
-LITTLE NOKIA	Bree Runway	LITTLE NOKIA	spotify:track:0WnSxBQ7OuwHc1nFqtqMni
-Play Odds	Golin	Play Odds	spotify:track:0fWPB9f8KcQMr2m07r5avi
 3310	Sega Bodega	Ess B	spotify:track:1vxK7sEWuAqmoAOBfUWz7S
-Edgelord (feat. Rebecca Black)	Dorian Electra, Rebecca Black	Edgelord (feat. Rebecca Black)	spotify:track:7zBg4D54nRnWYiujlR6FKe
+Stuck Up	kasper gem	Stuck Up	spotify:track:2PcGdvIzl8lXTwvP1oRcC8
 Past Life Reaction	phonewifey, Black Chanel	Phoneveryone	spotify:track:1pO9iLTIbhmwTN2xz17w3R
-A.D.H.D. - Alice Gas Remix	Cowgirl Clue, Alice Gas	Icebreaker Remixes	spotify:track:64xfimARokOanwwDr38EpM
 Sister's Blade	Zora Jones	Ten Billion Angels	spotify:track:63QcKVZNY0y2omzOrvuuVG
-EURO PLUG	Tony Velour, Dylan Brady	EURO PLUG	spotify:track:2ufW8qoeh5qFqjqbJHlpin
 rain	kurtains	rain	spotify:track:5JrAqTj1E510Fv5ZkpvnnD
-Cyan Hardcore	Machine Girl	RePorpoised Phantasies	spotify:track:5DbCXRs5PXXDgFrsdzjGDg
-Imgonnagetmyrevenge	d0llywood1, Alice Gas, blackwinterwells, 8485	Imgonnagetmyrevenge	spotify:track:5X3NLqODCmjLmsGTzB3gks
 Iced Out (Slowed)	RILEY THE MUSICIAN	Iced Out	spotify:track:6vFQfiFZJtQY3xLJZI2Zbv
-SWEETSWEETSWEETLIKEBUBBLEGUM	six impala	SWEETSWEETSWEETLIKEBUBBLEGUM	spotify:track:01VLcMErDScLDOBT0NQ035
-xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]	100 gecs, Tommy Cash, Hannah Diamond	1000 gecs and The Tree of Clues	spotify:track:3bz4WlzYw6XatcaTIh0zGX
+sauceintherough - bonus track	brakence	punk2	spotify:track:7HJIsMRaspjB0Dvi2qzOgp
 CYBERPUNK 2.0.2.0.	HEALTH	CYBERPUNK 2.0.2.0.	spotify:track:2z2VjbY2PFhz2BPyDLqYfk
 ihonestlymightjustgiveup	d0llywood1	ihonestlymightjustgiveup	spotify:track:6AGhG5sCxbepvyjFilAVHq
-5W3375W3375W337L1K3BUBBL36UM	six impala	WFLYTD NIGHTCORE	spotify:track:4IBlKJ1bk8DaUHG5h7OrgN
 BiG KIDS	FROMTHEHEART, jedwill1999, RILEY THE MUSICIAN	"things happen, it's okay!"	spotify:track:1BGlxFaf5046dWAxe7pRve
 FREAK	Shygirl	FREAK	spotify:track:1xCMyuxOhuxpndBtKLwCHI
 Not Enough	Pritty	Not Enough	spotify:track:663dTAlkLbA51yPkn1ZbFN
-i dont want that many friends in the first place	p4rkr	i dont want that many friends in the first place	spotify:track:2ayE3eeIsWpmuSFdeyFlVe
-sticks & stones	p4rkr	sticks & stones	spotify:track:04B8G97SPc0u69V8ZJa4Ry
 love yourself (spend forever)	cookii	love yourself (spend forever)	spotify:track:0N8J0yN9w2v5voTfgTvfxt
-So Hot You're Hurting My Feelings - A. G. Cook Remix	Caroline Polachek, A. G. Cook	So Hot You're Hurting My Feelings (A. G. Cook Remix)	spotify:track:682y3Lfn64Uq6y7xOMdXPx
 NEVER MET!	Cmten, Glitch Gum	NEVER MET!	spotify:track:7nJWotqUUPhVaCAOov6qGp
 4real	8485, Petal Supply, umru	4real	spotify:track:7rR1VHWnjin0e1zEtFlz6C
-True North	Ninajirachi, Kota Banks	True North	spotify:track:4tByIE0QI9BlOFzumdzTXf
 money machine	100 gecs, Laura Les, Dylan Brady	1000 gecs	spotify:track:61bwFjzXGG1x2aZsANdLyl
 paranoid!	lando!, blackwinterwells	paranoid!	spotify:track:7nG7bMpUu8fXvgAiGKnNfJ
 Everyday, Everynight	Anamanaguchi, Planet 1999	Everyday, Everynight	spotify:track:1y8gkgl4Ck7Yh6Ypsadtj9
 claws	Charli XCX	how i'm feeling now	spotify:track:7Dexi5Z2IowCkHrnzlWysc
 Idk Bettr..	5v	Idk Bettr..	spotify:track:7pAvXTUByINHEDou4n2ilx
 Iced out Boomer	phonewifey, Roma Radz	Phoneveryone	spotify:track:41BlSkt7YFlTE6527upcRR
-M'Lady	Dorian Electra	M'Lady	spotify:track:4zlRX8ph4uK1WGPQbqIRfj
-Make It Real	afternoon, 8485	Make It Real (afternoon remix)	spotify:track:0taYHeF3NeKVeMcBbwGcjx
-Love Addict	Forevrboy, Gweilo Ghost	Love Addict	spotify:track:1bzw2fzaM6krwGDfE7PJq7
+Make It Real	afternoon, Petal Supply, 8485	Make It Real (afternoon remix)	spotify:track:0taYHeF3NeKVeMcBbwGcjx
 Isolation Anxiety	Simba Andrews	Isolation Anxiety	spotify:track:4cA0scAQKZSG0G4GJw3EAc
 IRIS	blackwinterwells	IRIS	spotify:track:337H7R2AWIlI9s7M4ugelQ
 Rich Bitch Juice - Laura Les Remix	Alice Longyu Gao, Laura Les	Rich Bitch Juice (Remixes)	spotify:track:0hfjiQ13PQ4TcHOXyi1NWx
-grinning	saturn, oaf1	grinning	spotify:track:7Bcov4ktc7cLnIo7cbKiZw
 dirt	grandee, blackwinterwells	dirt	spotify:track:1cgxPA4PJxRfs6lytahD8S
-2021	A. G. Cook	7G	spotify:track:6wJvvuAKqrPbXYlO6iqgJ2
-nt22	pandi, Qioh, Kasim Rizvi	nt22	spotify:track:7rUZE8YFP5QSgQGcdmKtyV
 pissed	glaive	pissed	spotify:track:5KXYsV0p2xWQCjXizedRpt
+H8R	Madge	H8R	spotify:track:3cowlJ4DjtFnWUgg6NDk9Q
 24 Hours - Danny L Harle Remix	Georgia, Danny L Harle	24 Hours (Danny L Harle Remix)	spotify:track:28lvHChtes6fF6pEeq8rfF
 !holyshitohmygod!	Brevin Kim	Manzanita St. / !holyshitohmygod!	spotify:track:1g4MzzjfEXfWMYm3ps5KrI
 Oh Yeah	A. G. Cook	Oh Yeah	spotify:track:13GEGNhXpm5FyHlvBvoqBF
@@ -264,7 +289,6 @@ KLK	Arca, ROSALÍA	KLK	spotify:track:6N1rVxZ2pYKDcDOj5x5XhQ
 What About Us	Casey MQ	babycasey	spotify:track:3GZ99RzKor2skZpXCR2jfm
 Scared to Go Home	Mindchatter	Scared to Go Home	spotify:track:5gXLhbWoo01qNyGois2Doc
 clover	glaive	clover	spotify:track:3SX8R8RVB2MSLzfIEsa3Bh
-Crazy About Me	Tama Gucci	Crazy About Me	spotify:track:4ywsU7b2nny5OVn1BEBnYl
 scawy monstews and nice spwites :3	Fraxiom	scawy monstews and nice spwites :3	spotify:track:6gSBiLOteoM05jq6KCrj6O
 jasmine	andy polk	phantom	spotify:track:0cs903G1XWnNZmWEY10GyU
 Do or Die	Tony Velour	Vices Hurt	spotify:track:7CpJ2BbkQOTh3aBN5H61pZ
@@ -273,24 +297,19 @@ Toy Car	six impala	WFLYTD	spotify:track:2l46WbxHBP34NUbmHDFFyZ
 Quarantine Rly Sucks	Alice Longyu Gao	Quarantine Rly Sucks	spotify:track:3RF2UQXjo6IcIUzdNwoWb5
 sad girls club but u gotta be cute - AmPm x FUNTYME Remix	twst, AmPm, FUNTYME	sad girls club but u gotta be cute (AmPm x FUNTYME Remix)	spotify:track:03zNvGofB9wNSM8R7OwhE9
 ISH	Zebra Katz	LESS IS MOOR	spotify:track:0Z8ZVUXIETH7Py54vXBoFw
-Gentleman	Dorian Electra	Gentleman	spotify:track:68dGNe3b76NFjSr7ukBLEn
 lets go bitch	recovery girl, galen tipton	recovery girl (deluxe edition)	spotify:track:3ahdEGiKa3Fn5bZfTO4813
-H8R	Madge	H8R	spotify:track:3cowlJ4DjtFnWUgg6NDk9Q
 Sorry Bro (I Love You)	Dorian Electra	Sorry Bro (I Love You)	spotify:track:1YLPyptvT9Cbr6HV3Cfv0l
 Western Union	Ecco2k, Thaiboy Digital, Bladee	Trash Island	spotify:track:4BZYq5y27t9l02IyLElK6V
 All the Things She Said - Nightcore Edit	DJ Gollum, Scarlet	Nightcore, Vol. 2	spotify:track:3JXW7y7DAtseN6deHJMJDk
 Cry (feat. Grimes)	Ashnikko, Grimes	Cry (feat. Grimes)	spotify:track:0w1Wd17IygSVDMOZtKm4hi
 Paranoid	Alice Gas	Paranoid	spotify:track:5CsZsGlmbvSBJqilcODxVs
-gecgecgec (Remix) [feat. Lil West and Tony Velour]	100 gecs, Lil West, Tony Velour	1000 gecs and The Tree of Clues	spotify:track:6dLAFNEb2ufM0OjhPpMbFY
 Violence - Original Mix	Grimes, i_o	Miss Anthropocene (Deluxe Edition)	spotify:track:31XtwSNrnxzSPlt2k6pAc6
 give loop	blackwinterwells, 8485	give loop	spotify:track:1Yh40kooeD3tf76ueT5xMC
 When I Rule the World	LIZ	When I Rule the World	spotify:track:7nu0Lc0jJltztDxsGeoPiG
 2much	Petal Supply	2much	spotify:track:3Cy5Dua2zVvH8YvJ5ORILo
 Girls just want to have fun	Bladee, Ecco2k	Girls just want to have fun	spotify:track:16aNHWdWoO9zobj4lqAoWV
-sauceintherough - bonus track	brakence	punk2	spotify:track:7HJIsMRaspjB0Dvi2qzOgp
 Never Thought	Danny Sunshine	Never Thought	spotify:track:1leW0BPNE0w6tiONEM3ZRY
 Romeo	Madge	Romeo	spotify:track:6pZqybYHNV14l6PcUWpSTk
-anthems	Charli XCX	how i'm feeling now	spotify:track:2ljvO8ZpKFMT3HXwCjW4Yw
 jack my style	andy polk	jack my style	spotify:track:5yEQfeZ4cFkKQ7mzhDURbw
 hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]	100 gecs, Fall Out Boy, Craig Owens, Nicole Dollanganger	1000 gecs and The Tree of Clues	spotify:track:5Mm2CJzNRiICC5MWRWQnBo
 i need water	Brevin Kim	i need water / he doesn't love her	spotify:track:0BOjKPAcyccduaW8jTpBSC
@@ -298,7 +317,6 @@ Voices	Flume, SOPHIE, KUČKA	Hi This Is Flume (Mixtape)	spotify:track:3Xuhi20r1A
 Watch Me	The Pom-Poms	The Pom-Poms	spotify:track:26nkRghL4ROI2GdxjJ2ZQG
 TELEPHONE LINE 415	underscores	character development!	spotify:track:192nl5phiB511YsrUNpJJE
 devil cry	whitetrash, kurtains	devil cry	spotify:track:0WgQN8BjKkvEK4lNfDdKpa
-Got My Number	Kim Petras	Clarity	spotify:track:10pb48uTPwADEC9yb7j2ty
 Ferrari	Alice Gas	Sorry 4 Being Famous	spotify:track:3FBFNfU6xesxH5Fwk5eXSM
 forever	Charli XCX	how i'm feeling now	spotify:track:5GsJIVCBFjhCcUwJaTW2sB
 cortisol	Folie	cortisol / ragoon	spotify:track:1rSdlkaYyJC3tssEr791ve
@@ -311,7 +329,6 @@ Immaterial	SOPHIE	OIL OF EVERY PEARL'S UN-INSIDES	spotify:track:6GoLARmR2OZl2Eld
 Fade Away	Hannah Diamond	Reflections	spotify:track:5w6wMKwRH8OUCHap7OqyD6
 bloodstains	100 gecs	100 gecs	spotify:track:1j581GCDFQ9P8xd6fyjgLt
 Hey QT	QT	Hey QT	spotify:track:5e7uwXMt0ztC3CeZNeMBMU
-Thos Moser	Gupi, Fraxiom, food house	None	spotify:track:6pe1T2thmWds9hPq67Xv74
 Drown U	Iglooghost, Kai Whiston, BABii	XYZ	spotify:track:5Qorbb9mOtPHu0adPY2Znz
 EXOTIC	Kid Trash	#KIDTRASHETERNAL	spotify:track:6JdnYtBt9Sm7JhH9OJVLvJ
 goblin ?	Wido	goblin ?	spotify:track:53bEas0AlOSbukjlS4sitB
@@ -320,10 +337,8 @@ Teeter-Totter	Nömak, Araatan	Teeter-Totter - Single	spotify:track:55F3YRFtJpTcd
 Simple Blade (Shubu Remix)	Majetic, Shubu	Clurb Dead	spotify:track:525Q4MNbGPGG18A5fZBVYu
 hand crushed by a mallet	100 gecs, Laura Les, Dylan Brady	1000 gecs	spotify:track:7CUkeiG7QtB7tPU9f8SANS
 I LET YOU	Tama Gucci, X-COAST	I LET YOU	spotify:track:3xDy0puIWGtWqdtIdaZMYN
-Hot Pink	Let's Eat Grandma	I'm All Ears	spotify:track:59rdoga3q8OVCR5WnSGVM8
 Take U There	Jasper Lotti	XOskeleton	spotify:track:4GaaE1P5f2GKQ1OsulZgqc
 Run Fast	Billy Lemos, JJ	Run Fast	spotify:track:1ErIa5ymCTUVIo7xKaXjgm
-Khaos x4	Poppy	Khaos x4	spotify:track:6ESVu8RzzdKl2GZiMNUKQY
 Yoga	645AR	Yoga	spotify:track:2DiybJZJGXyV1UYmngo3eq
 Raising Hell	Sega Bodega	Salvador	spotify:track:5q9F2CNzrrNQMM7l62S2c6
 
@@ -807,6 +822,49 @@ Mama, You Can Bet!	Jyoti, Georgia Anne Muldrow	Mama, You Can Bet!	spotify:track:
 It'll All Be Over	Supreme Jubilees	Good God! Apocryphal Hymns	spotify:track:2B1uvI5uBgni1VBsQRljma
 Radar Detector	Theo Parrish	Wuddaji	spotify:track:1rMc6JsBrfyLx2wgZGofcK
 Memory Band	Rotary Connection	Best Of Rotary Connection	spotify:track:7FQrZp06cw0bGw0RdrQZSu
+Dolphin Dream	Larry Heard	Sceneries Not Songs, Volume 1	spotify:track:1HHkh06OOMydQcidK2Fjb0
+Dribble	Mary Lake	Carista presents Modern Intimacy Volume 1	spotify:track:38F6MEhxVBlfwHII8PjFWg
+Human	A Brief Encounter	Human	spotify:track:3wn1FxxNwEuB00AW96aZmX
+Catching A Wave	Steve & Teresa	Catching A Wave	spotify:track:6gdzgNX9Z67DzHB8fvqIza
+Sangoma	Yvonne Chaka Chaka	Sangoma	spotify:track:50FniBKM82VZeLob8Sa8AH
+Let's Make a Deal	Linda "Babe" Majika	Don't Treat Me So Bad	spotify:track:7x4M6XCzMkv6DqCgyXWN0Y
+Voyage	Arp Frique, Mariseya	Minina Bem Li	spotify:track:2Ny9IkHyAJzSaJBEYweXyp
+Carcara (The Vulture)	Zelia Barbosa	Brazil: Songs of Protest	spotify:track:2UUInYDuBXDFoLYgCp3dMn
+Never No More Lonely	Fingers Inc.	Another Side	spotify:track:3vvFD7Vd5gANTraXckJeuu
+Dancing Girl	Terry Callier	What Color Is Love	spotify:track:14wptXR2xsGAbmbsNwQkQD
+Oba, Lá Vem Ela	Jorge Ben Jor, Trio Mocoto	Força Bruta	spotify:track:6MCaOLDl0epJPRN76H5S4N
+Agabory	Alex Attias & Sidi Touré	Agabory	spotify:track:7D9pxtD8I7gFpZp3vGa3n3
+Morning Factory	Chez Damier, Ron Trent	Word, Sound & Power	spotify:track:2ITZTYyGgFvuHddPguVMmv
+Quarantena	Tenderlonious	Quarantena	spotify:track:5ctLmNY2f9ZzHXdg4qLTsM
+Aspects	STR4TA	Aspects	spotify:track:0kRTDQFO908LvJdbPIQkTf
+Spending Week - Oceanic 'Cornucopia' Remix	Jungle By Night, Oceanic	The Livingstone Remix EP	spotify:track:0ybgMGb8ECxsehugM0DNZk
+Riffittelyä I	Cucina Povera, Haron	Plafond 6	spotify:track:13gar2mQlQKlVG2dsHyC2C
+Piano & Violoncello 1	Irena And Vojtech Havlovi	Like Butterfly On Your Palm	spotify:track:7ILJBfImlRWUV8K58R0nZl
+Closer To The Sun - Laroye, Abi Flynn & Ben Hadwen Remix	Pegasvs, Laroye, Ben Hadwen, Abi Flynn	Closer To The Sun	spotify:track:1JNBI0RpzJV8hoaqucomVE
+Trip on New Shores	Reuben Vaun Smith	Warm Nights	spotify:track:5Tf53cnRvqn55n3Wcv37JJ
+Hard To Leave The Island	Margaret Wakeley	Hard To Leave The Island / So Hard To Be Away	spotify:track:6gRA3xcSzFx5ZWXBVULI9l
+Awake in the Rain	Kutiman	Wachaga	spotify:track:5rOk79zojh76gqrxTRaoFK
+We Are Starzz	Angel Bat Dawid	The Oracle	spotify:track:3eQvxujHuNiBi1APjqy12u
+Do It Properly	The Twilite Tone	The Clearing	spotify:track:73w40UV8c87XNBGzQCZzDw
+Lavoura	Germannu	Germannu	spotify:track:16UXSqeaeHGhXsc0ZvZ6q6
+Com Você Sou	Bebeto	RCA 100 Anos De Música - Bebeto	spotify:track:0fYbVKILryoCZUOq7KKFT6
+Love Is the Harmony	Sauce81, Ben Hadwen	I Wanna Show You EP	spotify:track:5rIsUy7kpDXFkXv6C7jHtY
+Voyage (Radio Edit)	Arp Frique, Mariseya	Voyage (Radio Edit)	spotify:track:42ClcRjiwxgxsNTdgOzcUN
+Evolution, Pt. 2	Benjamin Jephta Quintet	New Horizons: Young Stars of South African Jazz	spotify:track:05xD3UQ1iQy6KnphFvFUeY
+Fezile	Bokani Dyer Trio	New Horizons: Young Stars of South African Jazz	spotify:track:6GSNgz42jw2NGZ81uhKttG
+We're Running out of Time	Oscar Weathers	We're Running out of Time / Countdown	spotify:track:0m2AkCeTiVR8MhSM4cmgfS
+Nos Magia	Arp Frique, Americo Brito	Welcome To The Colorful World Of Arp Frique	spotify:track:3GgOexrjNxpgfevOirYrAS
+Taxi Cab Confessions	The Twilite Tone	The Clearing	spotify:track:0zkcivItsR0JGbphLb1yfG
+Flowers	Andrew Ashong, Theo Parrish	Flowers	spotify:track:3jYzcHvW4k6Lrfm6fj87Rn
+Missing You	Larry Heard	Genesis	spotify:track:1b6iU8nzAEdugEbUIrCALC
+Rude Movements - Moodymann Remix	SunPalace, Moodymann	Rude Movements (Moodyman Remix / Kenny Dope Dancefloor Powder Remix)	spotify:track:470zVuyhWSOX7Ww1FjkueJ
+Don 't Try It	Ron Trent, Chez Damier	Word, Sound & Power	spotify:track:6G13NFcXpWYb7iRT2ruBzk
+Israelee Night Falls	Glenn Underground	Atmosfear	spotify:track:23NeFMpPqkd5aRsIFGzFtG
+Let Me Be Me	The Other People Place	Lifestyles Of The Laptop Café	spotify:track:47zkCLr3a9kM4wGNEbiJzh
+Can You Feel It (Instrumental)	Mr. Fingers	Mr. Fingers	spotify:track:705N7VnxFmWBMQIzbar34U
+HEARTBEAT	COLORED MUSIC	カラード・ミュージック	spotify:track:0HwKDR64l8QZhWx6R7lhPg
+Ribeirão	Rodrigo Campos	Bahia Fantástica	spotify:track:0GNaZNiIc9IEuluyFbGhu1
+Love and Hate in a Different Time	Gabriels	Love and Hate in a Different Time	spotify:track:6pLx6wDqtDDkTpY4tcOQjB
 
 Early Alternative
 Cherry-coloured Funk	Cocteau Twins	Heaven Or Las Vegas (Remastered)	spotify:track:6sVQNUvcVFTXvlk3ec0ngd
@@ -814,76 +872,76 @@ Autumn Sweater	Yo La Tengo	I Can Hear The Heart Beating As One	spotify:track:4R7
 Age of Consent - 2015 Remaster	New Order	Power Corruption and Lies	spotify:track:2EEinN4Zk8MUv4OQuLsTBj
 Anemone	The Brian Jonestown Massacre	Their Satanic Majesties' Second Request	spotify:track:3aKYOA44zbBRWJ8FqzwAt9
 Vitamin C - 2004 Remastered Version	CAN	Ege Bamyasi (Remastered Version)	spotify:track:1tzXnPndBrd2G5GXrOBc1c
-Alison	Slowdive	Souvlaki	spotify:track:2W70vgf87uyNB2XRpRDEES
+I Was Dancing In The Lesbian Bar	Jonathan Richman	I, Jonathan	spotify:track:2UayKZmrsYyjNj6T8frugJ
+Alison	Slowdive	Souvlaki	spotify:track:33HRECrmuelZxOpid6XTNX
+Carry the Zero	Built To Spill	Keep It Like A Secret	spotify:track:3HMOMdRPywfouYx5B4PvaH
+Disorder - 2007 Remaster	Joy Division	Unknown Pleasures	spotify:track:38wCbVfMreML5ZhF5iQuKA
+Gold Soundz	Pavement	Crooked Rain, Crooked Rain	spotify:track:13YxuRQZdU7snOfDI3nft2
 Rip It Up	Orange Juice	Rip It Up	spotify:track:1eamsmwcYYhJwTgMFdQ6YN
 Just Like Honey	The Jesus and Mary Chain	Psychocandy (Expanded Version)	spotify:track:1LwP9g1Hjbs64jXM2Qsxry
-Disorder - 2007 Remaster	Joy Division	Unknown Pleasures	spotify:track:38wCbVfMreML5ZhF5iQuKA
-Carry the Zero	Built To Spill	Keep It Like A Secret	spotify:track:3HMOMdRPywfouYx5B4PvaH
-Androgynous	The Replacements	Let It Be (Expanded)	spotify:track:3fnL2JDgy4QD04araOl0eY
-Birthday	The Sugarcubes	Life's Too Good	spotify:track:55MEbqyxZphjB0beZ7YT0f
-I Was Dancing In The Lesbian Bar	Jonathan Richman	I, Jonathan	spotify:track:2UayKZmrsYyjNj6T8frugJ
 Cosmic Dancer	T. Rex	Electric Warrior	spotify:track:0Z2fQ0Avroujey7uTEmMTP
-Gold Soundz	Pavement	Crooked Rain, Crooked Rain	spotify:track:13YxuRQZdU7snOfDI3nft2
+Androgynous	The Replacements	Let It Be (Expanded)	spotify:track:3fnL2JDgy4QD04araOl0eY
 When You Sleep	My Bloody Valentine	Loveless	spotify:track:3HfEgAaf0koxBpBB8NvGda
-Marquee Moon - Remastered	Television	Marquee Moon/Adventure/Live At The Waldorf [The Complete Elektra Recordings Plus Liner Notes]	spotify:track:3MWdMCAIFPzcIUdiEi8Pao
+Birthday	The Sugarcubes	Life's Too Good	spotify:track:55MEbqyxZphjB0beZ7YT0f
+Hey	Pixies	Doolittle	spotify:track:2Aqc48sn8He26hmTvQ2BMj
 Damaged Goods - Remastered	Gang Of Four	Entertainment! (Expanded & Remastered) [US Release]	spotify:track:2iQvYaOlUcuVgczMtRvAcV
 Deceptacon	Le Tigre	Le Tigre	spotify:track:3PVRSOQ57O3LO6HCAPkbfY
-I Wanna Be Adored - Remastered	The Stone Roses	The Stone Roses	spotify:track:758wEKVqfYopJIHYWdLVd4
-Hey	Pixies	Doolittle	spotify:track:2Aqc48sn8He26hmTvQ2BMj
-Cheree - 1998 Remastered Version	Suicide	Suicide (1998 Remastered Version)	spotify:track:3RH28o7i7Ly4c7yEEPH4Zq
-If You Need Someone	The Field Mice	Coastal	spotify:track:76UnqLEbklk07LOjmv6Pma
 Paris 1919	John Cale	Paris 1919	spotify:track:7sF2KOkDLXNDAiUXpWP8aR
-Nothing To Be Done	The Pastels	Truckload Of Trouble	spotify:track:4vReegUzNPc2t06jJKgieU
-Only Shallow	My Bloody Valentine	Loveless	spotify:track:52UcjsM15hjCQAUbTW2hy1
-The Killing Moon	Echo & the Bunnymen	Songs To Learn And Sing	spotify:track:15049rGLXHwrWtE4euUb5C
-The Boy With The Perpetual Nervousness	The Feelies	Crazy Rhythms	spotify:track:2EYVK2tcz2AIOcs87BhwyR
-Love Will Tear Us Apart - 2010 Remaster	Joy Division	Substance	spotify:track:1r8oPEXqnhUVgkUkJNqEuF
-Teen Age Riot (Album Version)	Sonic Youth	Daydream Nation (Deluxe Edition)	spotify:track:0WIbzDVEpmOyBnqqdtqIL9
-Indian Summer	Beat Happening	Jamboree	spotify:track:0MPsh65qp5QJdcENUNBDZq
-Fade Into You	Mazzy Star	So Tonight That I Might See	spotify:track:1LzNfuep1bnAUR9skqdHCK
-Rock & Roll	The Velvet Underground	Loaded: The Fully Loaded Edition	spotify:track:6zICqQ6f7w1sF0FYqQleUl
-Genius of Love	Tom Tom Club	Tom Tom Club	spotify:track:6UBQONiLH8kNmmB8UrV2Ef
-Lola	The Raincoats	The Raincoats	spotify:track:17GMg1ZyQJtm3HkXQFZ31f
-Roadrunner	The Modern Lovers	The Modern Lovers	spotify:track:5E5HYgxGMp3BPakHGfKfIB
-Cavern	Liquid Liquid	Liquid Liquid	spotify:track:37wuwV4Y7v2e3kLyvt2fAI
-There Is a Light That Never Goes Out - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:0WQiDwKJclirSYG9v5tayI
-Bela Lugosi's Dead (Official Version)	Bauhaus	The Bela Session	spotify:track:7q5n3kuNbHCWx6LZOY1Z0r
-That's When I Reach For My Revolver	Mission Of Burma	Signals, Calls and Marches	spotify:track:5QAQxxN163HxD1uU0BrMYM
+Marquee Moon - Remastered	Television	Marquee Moon/Adventure/Live At The Waldorf [The Complete Elektra Recordings Plus Liner Notes]	spotify:track:3MWdMCAIFPzcIUdiEi8Pao
 Oscillations	Silver Apples	Silver Apples	spotify:track:1r5Sio50UmqBG42gt2EKYx
+Cheree - 1998 Remastered Version	Suicide	Suicide (1998 Remastered Version)	spotify:track:3RH28o7i7Ly4c7yEEPH4Zq
+Only Shallow	My Bloody Valentine	Loveless	spotify:track:52UcjsM15hjCQAUbTW2hy1
+The Boy With The Perpetual Nervousness	The Feelies	Crazy Rhythms	spotify:track:2EYVK2tcz2AIOcs87BhwyR
+I Wanna Be Adored - Remastered	The Stone Roses	The Stone Roses	spotify:track:758wEKVqfYopJIHYWdLVd4
+Teen Age Riot (Album Version)	Sonic Youth	Daydream Nation (Deluxe Edition)	spotify:track:0WIbzDVEpmOyBnqqdtqIL9
+Bela Lugosi's Dead (Official Version)	Bauhaus	The Bela Session	spotify:track:7q5n3kuNbHCWx6LZOY1Z0r
+Nothing To Be Done	The Pastels	Truckload Of Trouble	spotify:track:4vReegUzNPc2t06jJKgieU
+Genius of Love	Tom Tom Club	Tom Tom Club	spotify:track:6UBQONiLH8kNmmB8UrV2Ef
+The Killing Moon	Echo & the Bunnymen	Songs To Learn And Sing	spotify:track:15049rGLXHwrWtE4euUb5C
+Lola	The Raincoats	The Raincoats	spotify:track:17GMg1ZyQJtm3HkXQFZ31f
+Rock & Roll	The Velvet Underground	Loaded: The Fully Loaded Edition	spotify:track:6zICqQ6f7w1sF0FYqQleUl
+Indian Summer	Beat Happening	Jamboree	spotify:track:0MPsh65qp5QJdcENUNBDZq
+Love Will Tear Us Apart - 2010 Remaster	Joy Division	Substance	spotify:track:1r8oPEXqnhUVgkUkJNqEuF
+If You Need Someone	The Field Mice	Coastal	spotify:track:76UnqLEbklk07LOjmv6Pma
 Cut Your Hair (Remastered)	Pavement	Quarantine The Past: The Best Of Pavement	spotify:track:5nG6XQckfjnPkDyxDGDFFV
-Sweet Jane	The Velvet Underground	The Very Best Of The Velvet Underground	spotify:track:4Xne0YjYaY1MtP74svE08d
+Fade Into You	Mazzy Star	So Tonight That I Might See	spotify:track:1LzNfuep1bnAUR9skqdHCK
+Roadrunner	The Modern Lovers	The Modern Lovers	spotify:track:5E5HYgxGMp3BPakHGfKfIB
 Waiting Room	Fugazi	13 Songs	spotify:track:5FFowl1Ve4S5OehL6OywSg
-Feel The Pain - 2007 Remastered	Dinosaur Jr.	Without A Sound	spotify:track:3NLUIBHlfnMVk81BgxFr42
+Cavern	Liquid Liquid	Liquid Liquid	spotify:track:37wuwV4Y7v2e3kLyvt2fAI
+Sweet Jane	The Velvet Underground	The Very Best Of The Velvet Underground	spotify:track:4Xne0YjYaY1MtP74svE08d
+That's When I Reach For My Revolver	Mission Of Burma	Signals, Calls and Marches	spotify:track:5QAQxxN163HxD1uU0BrMYM
+There Is a Light That Never Goes Out - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:0WQiDwKJclirSYG9v5tayI
 Mind Your Own Business	Delta 5	Disco Not Disco Digital Edition	spotify:track:0E9kVNemhjlDCBUuGbiHfU
-Thirteen	Big Star	#1 Record/Radio City	spotify:track:14bdkfiD8UAYJalXKFwcwb
-How Soon Is Now? - 2008 Remaster	The Smiths	The Sound of the Smiths (Deluxe; 2008 Remaster)	spotify:track:5gXlabehojXdqcfFN8ncey
-Blue Monday	New Order	Power, Corruption & Lies [Collector's Edition]	spotify:track:6gv02BqPCsOQz5QQ4jnNOY
-Movin' on Up	Primal Scream	Screamadelica	spotify:track:5Vx3e9PipiEceifVyBzCdj
-Tour de France - 2009 Remaster	Kraftwerk	Tour de France (2009 Remaster)	spotify:track:5uNlgK7FEg6r9BGy12P9Sx
-Rid Of Me	PJ Harvey	Rid Of Me	spotify:track:3m2Zd230K68bC4Qe961d9p
-Here's Where The Story Ends	The Sundays	Reading, Writing & Arithmetic	spotify:track:4SPi5Pl7aAtauFsH9Lk5LB
+Feel The Pain - 2007 Remastered	Dinosaur Jr.	Without A Sound	spotify:track:3NLUIBHlfnMVk81BgxFr42
 Where Is My Mind?	Pixies	Death To The Pixies	spotify:track:5BP0oaQ1VhuaznT77CBXQp
-Start Choppin'	Dinosaur Jr.	Where You Been	spotify:track:7yThIhNzpgDBIGoL2y1y6u
 She Don't Use Jelly	The Flaming Lips	Transmissions From the Satellite Heart	spotify:track:1dJuteDIOkGfDSN7zPkzNv
 Ooh La La - 2015 Remaster	Faces	The Best of Faces: Good Boys When They're Asleep	spotify:track:6TNNMVpOgn8K5NoDC7alG6
-Heroin	The Velvet Underground, Nico	Gold	spotify:track:5wWvavjmqH3LpYKSgw9E92
-The Lovecats	The Cure	Greatest Hits	spotify:track:2gOaGuy7ZlfVDSnTfPkxpH
-Train in Vain (Stand by Me) - Remastered	The Clash	London Calling (Remastered)	spotify:track:6ITuEsxEy2qPhqMowdDAeI
-Fuck and Run	Liz Phair	Exile In Guyville	spotify:track:4MSdFtD1JPc2W3J13uJPeS
-Cannonball	The Breeders	Last Splash	spotify:track:2hjGuRIEfEGzQ5MEWLowiU
 Son Of A Gun	The Vaselines	Enter The Vaselines (Deluxe Edition)	spotify:track:5xDQhEvVjbMoy6ViNQxNeG
+Heroin	The Velvet Underground, Nico	Gold	spotify:track:5wWvavjmqH3LpYKSgw9E92
+Rid Of Me	PJ Harvey	Rid Of Me	spotify:track:3m2Zd230K68bC4Qe961d9p
+How Soon Is Now? - 2008 Remaster	The Smiths	The Sound of the Smiths (Deluxe; 2008 Remaster)	spotify:track:5gXlabehojXdqcfFN8ncey
+Blue Monday	New Order	Power, Corruption & Lies [Collector's Edition]	spotify:track:6gv02BqPCsOQz5QQ4jnNOY
+Thirteen	Big Star	#1 Record/Radio City	spotify:track:14bdkfiD8UAYJalXKFwcwb
+Movin' on Up	Primal Scream	Screamadelica	spotify:track:5Vx3e9PipiEceifVyBzCdj
+Tour de France - 2009 Remaster	Kraftwerk	Tour de France (2009 Remaster)	spotify:track:5uNlgK7FEg6r9BGy12P9Sx
+Train in Vain (Stand by Me) - Remastered	The Clash	London Calling (Remastered)	spotify:track:6ITuEsxEy2qPhqMowdDAeI
+Start Choppin'	Dinosaur Jr.	Where You Been	spotify:track:7yThIhNzpgDBIGoL2y1y6u
+Here's Where The Story Ends	The Sundays	Reading, Writing & Arithmetic	spotify:track:4SPi5Pl7aAtauFsH9Lk5LB
+Cannonball	The Breeders	Last Splash	spotify:track:2hjGuRIEfEGzQ5MEWLowiU
 Psycho Killer - 2005 Remaster	Talking Heads	Talking Heads '77 (Deluxe Version)	spotify:track:1i6N76fftMZhijOzFQ5ZtL
+Fuck and Run	Liz Phair	Exile In Guyville	spotify:track:4MSdFtD1JPc2W3J13uJPeS
+I Wanna Be Your Dog	The Stooges	The Stooges	spotify:track:672N8DGGTOLCOgWe0koX5g
+The Lovecats	The Cure	Greatest Hits	spotify:track:2gOaGuy7ZlfVDSnTfPkxpH
+Walk on the Wild Side	Lou Reed	Transformer	spotify:track:0EFEkt29P7Icr7dO4vN6yk
 Love Is The Drug	Roxy Music	Roxy Music Collection	spotify:track:34Rt8Ti2OAsA8s39rLgyML
 Wuthering Heights	Kate Bush	The Kick Inside	spotify:track:5YSI1311X8t31PBjkBG4CZ
+Buena	Morphine	Cure For Pain	spotify:track:2SSBJhvMsujY94GK5JAtKs
 Rise	Public Image Ltd.	Public Image Ltd.	spotify:track:6u91CCTziobh3twCDMBlEk
 Common People	Pulp	Different Class	spotify:track:2fXKyAyPrEa24c6PJyqznF
-Walk on the Wild Side	Lou Reed	Transformer	spotify:track:0EFEkt29P7Icr7dO4vN6yk
-I Wanna Be Your Dog	The Stooges	The Stooges	spotify:track:672N8DGGTOLCOgWe0koX5g
-Buena	Morphine	Cure For Pain	spotify:track:2SSBJhvMsujY94GK5JAtKs
-Pretty in Pink	The Psychedelic Furs	The Psychedelic Furs Superhits	spotify:track:1Cl1J4Ai7NkuhLdaDHthTh
 Girls and Boys	Blur	Blur: The Best Of	spotify:track:5CeL9C3bsoe4yzYS1Qz8cw
 Blister in the Sun - 2002 Remastered Version	Violent Femmes	Violent Femmes	spotify:track:5TM2eqdzfWPHklI7YnBmsD
-The Passenger	Siouxsie and the Banshees	Through The Looking Glass (Remastered And Expanded)	spotify:track:6EZDbjz2X5XzgIZCtbsrXh
+Pretty in Pink	The Psychedelic Furs	The Psychedelic Furs Superhits	spotify:track:1Cl1J4Ai7NkuhLdaDHthTh
+Perfect Day	Lou Reed	Transformer	spotify:track:4TOMI010Sd4ZAX4aZ5TS85
 
 Super Spirit by Laura Groves
 Dreamboat	Joviale	Crisis	spotify:track:28mCfTE4TbpZgdvqcbhGrP
@@ -1875,41 +1933,45 @@ Cityscapes	Tim Reaper	Cityscapes	spotify:track:5ltZMi5uaohSZ2JUGgBETR
 Sequence 2	Tim Reaper	Cityscapes	spotify:track:6ktNM5qwZtfe7esd2lEX7S
 Make It Real	Tim Reaper	Cityscapes	spotify:track:6bXZvlK3dfU3s0GMMkFv0L
 (I Can) Feel It	Tim Reaper	Cityscapes	spotify:track:6qIKiD505Xbs00gqD4e5id
+Flight Six Six Six	Coco Bryce	Deep into the Jungle	spotify:track:2ObvRdBmrIEFU0ElDOp2YL
+Vegan Library	Coco Bryce	Deep into the Jungle	spotify:track:050Aq5jF4tBZ6iNcWmpIs9
+Deep into the Jungle	Coco Bryce	Deep into the Jungle	spotify:track:4rtbmGjASSUtNWEPaAZ8dt
+Only When I'm Dreaming	Coco Bryce	Deep into the Jungle	spotify:track:2alAvEUTZm8iFJEDgSWyQ7
 
 BBC Radio 6 Music Playlist
-Hurt	Arlo Parks	Hurt	spotify:track:3OREiYBiC7wSpOLukQMDZR
-Dark Side Riddim	Ezra Collective	Dark Side Riddim / Samuel L.Riddim	spotify:track:5pIjTEPxQx4JJc14CkVlgf
-Will You Return/When You Come Down	The Flaming Lips, Particle Kid	Will You Return/When You Come Down	spotify:track:0po58wGfSe6Ay6fqrYOylo
-Strange Timez (feat. Robert Smith)	Gorillaz, Robert Smith 	Song Machine Episode 6	spotify:track:3KvnDOxmZNgw3OE0e5ckGQ
-Model Village	IDLES	Model Village	spotify:track:3JMWPEG2Pt2ZMV7moszBSc
-Turntables (from the Amazon Original Movie "All In: The Fight for Democracy")	Janelle Monáe	Turntables (from the Amazon Original Movie "All In: The Fight for Democracy")	spotify:track:1K6s5g4URy2UfS4HNBPhGY
-Alexandra	Laura Marling	Song For Our Daughter	spotify:track:1HlSDISbjoxt2tpimT8s6f
-Light - Edit	Michael Kiwanuka	Light (Edit)	spotify:track:0h04eWLXS72ITUgN4PKnLg
-Club Cougar	Nadine Shah	Kitchen Sink	spotify:track:21mQyVxgTdDMviLZECrzXE
-Ultra Black	Nas, Hit-Boy	Ultra Black	spotify:track:2FYxTPKpCizmrHnvBI1r0K
-If I Had My Way	Osees, Thee Oh Sees	If I Had My Way	spotify:track:4VpOnSN6LX9YVxb1rZRkfU
-7 Seconds	Porridge Radio	7 Seconds	spotify:track:4cDvl5hVULuTl8FSJ2xBLn
-Summertime	Charlotte Day Wilson	Take Care of You / Summertime	spotify:track:0a4OHHbm1ffKkBpq7Xg00M
-Running Into You	The Cribs	Running Into You	spotify:track:2iw3F2PnZdSE1lz1IRNgP8
 Can I Believe You	Fleet Foxes	Shore	spotify:track:3pYB28IRzhtR5cHXLINchp
+A Lucid Dream	Fontaines D.C.	A Hero's Death	spotify:track:5kz3tnTeeoMQiOWIulTHLH
+Strange Timez (feat. Robert Smith)	Gorillaz, Robert Smith 	Song Machine Episode 6	spotify:track:3KvnDOxmZNgw3OE0e5ckGQ
 So We Won't Forget	Khruangbin	So We Won't Forget	spotify:track:1sL0oHu8NCQpImkjxkoVXj
-My Baby Just Cares for Me - Edit	Lou Hayter	My Baby Just Cares for Me	spotify:track:1uSxZOBHx8YP3t6ehNx6w9
-Renegade Breakdown	Marie Davidson, L’Œil Nu	Renegade Breakdown	spotify:track:3HLMn2gPXDhv61qEcsvxvL
+Light - Edit	Michael Kiwanuka	Light (Edit)	spotify:track:0h04eWLXS72ITUgN4PKnLg
 Blue	NewDad	Blue	spotify:track:0x9PaR4PUbcOfdzQAPZtlR
-Holy Show	Pillow Queens	Holy Show	spotify:track:7taVSmFaFLkcnLpeH1C7Ur
+Hear Me Out	Pixies	Hear Me Out	spotify:track:6QxIKANy04kD2RJdzq1Sdi
+7 Seconds	Porridge Radio	7 Seconds	spotify:track:4cDvl5hVULuTl8FSJ2xBLn
 Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)	Robert Glasper, H.E.R., Meshell Ndegeocello	Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)	spotify:track:04vYVsWbhkQaTLx2kgVNks
-Video Game	Sufjan Stevens	Sugar	spotify:track:1CSfswja9cKGY0QmjiSgfi
-New Ferrari	Surprise Chef	New Ferrari	spotify:track:5d2Bw6FWZhyhF5P2mVrru3
-Warning Warning	Toots & The Maytals	Warning Warning / Got To Be Tough	spotify:track:0cC5fsGBkQrqzK0fUlm4RG
-I’m in the Doorway	Tricky, Oh Land	I'm in the Doorway	spotify:track:7nCsxITHdKOlKVMDcxuRCL
-Valleys	Working Men's Club	Valleys	spotify:track:1xRRKdm37T3KRV1wTevaRM
+Alphabet	shame	Alphabet	spotify:track:32Xy5JWUdXb4GLZ0Eug06N
+Barre	Songhoy Blues	Barre	spotify:track:1Iuq40tKqeizFVwFUFx7y9
+Coming to Get You Nowhere	This Is The Kit	Coming to Get You Nowhere	spotify:track:0WwEaEkDqFtAHpuEEhH8m1
 Walking Flames	Actress, Sampha	Walking Flames	spotify:track:3JLO3GzdHqAr0KbQnT88oW
-The Turning of Our Bones	Arab Strap	The Turning Of Our Bones	spotify:track:1jBK45tbolrKZMDB6iScO9
-Pass Me By	Becky and the Birds	Trasslig	spotify:track:7xAT8TLvYjLL9JnTCtdWQy
 Lone Swordsman	Daniel Avery	Dusting For Smoke	spotify:track:2gs3ytLZiqjY5xki3bAFLM
-Hold My Hand	Death Valley Girls	Hold My Hand	spotify:track:6qzJPePSI9hKJ08dD9jwjM
-Identical - From The Motion Picture "On The Rocks"	Phoenix	Identical (From The Motion Picture "On The Rocks")	spotify:track:4tZwZVNhVCeBQYQtgQN5vW
+Mounemouma	Falle Nioke, Ghost Culture	Youkounkoun EP	spotify:track:7diF7X2vCFc15ee69L2YI7
+Unveiled	FLOHIO	Unveiled	spotify:track:1VbGUYuEvzViXO8JJ3Ag6w
+The Revolution Of Super Visions	Jane Weaver	The Revolution Of Super Visions	spotify:track:4FBxXwJfqJv5kmeJ4ciAhY
+Wind Parade	Jordan Rakei	Wind Parade	spotify:track:0g941Kqd2InTMBbJO4eFlf
+Landslide	Martha Hill	Landslide	spotify:track:4raIslI0ZZD0NDVmw51jEO
+Primavera	Páula, Povoa, Jerge	Primavera	spotify:track:11uKHymtxzaWEjjBd7onxH
+Baby Got Work	Potatohead People, De La Soul, Posdnuos, Kapok	Baby Got Work	spotify:track:5c2GQto5Dldqz8ik5I47wH
+Monsterpiece	Raf Rundell	Monsterpiece	spotify:track:6Cow3dLU0BVQ9u0phnxUkG
 FREAK	Shygirl	FREAK	spotify:track:1xCMyuxOhuxpndBtKLwCHI
+Most Modern Painting	Sinead O Brien	Drowning in Blessings	spotify:track:4jnlko67vtWe15a3tcHO9n
+nowhere, man	Tune-Yards	nowhere, man	spotify:track:7MeNfxJwdUap5EEO9w1weQ
+Heavy Traffic	Willie J Healey	Twin Heavy	spotify:track:5Z2W8xd1bdtCw8NqA4sQpu
+Looking Happy	Ailbhe Reddy	Looking Happy	spotify:track:0nJKJz8grZXiDEZzWfekvz
+Free Today	Albertine Sarges	Free Today	spotify:track:1XV7lw6xstsw3w7qudq6SP
+My Angel - From The BBC Programme "Life"	Guy Garvey	My Angel (From The BBC Programme "Life")	spotify:track:6Yjnf8QnSgQsVHj18XlrBV
+Lessons From My Mistakes...but I Lost Your Number	Liv.e	Couldn't Wait to Tell You...	spotify:track:0Wlxm2dYSsTWicwsHMuxcf
+Tittle Tattle	Nubiyan Twist, CHERISE	Tittle Tattle	spotify:track:3BRbIsUrsR5AGI33ZI0pre
+Long Road Home	Oneohtrix Point Never	Drive Time Suite	spotify:track:3L8P996yoxnUQmHdOOEXKR
+Reinvent	Phoebe Green	Reinvent	spotify:track:2vjo6HuhOURw0wXsb0EVCa
 
 An Ode to Gated Reverb
 Hounds Of Love	Kate Bush	Hounds Of Love	spotify:track:0iluWxTpC9QOdVPg3PROvm
@@ -2014,85 +2076,85 @@ Hey	Oscar the Wild	Hey	spotify:track:4aUcqr33eDZtUvOGGcx0Cv
 
 The '80s All Lined Up
 Age of Consent - 2015 Remaster	New Order	Power Corruption and Lies	spotify:track:2EEinN4Zk8MUv4OQuLsTBj
+N.I.T.A.	Young Marble Giants	Colossal Youth	spotify:track:5K97YR5NWP2H88mQ4p8JlH
 I Can't Help Myself	Orange Juice	Rip It Up	spotify:track:0srHCCkdnVKZARmtmjFHee
-Just Like Honey	The Jesus and Mary Chain	Psychocandy (Expanded Version)	spotify:track:1LwP9g1Hjbs64jXM2Qsxry
 Lorelei	Cocteau Twins	Treasure	spotify:track:1MwGbyzRmPXWABLIdW8tzG
 Disorder - 2007 Remaster	Joy Division	Unknown Pleasures	spotify:track:38wCbVfMreML5ZhF5iQuKA
+Just Like Honey	The Jesus and Mary Chain	Psychocandy (Expanded Version)	spotify:track:1LwP9g1Hjbs64jXM2Qsxry
+Lucinda	A Certain Ratio	Sextet	spotify:track:7HhKVY5PHmZgv2nR9miSye
 You Make No Sense	ESG	Come Away With Esg	spotify:track:0B5OoQ9WTpcYptMVib779r
+Birthday	The Sugarcubes	Life's Too Good	spotify:track:5zpRUKG7MSRZvNjr25vJsl
 Cloudbusting	Kate Bush	Hounds Of Love	spotify:track:5atQ2haKP5LT65WM0KUts3
 This Is the Day	The The	London Town 1983-1993	spotify:track:5O7RVmqK3AYoFfyeafxOqH
-Birthday	The Sugarcubes	Life's Too Good	spotify:track:5zpRUKG7MSRZvNjr25vJsl
-Lucinda	A Certain Ratio	Sextet	spotify:track:7HhKVY5PHmZgv2nR9miSye
 Surrender	Suicide	A Way of Life	spotify:track:4QRO73C82pI3OCHo0njVlS
 This Charming Man - 2011 Remaster	The Smiths	The Smiths	spotify:track:1FvDJ9KGxcqwv1utyPL3JZ
-N.I.T.A.	Young Marble Giants	Colossal Youth	spotify:track:5K97YR5NWP2H88mQ4p8JlH
-Pearly-dewdrops' Drops	Cocteau Twins	Stars And Topsoil - A Collection 1982-1990	spotify:track:3F30pC9tpbW7PWLOyrR0ji
-The Killing Moon	Echo & the Bunnymen	Songs To Learn And Sing	spotify:track:15049rGLXHwrWtE4euUb5C
-At Home He's a Tourist	Gang Of Four	Entertainment!	spotify:track:1fpSdqEoXJBEr4HGQhWcxP
-Regiment - 2006 Digital Remaster	Brian Eno, David Byrne	My Life In The Bush Of Ghosts	spotify:track:5NmIlA4EWshYKtL9w9JM15
-Uncertain Smile	The The	Soul Mining	spotify:track:31alFPGPYXPTGLQfmkp8fh
-Love Will Tear Us Apart	Joy Division	The Best Of	spotify:track:2JO3HwMRPeya8bXbtbyPcf
 Teen Age Riot (Album Version)	Sonic Youth	Daydream Nation (Deluxe Edition)	spotify:track:0WIbzDVEpmOyBnqqdtqIL9
-Once in a Lifetime - 2005 Remaster	Talking Heads	Remain in Light (Deluxe Version)	spotify:track:38Ngied9rBORlAbLYNCl4k
+Optimo	Liquid Liquid	Liquid Liquid	spotify:track:7KS7EfTOFYoBudtsJlj6E2
 Knife Slits Water	A Certain Ratio	Sextet	spotify:track:52MYRXpbbZp2f5qCD29KpG
 Genius Of Love	Tom Tom Club	Tom Tom Club - Deluxe Edition	spotify:track:6UGlSlhwl2MNhsrg5Wepq3
-A Forest	The Cure	Seventeen Seconds (Deluxe Edition)	spotify:track:0T6kwiueP62ten2KLLmQS4
-Gigantic	Pixies	Surfer Rosa (Remastered)	spotify:track:3oqJ3POeLfa2TJh6BFLhPM
-Optimo	Liquid Liquid	Liquid Liquid	spotify:track:7KS7EfTOFYoBudtsJlj6E2
-To Hell With Poverty	Gang Of Four	A Brief History Of The 20th Century	spotify:track:5meAeH2xj8CkB5ZUahQJQ6
-I'm In Love With A German Film Star	The Passions	Thirty Thousand Feet Over China	spotify:track:7A3rywP8wA9HbL36NMnD81
+Pearly-dewdrops' Drops	Cocteau Twins	Stars And Topsoil - A Collection 1982-1990	spotify:track:3F30pC9tpbW7PWLOyrR0ji
+Regiment - 2006 Digital Remaster	Brian Eno, David Byrne	My Life In The Bush Of Ghosts	spotify:track:5NmIlA4EWshYKtL9w9JM15
+The Killing Moon	Echo & the Bunnymen	Songs To Learn And Sing	spotify:track:15049rGLXHwrWtE4euUb5C
+Uncertain Smile	The The	Soul Mining	spotify:track:31alFPGPYXPTGLQfmkp8fh
 Hungry, So Angry	Medium Medium	Hungry, So Angry	spotify:track:4aJxf4x5McKHHXOBqcpA0Q
-There Is a Light That Never Goes Out - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:0WQiDwKJclirSYG9v5tayI
-Eisbär	Grauzone	Eisbär	spotify:track:6dO3t1e3pb7sxyDQbDyVNX
-Pacific State - Origin Mix	808 State	Blueprint (The Best Of)	spotify:track:1bdqvBFKJKbkZvFeF7hNQs
+Once in a Lifetime - 2005 Remaster	Talking Heads	Remain in Light (Deluxe Version)	spotify:track:38Ngied9rBORlAbLYNCl4k
+Love Will Tear Us Apart	Joy Division	The Best Of	spotify:track:2JO3HwMRPeya8bXbtbyPcf
+I'm In Love With A German Film Star	The Passions	Thirty Thousand Feet Over China	spotify:track:7A3rywP8wA9HbL36NMnD81
+Gigantic	Pixies	Surfer Rosa (Remastered)	spotify:track:3oqJ3POeLfa2TJh6BFLhPM
+At Home He's a Tourist	Gang Of Four	Entertainment!	spotify:track:1fpSdqEoXJBEr4HGQhWcxP
+A Forest	The Cure	Seventeen Seconds (Deluxe Edition)	spotify:track:0T6kwiueP62ten2KLLmQS4
 Waiting Room	Fugazi	13 Songs	spotify:track:5FFowl1Ve4S5OehL6OywSg
-Play For Today	The Cure	Seventeen Seconds	spotify:track:77HYwsktlwB37zyEH9dgYY
-When It's Over	Wipers	Youth of America	spotify:track:59RkLuqY3LSqK3rJGds6cP
-Deus	The Sugarcubes	Life's Too Good	spotify:track:5rrjeDN8xEYAsI9g85q1Ad
-Tugboat	Galaxie 500	Today (Deluxe Edition)	spotify:track:6iMDFMjepxLshlWqW7cKgb
-Fools Gold - Remastered	The Stone Roses	The Stone Roses	spotify:track:2mv6GY70UsHiTCGQZ4JfgC
-Golden Brown	The Stranglers	La Folie	spotify:track:2AX5E86cn9n2dgioZEjirI
-Say Hello, Wave Goodbye - 7" Single Version	Soft Cell	Non Stop Erotic Cabaret (Deluxe Edition)	spotify:track:4H3RNIn5KIvDbJrc4EIzvt
-How Soon Is Now? - 2011 Remaster	The Smiths	Hatful of Hollow	spotify:track:1YrnDTqvcnUKxAIeXyaEmU
 Totally Wired	The Fall	Grotesque (After the Gramme) [Expanded Edition]	spotify:track:2WcPqaYMXCIuGHasY3TWrv
-Winning	The Sound	From The Lion's Mouth	spotify:track:7EOCSmPvQ8psymuLTsKfN2
-Road to Nowhere - 2005 Remaster	Talking Heads	Little Creatures	spotify:track:2co8fDyaVmxv8xruQWORnC
-Pull Up To The Bumper	Grace Jones	20th Century Masters: The Millennium Collection: Best Of Grace Jones	spotify:track:5FuQfnQIld9Jax9SlzqeBF
-My Spine Is The Bassline	Shriekback	Disco Not Disco Digital Edition	spotify:track:3VxFd7SnACXpFR2LBROrsR
-The High Road	The Feelies	The Good Earth	spotify:track:42qPwHyVPx26gdgXqY2LUE
+Pacific State - Origin Mix	808 State	Blueprint (The Best Of)	spotify:track:1bdqvBFKJKbkZvFeF7hNQs
+Eisbär	Grauzone	Eisbär	spotify:track:6dO3t1e3pb7sxyDQbDyVNX
+There Is a Light That Never Goes Out - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:0WQiDwKJclirSYG9v5tayI
+Deus	The Sugarcubes	Life's Too Good	spotify:track:5rrjeDN8xEYAsI9g85q1Ad
+When It's Over	Wipers	Youth of America	spotify:track:59RkLuqY3LSqK3rJGds6cP
+To Hell With Poverty	Gang Of Four	A Brief History Of The 20th Century	spotify:track:5meAeH2xj8CkB5ZUahQJQ6
+Golden Brown	The Stranglers	La Folie	spotify:track:2AX5E86cn9n2dgioZEjirI
 Debaser	Pixies	Doolittle	spotify:track:3FzKPS0oVknVlCW3PhxIHl
-Lose My Breath - Remastered Version	My Bloody Valentine	Isn't Anything	spotify:track:5cbgkkdNVvwimsEEsdDTq1
-Smalltown Boy	Bronski Beat	The Age Of Consent	spotify:track:0FrCX7P2C2hcRTcuhjEvK4
-Ask - 2008 Remaster	The Smiths	The Sound of the Smiths (2008 Remaster)	spotify:track:0VAuJcy7fZulaEwXzTFiVP
-Because You're Frightened - Remastered 2007	Magazine	The Correct Use Of Soap	spotify:track:7I2F04fUq0DAetR5BMcQYc
-Close To Me	The Cure	The Head On The Door (Remastered)	spotify:track:4xiyq1iRdsxuU1BPUJ490Z
-Isolation - 2007 Remaster	Joy Division	Closer	spotify:track:3KN1A4XVt5lYudW7M6gD9T
-Theme For Great Cities	Simple Minds	Sons And Fascination/Sister Feelings Call	spotify:track:5HbCsT9WyEhnhw75QUr1A5
-April Skies	The Jesus and Mary Chain	Darklands (Expanded Version)	spotify:track:7hs0Q5T9oyYMuGg4EQZenj
-Ghost Town	The Specials	Stereo-Typical: A's, B's & Rarities	spotify:track:2vEUFrRByOKob8yqOd6LuA
-Fa Cé-La	The Feelies	Crazy Rhythms	spotify:track:1tA4vXKgYffzQ9PnUMzKax
-A Girl Called Johnny - 2002 Remaster	The Waterboys	The Waterboys	spotify:track:2EF94Cbk5QW28tY95e1DtW
-The Magnificent Seven - Remastered	The Clash	Hits Back	spotify:track:1W8Jl9KaSSt23ihF1Mej17
-Bigmouth Strikes Again - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:2OErSh4oVVAUll0vHxdr6p
-Oblivious	Aztec Camera	High Land, Hard Rain	spotify:track:48cEn8VF0sDrpvjUaaCCcu
-Waterfall - Remastered	The Stone Roses	The Stone Roses	spotify:track:4CWgqHRJjDLd2PCedMz8eY
 God O.D., Pt.1	Meat Beat Manifesto	Storm The Studio (Remastered)	spotify:track:3T54MfbFdRHrOOkXIPQjr7
+Lose My Breath - Remastered Version	My Bloody Valentine	Isn't Anything	spotify:track:5cbgkkdNVvwimsEEsdDTq1
+Play For Today	The Cure	Seventeen Seconds	spotify:track:77HYwsktlwB37zyEH9dgYY
+Fools Gold - Remastered	The Stone Roses	The Stone Roses	spotify:track:2mv6GY70UsHiTCGQZ4JfgC
+Pull Up To The Bumper	Grace Jones	20th Century Masters: The Millennium Collection: Best Of Grace Jones	spotify:track:5FuQfnQIld9Jax9SlzqeBF
+How Soon Is Now? - 2011 Remaster	The Smiths	Hatful of Hollow	spotify:track:1YrnDTqvcnUKxAIeXyaEmU
+Say Hello, Wave Goodbye - 7" Single Version	Soft Cell	Non Stop Erotic Cabaret (Deluxe Edition)	spotify:track:4H3RNIn5KIvDbJrc4EIzvt
+Because You're Frightened - Remastered 2007	Magazine	The Correct Use Of Soap	spotify:track:7I2F04fUq0DAetR5BMcQYc
+My Spine Is The Bassline	Shriekback	Disco Not Disco Digital Edition	spotify:track:3VxFd7SnACXpFR2LBROrsR
+Tugboat	Galaxie 500	Today (Deluxe Edition)	spotify:track:6iMDFMjepxLshlWqW7cKgb
+The High Road	The Feelies	The Good Earth	spotify:track:42qPwHyVPx26gdgXqY2LUE
 Madam Butterfly (Un Bel Di Vedremo)	Malcolm McLaren	Fans	spotify:track:75SqjGbzUnlQzytV5UzKER
-Are 'Friends' Electric?	Gary Numan / Tubeway Army	Replicas Redux	spotify:track:4YMjssjl6JWPF4ZIcvcwkg
-All Lined Up	Shriekback	Oil and Gold	spotify:track:1MTZLNGlaw1308UlCv9QGJ
-FILM 2	Grauzone	Eisbär	spotify:track:3yid52W07JTzh7uTRRcQ8z
-Under The Milky Way	The Church	Starfish	spotify:track:39Skq6MS8fFyrv5v02RDqO
-Love Action (I Believe In Love)	The Human League	Dare!	spotify:track:5RBPXlIiZVrr8hab7LpRJB
-Never Let Me Down Again	Depeche Mode	Music for the Masses	spotify:track:0ooy3NjwsJreceWYCxlfQt
-Private Revolution	World Party	Private Revolution	spotify:track:5GD20Q0mvpsTCuNy9BHZbA
-Spellbound	Siouxsie and the Banshees	Juju (Remastered & Expanded)	spotify:track:3ePwkVyUDNo4UnITQWZcRS
-Don't Talk to Me About Love	Altered Images	Bite	spotify:track:4QBZTbaM3vreybFgzRO5QQ
-She's In Parties	Bauhaus	Bauhaus - 1979-1983 Volume Two	spotify:track:1JhORTF6h6N2lpb3lLWeqv
-Modern Love - 1999 Remaster	David Bowie	Let's Dance (1999 Remaster)	spotify:track:7LyIoUsiMtelB1I0I4drEF
-Sensoria (7'' Version)	Cabaret Voltaire	#7885 (Electropunk to Technopop 1978-1985)	spotify:track:0HHdfCcmF6EElG0SgDNCGw
-Quiet Life	Japan	Quiet Life	spotify:track:3vyzp6lqJbpZlDfwXan61J
-Making Plans For Nigel	XTC	The Compact XTC	spotify:track:3ey3YMZLdl1tQjbz7EJkKG
+Ghost Town	The Specials	Stereo-Typical: A's, B's & Rarities	spotify:track:2vEUFrRByOKob8yqOd6LuA
+Road to Nowhere - 2005 Remaster	Talking Heads	Little Creatures	spotify:track:2co8fDyaVmxv8xruQWORnC
+The Magnificent Seven - Remastered	The Clash	Hits Back	spotify:track:1W8Jl9KaSSt23ihF1Mej17
+Isolation - 2007 Remaster	Joy Division	Closer	spotify:track:3KN1A4XVt5lYudW7M6gD9T
+Are 'Friends' Electric?	Gary Numan, Tubeway Army	Replicas Redux	spotify:track:4YMjssjl6JWPF4ZIcvcwkg
+Winning	The Sound	From The Lion's Mouth	spotify:track:7EOCSmPvQ8psymuLTsKfN2
+Bigmouth Strikes Again - 2011 Remaster	The Smiths	The Queen Is Dead	spotify:track:2OErSh4oVVAUll0vHxdr6p
+Fa Cé-La	The Feelies	Crazy Rhythms	spotify:track:1tA4vXKgYffzQ9PnUMzKax
+Smalltown Boy	Bronski Beat	The Age Of Consent	spotify:track:0FrCX7P2C2hcRTcuhjEvK4
+Close To Me	The Cure	The Head On The Door (Remastered)	spotify:track:4xiyq1iRdsxuU1BPUJ490Z
+Theme For Great Cities	Simple Minds	Sons And Fascination/Sister Feelings Call	spotify:track:5HbCsT9WyEhnhw75QUr1A5
 Pocket Calculator - 2009 Remaster	Kraftwerk	Computer World (2009 Remaster)	spotify:track:4xa1gzSKd6ihtVGd8dWs69
+Love Action (I Believe In Love)	The Human League	Dare!	spotify:track:5RBPXlIiZVrr8hab7LpRJB
+FILM 2	Grauzone	Eisbär	spotify:track:3yid52W07JTzh7uTRRcQ8z
+Self Destruct	Anne Clark	Joined Up Writing/The Sitting Room	spotify:track:6Uc3HO6WzLPVF2dhE3iEhp
+Ask - 2008 Remaster	The Smiths	The Sound of the Smiths (2008 Remaster)	spotify:track:0VAuJcy7fZulaEwXzTFiVP
+Human Fly	The Cramps	Off The Bone	spotify:track:0ElRzK07sc9eszyk1ea9Ab
+Spellbound	Siouxsie and the Banshees	Juju (Remastered & Expanded)	spotify:track:3ePwkVyUDNo4UnITQWZcRS
+Freeze Out - Radio Version	Hula	Freeze Out	spotify:track:6tQc6WenBWq30nB3CT87AK
+Sex Beat	The Gun Club	Fire of Love	spotify:track:41Z86N3KhVdJWLa3qkNTH6
+April Skies	The Jesus and Mary Chain	Darklands (Expanded Version)	spotify:track:7hs0Q5T9oyYMuGg4EQZenj
+Waterfall - Remastered	The Stone Roses	The Stone Roses	spotify:track:4CWgqHRJjDLd2PCedMz8eY
+Psycho Killer - Live	Talking Heads	Stop Making Sense	spotify:track:2t8GBp5kQEXVamVq4Odwe2
+Modern Love - 1999 Remaster	David Bowie	Let's Dance (1999 Remaster)	spotify:track:7LyIoUsiMtelB1I0I4drEF
+Lady Shave	Fad Gadget	The Fad Gadget Singles	spotify:track:1Ke1tdqlzpXxQvHPP7TC9L
+Rapture - Remastered	Blondie	Autoamerican	spotify:track:0D6qZlc6vNR7PDW2RKGPsV
+All Lined Up	Shriekback	Oil and Gold	spotify:track:1MTZLNGlaw1308UlCv9QGJ
+Sensoria (7'' Version)	Cabaret Voltaire	#7885 (Electropunk to Technopop 1978-1985)	spotify:track:0HHdfCcmF6EElG0SgDNCGw
+A Girl Called Johnny - 2002 Remaster	The Waterboys	The Waterboys	spotify:track:2EF94Cbk5QW28tY95e1DtW
+Oblivious	Aztec Camera	High Land, Hard Rain	spotify:track:48cEn8VF0sDrpvjUaaCCcu
 
 L.I.E.S Long Island Electrical Systems
 Targets	Malvoeaux	Targets	spotify:track:1eRVKyeDmt4zrT51xDWhwd
@@ -2516,6 +2578,7 @@ WYSIWYG	Krikor Kouchian	Pacific Alley	spotify:track:3ib07ws9kTQRDc0P9GSTYU
 Distrito Federal	Krikor Kouchian	Pacific Alley	spotify:track:0dGEQOQGGFx7rnCjp3UkdX
 
 Remixes
+Rainbo Locals - Four Tet Remix	A Grape Dope, Four Tet	Backyard Blenders: The Remixes	spotify:track:0j4UWiJbgpxufsSYMoywXZ
 Is It True - Four Tet Remix	Tame Impala, Four Tet	Is It True (Four Tet Remix)	spotify:track:5Yc2SVCeXXcDdALmmXIslb
 Never Come Back - Four Tet Remix	Caribou, Four Tet	Never Come Back (Four Tet Remix)	spotify:track:7DbreVo6L52z1RpplC9mPz
 Midnight Hour with Boys Noize & Ty Dolla $ign - Four Tet Remix	Skrillex, Boys Noize, Ty Dolla $ign, Four Tet	Midnight Hour with Boys Noize & Ty Dolla $ign (Four Tet Remix)	spotify:track:3fLNH6kRjYlzoRIaKZ8wDr
@@ -2563,7 +2626,7 @@ Chandelier - Four Tet Remix	Sia, Four Tet	1000 Forms Of Fear (Deluxe Version)	sp
 Tics - Four Tet Remix	Lars Horntveth	Joker	spotify:track:0IJKc7Rhzds2C8tRyEAd4X
 Separator (Four Tet RMX)	Radiohead	TKOL RMX 1234567	spotify:track:4raxzmnFq93jfKC8c3xcIv
 Summertime our League - Four Tet Rework	Babe, Terror	Summertime Our League	spotify:track:3Q0GQbh45cQ3aNXzjq0fGD
-Four Tet version of “Stick To My Side”	Pantha Du Prince	XI versions of Black Noise	spotify:track:2L7sxeJao9vY9mENJLHvOA
+Four Tet version of 'Stick To My Side'	Pantha Du Prince	XI versions of Black Noise	spotify:track:2L7sxeJao9vY9mENJLHvOA
 Restoration - Four Tet remix	The Acorn	No Ghost (Remixes)	spotify:track:4oXPiW3vcLr6WsRX7Mqcly
 Volcano - Four Tet Instrumental	Antipop Consortium	Volcano (Four Tet Remixes)	spotify:track:4ursIR7P81teaZAdRUEjId
 Automaton - Four Tet Remix	CYNE, Four Tet	Running Water	spotify:track:61FM0UuiuENGCJVlf7qbi1
@@ -3240,84 +3303,39 @@ Indiana	Adrianne Lenker, Buck Meek	a-sides	spotify:track:4T8spb01abMb7algXprCBF
 That's When I Reach For My Revolver	Mission Of Burma	Signals, Calls and Marches	spotify:track:5QAQxxN163HxD1uU0BrMYM
 Munich	Editors	The Back Room	spotify:track:1TF8mSG5YHyaS4o3NeBSAo
 Sleep Now In the Fire	Rage Against The Machine	The Battle Of Los Angeles	spotify:track:1MQTmpYOZ6fcMQc56Hdo7T
+Miss Misery	Elliott Smith	XO (Deluxe Edition)	spotify:track:4zetUxeSCCDwrr1jJT0SuD
 
 Awesome Tapes From Africa | African Music | Musique Africaine 
-Ibola Aids	Penny Penny	Yogo Yogo	spotify:track:5cTmIiJACe8TXlMUe4t8at
-Ama Owners	Penny Penny	Yogo Yogo	spotify:track:7t5jyXUOy76w9afGWJQbMq
-Storytellers	Teno Afrika	Storytellers	spotify:track:7ncH6MuktRgjFFq7waVoq9
+Ambassadors	Teno Afrika	Amapiano Selections	spotify:track:2C7qXnVbYQqNi2d4sv8prZ
+Storytellers	Teno Afrika	Amapiano Selections	spotify:track:0NMiDktvw454WbllkDEW7e
+8 Ubers (Tribute to DJ Jaivane)	Teno Afrika	Amapiano Selections	spotify:track:1r105AgMHTyH13FxSO8Yuj
+Conka	Teno Afrika	Amapiano Selections	spotify:track:2swBgIAelWpssLrWosSU7j
+Smooth Criminal (Main Mix)	Teno Afrika	Amapiano Selections	spotify:track:1nL8n57JmjDocce1pVKPaq
+Lerato La Bass	Teno Afrika	Amapiano Selections	spotify:track:2PSDhfm8XWummhPCpmsrNZ
+Trip to Vlakas (Main Mix)	Teno Afrika	Amapiano Selections	spotify:track:7nsyWtRvtxwrSEK38hHZlL
+Chants of Africa	Teno Afrika	Amapiano Selections	spotify:track:6tltPkyjpfQDyVKCfAqUds
 O Nketsang	Rex Rabanye	The Best of, Vol.1	spotify:track:74IuBeOaTnm8Xemjz77AMY
-M'ackô	Antoinette Konan	Antoinette Konan	spotify:track:74dDdAr58TgeIwa08Z3bzB
-Yogo Yogo	Penny Penny	Yogo Yogo	spotify:track:3fLOBq4NEtBOxghNyBf9kx
-Salel	Awalom Gebremariam	Desdes	spotify:track:2HETBBjSOt4hlbxB7v2fiH
-Isidakwa	Professor Rhythm	Bafana Bafana	spotify:track:5C3wC7Kv2L6j65AuTM2KyO
+Yogo Yogo	Penny Penny	Yogo Yogo	spotify:track:21n1ajrl58W4jAsxAj0ubQ
+Blonda Yirini	Nahawa Doumbia	Blonda Yirini	spotify:track:3FRMSUUAvd30WLcbYlXy84
+Kulani Kulani	Penny Penny	Yogo Yogo	spotify:track:7tSBXax9IokdPDsUatpQFU
+Dodomedzi	Penny Penny	Yogo Yogo	spotify:track:53zlzmMc14nQQIUyiV5Juv
+Ibola Aids	Penny Penny	Yogo Yogo	spotify:track:5cTmIiJACe8TXlMUe4t8at
 Zama Zama	Professor Rhythm	Bafana Bafana	spotify:track:522JLPcfPnsPHfKVPEVUGo
-Medley B: Efie Ne Fie / Nyankonton Nko Nya / Kwankwaasem Nti / Egya Ananse Yi Wonan Baako / Kwaadede Meyare Merewu / Eda A Mewu	Dr. K. Gyasi & His Noble Kings	Sikyi Highlife	spotify:track:2Owvcj6eCjs0uFSlGdq2r0
+M'ackô	Antoinette Konan	Antoinette Konan	spotify:track:74dDdAr58TgeIwa08Z3bzB
+Salel	Awalom Gebremariam	Desdes	spotify:track:2HETBBjSOt4hlbxB7v2fiH
 Nianimanjougou	Nahawa Doumbia	La Grande Cantatrice Malienne Vol 1	spotify:track:600TUkZGFzHmgcCg0SxB7h
+Isidakwa	Professor Rhythm	Bafana Bafana	spotify:track:5C3wC7Kv2L6j65AuTM2KyO
+Medley B: Efie Ne Fie / Nyankonton Nko Nya / Kwankwaasem Nti / Egya Ananse Yi Wonan Baako / Kwaadede Meyare Merewu / Eda A Mewu	Dr. K. Gyasi & His Noble Kings	Sikyi Highlife	spotify:track:2Owvcj6eCjs0uFSlGdq2r0
+Tew Begize Giba	Asnakech Worku	Asnakech	spotify:track:0gtuDGWoOtrPzQkE7lXw7v
+Breadwinner	Nzimande All Stars	Sporo	spotify:track:1ufERFjB8WbaZ4yqx7YJrz
 Seremende	Sourakata Koité	en Hollande	spotify:track:5PGatpxEKdr7mefZGveJDy
 Semen Ena Debub	Hailu Mergia	Yene Mircha	spotify:track:6s0Cxpoq9BYqcGHnRTy9xI
 Mariama Kaba	Boubacar Traoré	Mariama	spotify:track:3c98vJqVg7Epkq8aBNTsNM
 Apartheid	Jess Sah Bi & Peter One	Our Garden Needs Its Flowers	spotify:track:0EJ2cxN4gIMUv836aF7xGQ
-Tew Begize Giba	Asnakech Worku	Asnakech	spotify:track:0gtuDGWoOtrPzQkE7lXw7v
 Sekunde Wo Ye	F.Kenya's Band	The Best From Essiebons, Vol. 11	spotify:track:2aDJNspNjl47koNGPgpCd2
 Sintayehu	Hailu Mergia, Dahlak Band	Wede Harer Guzo	spotify:track:52AUkY3eBz7b6BS2WXv1Uq
 Nhamo Zvakare	Thomas Mapfumo And The Blacks Unlimited	Chimurenga Explosion	spotify:track:0et4RiHktAP6VQXN63bwhM
-Breadwinner	Nzimande All Stars	Sporo	spotify:track:1ufERFjB8WbaZ4yqx7YJrz
-Shaka Bundu	Penny Penny	Shaka Bundu	spotify:track:3dEHR9etpw4v8ui2sJEjfS
-Yogo Yogo	Penny Penny	Yogo Yogo	spotify:track:21n1ajrl58W4jAsxAj0ubQ
-Kulani Kulani	Penny Penny	Yogo Yogo	spotify:track:7tSBXax9IokdPDsUatpQFU
-Dodomedzi	Penny Penny	Yogo Yogo	spotify:track:53zlzmMc14nQQIUyiV5Juv
-
-All Night
-Endorphin	Burial	Untrue	spotify:track:76IDWmL8XSFZcypYvqdnI5
-Sequenz 31	Jens Zimmermann	Space Migration 3000	spotify:track:5fEJKD2APjxBPziTW5xhP4
-Beul Un Latha	Trance Wax	Beul Un Latha	spotify:track:3xyGdYlQHEvTB9dQqErrF5
-Problèmes d'Amour	Alexander Robotnick, Martine Michellod	Ce n'est q'un début (Remastered)	spotify:track:5BCD68l2CC8BdJB0ZGA3N9
-India In Me	Cobblestone Jazz	23 Seconds	spotify:track:507CmY5bfQo8jhNzKyvn6C
-Starship Discothèque	Serafin	Liebe*Detail 07	spotify:track:4DJtLBdfaX3PUeDHoCQl95
-Manaya	Trance Wax	Beul Un Latha	spotify:track:4acEjzjiCG8CFaQSw7BZ1J
-OAR003-B - Original Mix	Oni Ayhun	OAR003	spotify:track:0t5Rr3zaALBh7yI2kGhYyl
-Yimanya - Original Mix	Filterheadz	50 Best Trance Hits Ever (Extended Versions)	spotify:track:0PbSQnADc9tMBsWduwDCId
-Moods	Desert	Feelings Run so Deep	spotify:track:74UL1lJyguHeTeI0KgmBJX
-Some Polyphony	Petter	Some Polyphony	spotify:track:282wHfe6MxhjwAOd0NDntM
-Simulated - Bas Amro Remix	Marco V, Bas Amro	Simulated (Bas Amro Remix)	spotify:track:2EWnEY46grQZZ9lzbi5Cq7
-Sunset On Ibiza - Original Mix	Three Drives On A Vinyl	Sunset On Ibiza	spotify:track:4DQEgewQDuJuhPVXSHHJnN
-Netherworld - Oliver Prime Remix	L.S.G., Oliver Prime	In Search of Sunrise 4 Mixed by Tiësto (Latin America)	spotify:track:2Id8YirGFGa1RVvvGobsd8
-Mothership Reconnection (feat.Parliament/Funkadelic) - (Daft Punk Remix)	Scott Grooves, Parliament, Funkadelic	Musique, Vol. 1	spotify:track:5aWVNrjqFHCATLIhS2na3t
-Dramatic Exit	DMX Krew	Broken SD140 Part II	spotify:track:0hQN3fUP4zLuRFsLtCL0Ep
-Jalek	Ejeca	Contemplation EP	spotify:track:1pBTQnwFmv5RZ5g4jXSJCr
-Hoffnungsschimmer	Innellea, Kevin de Vries	Hoffnungsschimmer EP	spotify:track:4deba2jLItEN6synngRl8o
-Le Tigre	Overmono	POLY011	spotify:track:6cAs4CHN3J1lR2DYeY0q2y
-Silver Screen Shower Scene - Thin White Duke Mix by Jacques Lu Cont	Felix Da Housecat, Jacques Lu Cont	The Glitz Part Deux Remix Edition	spotify:track:4OitOjHp0u06dR7S2sAlGu
-I'm Lonely	Hollis P. Monroe	I'M Lonely	spotify:track:7iEgoNG4xlbpTxLuMNrBl5
-Break Night - The Mardi Gras Mix	The Mole People	Break Night	spotify:track:18BSfCDcxdUMJ6Q0e78Ra1
-Ekstac	Ejeca	Ekstac	spotify:track:1HQffTdt2aCB824gxc8hmF
-Stoppage Time - Original	Guy Gerber	Stoppage Time	spotify:track:63Gf3KQppTrbY44PVLguWz
-Sky - Magik Muzik Mix	Veit	Sky	spotify:track:4DVFmMSmiRvcwN2RD7c0dB
-Pressure	Lemon8	The Inner Sanctuary Sessions	spotify:track:04fpqxb8oHwVwcmVOV8JI4
-Dulce Vita - Album Edit	Randy Katana	Katana Classics Edition 1	spotify:track:45xSGP5hsYItdGXeEfC2ol
-Diabla - Heavenly Mix	Funk D'void	Soma Records 20 Years (Silicone Soul DJ Mix)	spotify:track:7DV3Qkzi2dtgNO0XOx4u2G
-Sunrise At Palamos - Original Mix	M.I.K.E.	Sunrise At Palamos	spotify:track:37BDxaIJ7K1iExjU6K4sfd
-Dopplewhipper	Gabriel Ananda	Yousef - Circus Live Vol 1	spotify:track:1eDdSqhjERv4NcgDK77lix
-Black Lion	Ferry Corsten, Trance Wax	Black Lion	spotify:track:2604eB5sMPP59BZXV4DSBy
-Megatrance 2	Voiski	Sick Parrots	spotify:track:2pOtdPhKouRM5KAR4U6Rd6
-Plastik - Remastered	Simon Baker	Plastik 2014	spotify:track:5Y2EC87DyNtFbGbjYnd6uD
-Visions - Vitalic Mix	Slam	Visions	spotify:track:4O8jfCd5YrkW73vVb3IEmG
-Italian Fireflies	Black Strobe	Italian FireFlies (Remixes)	spotify:track:0WXRin9RtbezLw3VfN0b0y
-My Moon My Man - Boys Noize Classic Mix	Feist	My Moon My Man	spotify:track:5eIDkDS3SNasv55ZQ7GHN2
-Boy From School - Erol Alkan's Extended Re-Work	Hot Chip, Erol Alkan	Boy From School (The Mixes)	spotify:track:7m7XMDBYgLFauv82VGqM44
-Partycrasher - Original Mix	Iron Nipples	Partycrasher	spotify:track:7wfEtTiEKSkoz7AJeSQy9R
-OTT	Anthony Naples	OTT / ZTL	spotify:track:6hhoEUDGbNPU7PbbiUt16C
-Number 3	The Phantom's Revenge	BMX Boogie	spotify:track:6tRWZhQ9XXiJ8xRm4E67Xh
-Senzo	Stef Mendesidis	Klockworks 23	spotify:track:5AE9yi99Jiz9ko1JmJiHpd
-Untitled 3	Private Press	Ziemia 001	spotify:track:1BqizQA8ARs0LEKqNeNBdz
-Trasponder	Mauro Picotto	The others	spotify:track:1Huqu61jGUWwI3lNMr2EwO
-Dance of the Warrior	Newa	Klockworks 20	spotify:track:0elcbgEXcIYPCMVuJqF8bs
-Heute nicht	Funeral Future	Kulør 001	spotify:track:52z2vTynNOVzK07XGYdJBD
-Black	DJ Ss	Drum&BassArena Anthology 2	spotify:track:1coVYNGePes93pMMbkA2lS
-Questionmark 2	EOD	Questionmarks	spotify:track:2bBTotvVoLZhcSlhihw28j
-Finished Symphony	Hybrid	Classics	spotify:track:7AdXsVjijdRBFugCs7N7a7
-Xtal	Aphex Twin	Selected Ambient Works 85-92	spotify:track:7o2AeQZzfCERsRmOM86EcB
-You	Bicep, Ejeca	You / Don't	spotify:track:3pXd2A4Qu4pTf3B70EJkAj
+Ama Owners	Penny Penny	Yogo Yogo	spotify:track:7t5jyXUOy76w9afGWJQbMq
 
 UK Slow Marmalade
 U Were Always, Pt.2 (feat. Skepta & Belly)	Wiley, Belly, Skepta	Godfather	spotify:track:5RzkcrJ2Q45NriQYE04vU1
@@ -3753,10 +3771,11 @@ No Letting Go	Wayne Wonder	No Holding Back	spotify:track:5dWfl2PBpKHpBVdz95wxK1
 In The Morning (Let Your Love Come In) - Original Radio Edit	Egypt	In The Morning (Let Your Love Come In)	spotify:track:2M5BecF1hOqHevr4BDRi84
 Hate It Or Love It	The Game, 50 Cent	The Documentary	spotify:track:2wGSgTmgSF3xjRrHkTc25R
 Cartoon Heroes - Radio Edit	Aqua	Cartoon Heroes	spotify:track:0Th4docCLcGaM0KgkOvKHP
-“sorry (i Didn’t Know)" (original Radio Edit)	Monsta Boy	Sorry	spotify:track:1ElsvWNXbo3jXs4OuakQLn
+Sorry! (Didn't Know) [Original Radio Edit]	Monsta Boy	Sorry	spotify:track:1ElsvWNXbo3jXs4OuakQLn
 Envy - They Don't Know Vocal Remix	So Solid Crew	They Don't Know	spotify:track:0eSCD3P7W0RXT2iFLHc9tF
 Just the Way You Are	Milky	Just the Way You Are	spotify:track:0VWrmakxww3ZMI7JixXHdB
 Gypsy Woman (She's Homeless) - Radio Edit	Crystal Waters	Music For Girls Night Out	spotify:track:4UJ1AKSbXAbPlPVFe66wK7
+I Know What You Want (feat. Flipmode Squad)	Busta Rhymes, Mariah Carey, Flipmode Squad	It Ain't Safe No More	spotify:track:3oairMMtNVnUppKwroxou4
 
 Cycling
 Oh My Darling Don't Cry	Run The Jewels	Run The Jewels 2	spotify:track:1JT9uu6MfvVC8iZG3rIHq4
@@ -4107,310 +4126,212 @@ On and Ever Onward	Dirty Projectors, Björk	Mount Wittenberg Orca	spotify:track:
 Toxicity	SASAMI	Toxicity	spotify:track:1jwbHFwZiK0VEFwbudkWA2
 Better Distractions	Faye Webster	Better Distractions	spotify:track:4sPh466Pk3l706g10DO1FO
 Parfum thérémine	L'Impératrice	Odyssée - EP	spotify:track:76fdtNvwn6hkOmBvgOom7L
+Price	Erlend Øye, Sebastian Maschat & Erlend Øye	Quarantine at El Ganzo	spotify:track:7LmMQyOx62rbprC2eyPtHO
+Under Pressure	Karen O, Willie Nelson	Under Pressure	spotify:track:7rtNxSatiqmLKb4G71k1yn
 
 Brain Food
-Two Thousand and Seventeen	Four Tet	New Energy	spotify:track:2ZIaH69kaz55RM4Pjx6KXl
+Loom (feat. Bonobo)	Ólafur Arnalds, Bonobo	Loom	spotify:track:3Yagxg6rtkwN01AYzA862i
+Falaise	Floating Points	Crush	spotify:track:3rkJH9BaiCWpRY718WTkBP
+Love	Liam Mour	Love	spotify:track:1DPQO6QuHJEVNO1ukVKVdX
 Luminous Beings	Jon Hopkins	Singularity	spotify:track:3Ha9TeaqCdcS6cqKmFGCO3
-Eleven	Klahr	Eleven	spotify:track:51ut6Hl3648UeCIuqMHymx
-What It Takes	Sufjan Stevens, Lowell Brams	Aporia	spotify:track:0qXbs6RjB73qVRqmdgppZT
-Club der Ewigkeiten	DJ Koze	Knock Knock	spotify:track:2ywFTaCXKedBFlYA0XcHJM
-The Last Dance - Synthapella	Eagles & Butterflies	Art Imitating Life Vol. 3	spotify:track:5aK6dgeUUB12XBgOryteAa
-Where Angels Fear To Tread	Disclosure	Where Angels Fear To Tread	spotify:track:4vgXDV9qcqnwMQkdyGLSpL
-Dreamer's Wake	Rival Consoles	Persona	spotify:track:3Y4sSXeyK1flHPhN8P0aDY
-Flips and Flops, Drips and Drops	Electric Mantis	Flips and Flops, Drips and Drops	spotify:track:06iwhAevuCgupNwTg3wSC3
+Scene Suspended	Jon Hopkins	Scene Suspended	spotify:track:0AUBFe4HCHU01mKj8Wlf45
+Pattern One	Roman Flügel	Tracks On Delivery	spotify:track:4LqzPjVTdZH8TNBd1FhilV
+Whalphin	Julian Calor	Whalphin	spotify:track:0PcQvfwgwYWzqj2TtjtH3F
+Burn	Joy Orbison, Infinite Coles, Mansur Brown	Slipping	spotify:track:0l6acwkMvrn2mitwpLEXhs
+Muddy Funster	DJ Koze, Kurt Wagner	Knock Knock	spotify:track:6RYnTnUSj8uTZhIJUoOuC8
 Nights Fall - Ambient Mix	Winslow	Ambient Mixes 1	spotify:track:1lBUw2ZM46lQi9SnV2pu7I
+Leaves Against The Sky	Actress	Karma & Desire	spotify:track:0ZVzN7tnseNSxtnAhTNK39
+Dreamer's Wake	Rival Consoles	Persona	spotify:track:3Y4sSXeyK1flHPhN8P0aDY
 Fantastic Piano	Axel Boman	Family Vacation	spotify:track:1SRqHbQnBcrchaJyPtlnpd
-PCH	Middle Child	PCH	spotify:track:3JsnAcVZxSzraNojV2rysg
-Still Think	Chrome Sparks	Chrome Sparks	spotify:track:3lBmRItELTgJjFMgI76Onm
 Why Not	UTAH	Long Play	spotify:track:63fZmLcCAnG1tgGlqLQf0e
 Glossy1s	LAN Party	Glossy1s	spotify:track:3zS3IoZ1KZwmEpqv1Twskx
 Claudi	Laurence Guy	Saw You for the First Time	spotify:track:0UP6iahCqN841jwU87Ag3Z
-Open Doors	dBridge	Inhibited LP	spotify:track:7q42RrxgVbwqHrFUIj6w4E
-Just Saying	Jamie xx	In Colour	spotify:track:6wYROkv6ZrZJiS8utsY8P6
-Passing Trains	George FitzGerald	All That Must Be	spotify:track:01oZjrRICAL5l0sSFqpb5D
-A Downpour Of Blessings	Yone-ko	Dial 2020 (II)	spotify:track:13ofhF3akKSze47em3ihua
-Scene Suspended	Jon Hopkins	Scene Suspended	spotify:track:0AUBFe4HCHU01mKj8Wlf45
-Fire in the Jungle	Godblesscomputers	Fire in the Jungle	spotify:track:2bG3V8jTu1dmzyx3cLNaOj
-Bach: Prelude And Fugue In C - Ulrich Schnauss Rework	Johann Sebastian Bach, András Schiff, Ulrich Schnauss	re:works	spotify:track:6XNeuuAYTmEd04FQPBorJl
-Gone Fishing	Harris Cole	Gone Fishing	spotify:track:43ZYhWQmtLdtgISK8QmBGE
-Muddy Funster	DJ Koze, Kurt Wagner	Knock Knock	spotify:track:6RYnTnUSj8uTZhIJUoOuC8
-Endless Ocre	Aloboi	Endless Ocre	spotify:track:0bBgVovYw2kFpYVvhykbed
-Tiny Foldable Cities	Orbital	Tiny Foldable Cities	spotify:track:2SXltUBZedk6WmygiYpwTB
-Insight	BOP	Insight	spotify:track:3RlKU8y6NXxhPN9JmKraDA
-Rose's Thorn	TOKiMONSTA	Lune Rouge	spotify:track:2hlqCFahLVgdBIbY3yTrAb
-Vanishing	Matt Fax	Progressions	spotify:track:00UgFIO4qgu7i6DSC8AWhf
-Karl	M83	Knife + Heart (Official Soundtrack)	spotify:track:6XmHQPPaoZIAy2N9ENvjRL
-Voices In My Head	Vikram Dhakal	Voices In My Head	spotify:track:0JUO6DhIHlpZ4GJWWhr2RG
-Angels	Dark Sky	Othona	spotify:track:4TQmCn0e9L7XTiKY4Hk8X4
-sunflower	Lh, Azkeeh	sunflower	spotify:track:3TZUEyCn6RIZIt9uADX6Yp
-A.H.B.	S U R V I V E	A.H.B. - Single	spotify:track:59T7nZH7rCMxfGwpXWkE8h
-don't forget to breathe today	San Holo	stay vibrant	spotify:track:46A20vecY2UQ9zXQuSbQa3
-Yellow Bird	Pretty Lights	A Color Map of the Sun (Deluxe Version)	spotify:track:1r5J8bYOWq1Dal5jMQ06WX
-I Swear	Windows 96	I Swear	spotify:track:4xPs6xdv9X9kK09O2cxyMX
-Feel First Life	Jon Hopkins	Singularity	spotify:track:4esxro8J1rbsalCPb0yrgC
-Malibu	Blank & Jones	Malibu	spotify:track:4Fe8wWhaxGIEa35eFHLX0b
-In The Sea (Drowned)	Jónsi, Alex Somers	Lost and Found	spotify:track:4ogi00gtqhx3THnzt205jj
-ML3A	Baseck, Pilo	In Fragments	spotify:track:1o9DkWP5zph0hi09OdsiLi
-Shimmer	Sinjin Hawke	First Opus	spotify:track:7dy1n3TtiCfmCYG1EeAXGZ
+Fluenka's Song	Ondo Fudd	Eyes Glide Through The Oxide	spotify:track:3Hhc9ojjGaLTzNt3LVevqZ
 London Island	Daniel Avery	Love + Light	spotify:track:6Z0xV1FASyxZ76L15nMSs2
-Memory	Com Truise	Memory	spotify:track:25jpX7KzuyCu8SZM0I4k47
-2089	Eater	2089	spotify:track:1GRCByxCunaOyOVJhvaZZ6
-Haul (Max Cooper Remix)	Christian Löffler, Max Cooper	Mare Reworks	spotify:track:6WXXOjaynxjyiyXwD6Wh2g
-cop some Z's	lowkolos, Yank	HAXIM	spotify:track:4TU9UCR6tSzSaGvM81XCEc
-The Frontier (High Desert Synthapella)	Avalon Emerson	Whities 006	spotify:track:2YHCMi1Jh6jeI5Y8jl4FZp
-Wave Propagation	10th Letter	Prism Scale	spotify:track:34p5mFJ2yMJJBewufyvq4s
-Epoch	Tycho	Epoch	spotify:track:5G4SFL3OIkg1X5Es2jwrnF
-Never Lost	Amtrac	1987	spotify:track:5gFYPS2iyiiQMMvzBlF4a5
-Ether	dBridge	Inhibited LP	spotify:track:5PdSt6fmAgBO5twd1xTv4j
+Club der Ewigkeiten	DJ Koze	Knock Knock	spotify:track:2ywFTaCXKedBFlYA0XcHJM
+Angels	Dark Sky	Othona	spotify:track:4TQmCn0e9L7XTiKY4Hk8X4
+Passing Trains	George FitzGerald	All That Must Be	spotify:track:01oZjrRICAL5l0sSFqpb5D
+Fire in the Jungle	Godblesscomputers	Fire in the Jungle	spotify:track:2bG3V8jTu1dmzyx3cLNaOj
 Memory Arc	Rival Consoles	Persona	spotify:track:74EnBZX68SMjd6rTylcpPe
-Ecdysis	Flume	Hi This Is Flume (Mixtape)	spotify:track:1EFPehJv13my9zvLFzGE8Z
-Heat 1	Shinichi Atobe	Heat	spotify:track:7KtbZxJU9ZdIyJJ4QMzx66
-Plantas Falsas	Bruxas	Más Profundo	spotify:track:7fM8Y18DzAoNiDOv2ZGyJm
-The Mountain Will Fall	DJ Shadow	The Mountain Will Fall	spotify:track:7fKjt9lQRrbi7JaqfIsjIH
-Hearts	Blackbird Blackbird	Hearts	spotify:track:0eBWx5UyJmmBVBgMGiEY7V
-Rings	Tycho	Epoch	spotify:track:5DQEWQoJ3deYCPkRIFm3Ci
-Everything All at Once	G Jones	The Ineffable Truth	spotify:track:2FCu1NM98eXCds1M0ikzWj
+Haul (Max Cooper Remix)	Christian Löffler, Max Cooper	Mare Reworks	spotify:track:6WXXOjaynxjyiyXwD6Wh2g
+Subtractive Skies	Steve Hauschildt	Subtractive Skies	spotify:track:5TTxqNygjuZTh5ILVDN33r
+Shimmer	Sinjin Hawke	First Opus	spotify:track:7dy1n3TtiCfmCYG1EeAXGZ
+Rose's Thorn	TOKiMONSTA	Lune Rouge	spotify:track:2hlqCFahLVgdBIbY3yTrAb
+Insight	BOP	Insight	spotify:track:3RlKU8y6NXxhPN9JmKraDA
+Feel First Life	Jon Hopkins	Singularity	spotify:track:4esxro8J1rbsalCPb0yrgC
+The Frontier (High Desert Synthapella)	Avalon Emerson	Whities 006	spotify:track:2YHCMi1Jh6jeI5Y8jl4FZp
 Once Around	Cubicolor	Hardly A Day, Hardly A Night	spotify:track:17C3EXdU2eFGKnesQTkEJr
-Distant Light	Max Cooper	Emergence	spotify:track:0mwp6nRewuBh0Nt9MAXGid
+Voices In My Head	Vikram Dhakal	Voices In My Head	spotify:track:0JUO6DhIHlpZ4GJWWhr2RG
 Shell Game - Original Mix	DMX Krew	Glad To Be Sad	spotify:track:4HpKLgvBpFlLgW5RhXGGc7
-Dreamtime	Flume	Hi This Is Flume (Mixtape)	spotify:track:6exPfsexVWEsVf8MHsmASw
-Wardenclyffe	S U R V I V E	Wardenclyffe - Single	spotify:track:69ujnOkXP2lMpKBJWJ3eXY
-Recovery	Jon Hopkins	Singularity	spotify:track:76KAhZF6OzEzNXs4gotNO0
-Bergschrund (feat. Nils Frahm)	DJ Shadow, Nils Frahm	The Mountain Will Fall	spotify:track:2Q1D9JJwhcrsYzYyRpc0xM
-Orgoned	Kiasmos	Orgoned	spotify:track:21NTki3htdOVxJhSuknJK0
-Departure	Com Truise	Persuasion System	spotify:track:0gfH72SXYLCXbDfGnGE5IT
-I Remember Maine	Swardy	Here on My Own	spotify:track:1YrV8fAkywtQ1fs4GwGewK
-Selva Cósmica	Bruxas	Más Profundo	spotify:track:3RQ83WEq2VR4a1Gytt80P6
-Sound In A Dark Room - Bassnectar Remix	Telefon Tel Aviv, Bassnectar	Reflective (Part 4)	spotify:track:3MJVyTcumDVSCv4Gurv4Eg
-Rising Urge - Lost Tapes	Röyksopp	Rising Urge (Lost Tapes)	spotify:track:7Bm0j8ALNJ7ledPN0fKfBw
-╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌╫§╜φ°⌂▌	Flume	Hi This Is Flume (Mixtape)	spotify:track:2YF4eWmwwFA8fkx2IE0djt
+Everything All at Once	G Jones	The Ineffable Truth	spotify:track:2FCu1NM98eXCds1M0ikzWj
+Heal Me	Pearson Sound	Robin Chasing Butterflies	spotify:track:7o71V9ORhk5GSZEAiXSFyv
+Distant Light	Max Cooper	Emergence	spotify:track:0mwp6nRewuBh0Nt9MAXGid
+The Mountain Will Fall	DJ Shadow	The Mountain Will Fall	spotify:track:7fKjt9lQRrbi7JaqfIsjIH
 ACE OF CUPS	LSDREAM	RENEGADES OF LIGHT	spotify:track:1upAhgDBWCV0AvUxgAU6SR
 Isolate	Maya Jane Coles	Waves & Whirlwinds	spotify:track:7duCz5DC1bQyaViBGZcDjs
-Subtractive Skies	Steve Hauschildt	Subtractive Skies	spotify:track:5TTxqNygjuZTh5ILVDN33r
-Trippest Flu	Swardy	Down	spotify:track:7vQXx4T1BWP7NgLe65F7hb
-Intro	ODESZA	Summer's Gone	spotify:track:7ISreWAUq3CMXWWJHfmPzP
-Holograms	M83	Les rencontres d'après minuit / You and the night (Original Motion Picture Soundtrack)	spotify:track:6tLYPxKdgdZgoinFzjYuHB
-Mr. Skitters	Medasin	Mr. Skitters	spotify:track:4XE9Ggjr33rRGbjDHbGaTQ
-Tiny Foldable Cities - Edit	Orbital	Tiny Foldable Cities	spotify:track:4vmNRQQJZcQaJByRjJgCXy
-Gilded	Sarah Davachi	Gave in Rest	spotify:track:0cSdWJzO18liElNMCAYCig
-Ebb and Flow	Above & Beyond	Flow State	spotify:track:74xxZoxsTlQv3wG6woxh4h
-Stairfoot Lane Bunker - Minor Science Remix	Special Request, Minor Science	Stairfoot Lane Bunker	spotify:track:3u8t4yJcbYFYzipDYQN59H
-Invaluable Waste from the Outlying Districts, Pt. 04	Moderat	A Thought of Ecstasy (Original Motion Picture Soundtrack)	spotify:track:0SpAYfKBDclNahOhi33FBN
-14	Kölsch	1989	spotify:track:0g2E4GVRbs4XHy96dLiv9V
-Home Pt. 1	Justin Jay	Home	spotify:track:6saPrg6S00jIed8tGj6DpW
-A Moment Apart	ODESZA	A Moment Apart	spotify:track:59wlTaYOL5tDUgXnbBQ3my
-Hmu (feat. Clay Parnell & Rory "Sweet Boy" Dolan)	Space Jesus, Clay Parnell, Rory "Sweet Boy" Dolan	Atom + Eve	spotify:track:5F3t5WgLyBX2W7un8IXiLD
-The Box - Part 2	Orbital	In Sides (US DMD)	spotify:track:5xV19Hukr2Vo1qRjc0GD3C
-Warm Blue	Medasin	Irene	spotify:track:1GdkGsln9i2RYro5gTAht7
-cabin	deadmau5	Polar (Music from the Netflix Film)	spotify:track:7yKMGeJM3EjNrS6QXnY6xP
-Grieg: Peer Gynt (Death Of Aase) - Solomon Grey's Paradise Lost Rework	Edvard Grieg, National Philharmonic Orchestra, Willi Boskovsky, Solomon Grey	re:works	spotify:track:4HK3N5xqVguP5Sk583EazM
-Gem	boerd	Misplaced I	spotify:track:7pKAGTpmoKAQfFqW6etJgo
-Flood Gates	Sinjin Hawke	First Opus	spotify:track:20HrDfYP92YCWRvUHjFdBc
-Ghomrassen	Bonobo	Star Wars Headspace	spotify:track:3KLlLHrAQsDUryZc3fMx7P
-PAST LIGHT	Willaris. K	5 O’CLOCK / PAST LIGHT	spotify:track:3lNNZqfjA9X4S0mn5fdUZA
-Gendèr	Makoto San	Gendèr	spotify:track:73J0XZfBhvGgCloBnkXVCP
-Depth Charge	Flume	Skin Companion EP II	spotify:track:3jdYXYKW66bawC9V7mj5Wy
-Holographic Landscape	S U R V I V E	LLR002	spotify:track:09Dw1V6Pa4BDlGMQ1LFCTU
-Starlight	Embee	Starlight	spotify:track:5epMdylltsD0tLc8TCkt9M
-Aquatic Ambience	Funk Fiction	Aquatic Ambience	spotify:track:3zF1RvARE71MBXeWETPoEk
-Someone	boerd	Misplaced I	spotify:track:5q3v3zNrPnuXG0AmqqMB4I
 Mainframe	Pye Corner Audio	Where Things Are Hollow	spotify:track:2uzrqj79NJ5QgSUzVo7ML6
-Try - Interlude	Shallou	Magical Thinking	spotify:track:3qbfnMTTiGh1Dt9r5vLGEO
-Interlude	The Blaze	Territory	spotify:track:0AV6NavKfgyIe7z8tU4sdy
-Leaving Earth 2	Medasin	Irene	spotify:track:0u74chsSgmcIyhhOqTrEyV
-Subtract	A.L.I.S.O.N	Signal Flow	spotify:track:6CuyhncZBwwn1pt1amDPXq
-Brrrap!!	Tsuruda	Slippin' / Brrrap!!	spotify:track:1EiR6pce8KgrYGmPGU5xjY
-C O S M	Jon Hopkins	Singularity	spotify:track:4Hg9jafzzKavElQMAINzeP
-It Fades Away	boerd	It Fades Away	spotify:track:4mr0X52T5dX5wtDgKcYx3h
-The Box, Pt. 1	Orbital	In Sides (US DMD)	spotify:track:6PJXpEU14u672tnA0INJKR
-Sun In Your Eyes	Above & Beyond	Flow State	spotify:track:0grMKtIZ6KyHXczsbc6xUM
-Time Has Come	Commix	Commix Presents Dusted	spotify:track:6p6uByaFRKLblH2deQQN1R
-Sweet Apocalypse	Moby	Last Night (Bonus Tracks Edition)	spotify:track:2u5OxLRtgdazMVLcRev2ds
-Arcade Dreams	The Midnight	Arcade Dreams	spotify:track:0D0kIo64u1uXLNeH0j2JzW
-Serious Mood	Point Point, Pyramid	Serious Mood	spotify:track:6KdqE1loutetHOOJCTt0qc
-Lapland	Ninajirachi	Lapland	spotify:track:5wxqdrmFRKdSxisvmgWg17
-Papua New Guinea - Dumb Child Of Q Mix	The Future Sound Of London	Earthbeat	spotify:track:0WN2Sm4wXpL5LqBlUEDiSr
-Icy Blue Coral	RRUCCULLA	Icy Blue Coral	spotify:track:5PpPdaQ8GRL4Gqe1uPgQiM
-Sirocco - Original Mix	Bruxas	Sirocco	spotify:track:5qYEM2wsezbb37E786zIxm
-The Muse	Lux Prima	Divisional Articulations	spotify:track:6weh7iGLagI2lFYHuGuIcb
-Because I Feel Synths	VRWRK	Because I Feel Things	spotify:track:3YEYMsIZfF2mU2LQkKJupq
-Jasmine Oceans	Julien Mier	Stirring Child Spirits	spotify:track:3XkUCBouaD0NOAjfbi5D95
-Indian Summer	Lakehouse	Lakehouse	spotify:track:4LFyYrzvgIBS1pTzYWLAj4
-The Crab	J3PO	The Crab	spotify:track:1UTdsgXAFqyJjEERtaVT8r
-Homecoming	Above & Beyond	Flow State	spotify:track:2DcJgbkcus5G7TrJZZwsuh
-The Warehouse	The M Machine	Glare	spotify:track:6cofOcVh37qyVEuBBVd6Wi
-Star Tripper	Breakbot	Star Wars Headspace	spotify:track:62GJnNUrj6V1LPBS5zaKrk
-Show Me	ODESZA	A Moment Apart	spotify:track:5k4MVfklNSMZZHB1jxvKrr
-Dissolve	Liquid Stranger	Dissolve	spotify:track:7eLNDNV7Y2Qrcrya9zKeTA
-Weird Summer	Medasin	Irene	spotify:track:2KmGCjvla5f5wjUAoVRwJ1
-Topaz	Oatmello, Cloudchord	Diamonds	spotify:track:397FlWenFDWA1G6DdFmhdq
-Digital Views	dBridge	Inhibited LP	spotify:track:1p1KnbCGDG0GiGwMtRPIBF
-Cure for the Itch	Linkin Park	Hybrid Theory (Bonus Edition)	spotify:track:3rpnfXSECgapxeGeRgUYqy
-1989 (feat. Ludwig Kölsch)	Kölsch, Ludwig Kölsch	1989	spotify:track:6rrwmDaDa3n7hgQruR3dc1
+Orgoned	Kiasmos	Orgoned	spotify:track:21NTki3htdOVxJhSuknJK0
+Open Doors	dBridge	Inhibited LP	spotify:track:7q42RrxgVbwqHrFUIj6w4E
+Aerie	Southern Shores	Siena	spotify:track:73iKoDdtumBpcIIZaNpuEU
+Rising Urge - Lost Tapes	Röyksopp	Rising Urge (Lost Tapes)	spotify:track:7Bm0j8ALNJ7ledPN0fKfBw
+Zero hour Contract	ELLES	emo_ecstasy_everything	spotify:track:0OfvPrxmGF63QBUjnXyzU3
+Bergschrund (feat. Nils Frahm)	DJ Shadow, Nils Frahm	The Mountain Will Fall	spotify:track:2Q1D9JJwhcrsYzYyRpc0xM
+Gendèr	Makoto San	Gendèr	spotify:track:73J0XZfBhvGgCloBnkXVCP
+Gilded	Sarah Davachi	Gave in Rest	spotify:track:0cSdWJzO18liElNMCAYCig
+cabin	deadmau5	Polar (Music from the Netflix Film)	spotify:track:7yKMGeJM3EjNrS6QXnY6xP
+I Remember Maine	Swardy	Here on My Own	spotify:track:1YrV8fAkywtQ1fs4GwGewK
 Fatal Error	Barclay Crenshaw	Barclay Crenshaw	spotify:track:1uqpS2HZQJzlER6CsRtGM2
-ETERNAL NOW	LSDREAM, Champagne Drip	ETERNAL NOW	spotify:track:40XVgYlIzqv4cndzgam9uW
-Awake - Com Truise Remix	Tycho, Com Truise	Awake (Deluxe Version)	spotify:track:4qatvTY4ntZeZyBWYLdKIk
-Thin Floors And Tall Ceilings	ODESZA	A Moment Apart	spotify:track:1zyMwU1NtRDkuQWthUbGsL
-Silver	Somni	Bloom	spotify:track:4LT2kEBHiqRFFszfshq7sd
-The Rapture Pt.II	&ME	The Rapture Pt.II	spotify:track:126B1mu0tb4gEqyjufUjms
-Dusk	Evil Needle, chromonicci	Dusk	spotify:track:4EJ7A3F6xyI6UBUYjRtSEa
-Sea Of Voices	Porter Robinson	Worlds	spotify:track:2lNFWUrxuNaQsf5I1pDTPr
-How Strange - Nicola Cruz Remix	FEATHERED SUN, Acid Pauli, Nu, Jo.Ke, Raz Ohara, Chris Schwarzwalder, Nicola Cruz	How Strange	spotify:track:1z16gOcthPInw39ZiMwcl9
-Session	Linkin Park	Meteora (Bonus Edition)	spotify:track:5KNJ2qBD92lNfdcdcHmzEY
-Seven Peaceful Deities	Surgeon	Luminosity Device	spotify:track:6XhgPsCzUI4eFZcHpxGFz6
-Gin	Oatmello, Cloudchord	Diamonds	spotify:track:0nQ7GqFn1SIrYY4KZb2h7u
-Oxygen.absorber	Austin Haga	SPLIT EP	spotify:track:4CjgdO19EpjeJrt7z6dfhU
-Adieu	What So Not	Divide & Conquer	spotify:track:2M5qth30iBEU1DwurvxaAE
-Noth	Mad Zach, yunis	Noth	spotify:track:4bBaxQtS3RMjMJRRaREdAZ
-Solarized	Above & Beyond	Flow State	spotify:track:4ZgwUdML0BSBjjY5BZ1Ak6
-Swift Code	Christian Löffler, Marcus Roloff	A Forest	spotify:track:7vxz7zMvdxhsB8CDiN95ec
-Blanky (feat. Michiel Borstlap)	Joris Voorn, Michiel Borstlap	Four	spotify:track:4GV8JDF8UG3RIn3zhhDebT
-20202020202020	Griffin Brown	20202020202020	spotify:track:03tHPbK1Fewb9noTtubDKR
-XX Intro - Original Mix	Kate Simko, London Electronic Orchestra	Kate Simko & London Electronic Orchestra	spotify:track:6PBjqYBDA09CG7WJm4sXKF
-Right Now	Solomon Grey	Solomon Grey	spotify:track:5o9xnscjsBZ7S250klvF9z
-Intro	ODESZA	A Moment Apart	spotify:track:1aRtduEHwvk2AMR87ji9Tg
-Whispering Wind (B-Sides)	Moby	Play & Play: The B Sides	spotify:track:21VSSsSwr0oTNJQtILJbdK
-Machine Keys	Cubicolor	Brainsugar	spotify:track:7L96oyotFbLOxKAfywRczR
-Gemini	What So Not	Stereosonic Festival Anthems 2015	spotify:track:7De25QZjlGdOYMB8bdBi3e
-Night Light	Above & Beyond	Flow State	spotify:track:00mZmQ1kdWxmRtEA3A9olx
-Roman	Christian Löffler	Young Alaska	spotify:track:6xIoTyFvqpswNNiLPpfLvz
-Moonlight	Embee	Moonlight	spotify:track:60MMCMZXRFjP43IgWNBre1
-Landside	Matt Fax	Contrast	spotify:track:0MYcDq74yEMem9mW3m2ELY
-chill	deadmau5	Polar (Music from the Netflix Film)	spotify:track:2yX8nS9n0uZ70OrnUYpkyW
-Episodes	Mishegas	Episodes	spotify:track:4lIfzxIDvFtWmelRLY4oud
-Harbour - Original Mix	Soundprank	Anjunabeats Chilled Summer	spotify:track:2eJTBg24OcjIQbld3libGX
-this again..	SwuM, quickly, quickly	this again..	spotify:track:4jUTKYm8WUK3nUox8UuAau
-White Moon Garden	Deadboy	White Magick - EP	spotify:track:4KeuCAsq7wXLssyigUnAQh
-Pale Skin	Christian Löffler	A Forest	spotify:track:7MNBvMmbdmQyc5beXqrDLH
-Moons	Embee	Moons	spotify:track:4t4uk0wS8mvGwuAsGW9TB8
-Carved	Makeness	Carved	spotify:track:7kUSRA7okepMYHtvQvMGQW
-Sorry I'm Late	nosy beats	Sorry I'm Late	spotify:track:2RyguUkAyXZCy9fPm9t287
-Galileo	Super Duper	VHS	spotify:track:2d8cXtTTzs0X4UTdhO98am
-Goodnight Waves	Sonny Side Up	Goodnight Waves	spotify:track:7dlck0U6iU2xhhc3WRyBIU
-Grief	Legendcast	Grief	spotify:track:6vcNAgy8A8DOGBIOMePH7k
-Other Worlds	Bassnectar, Dorfex Bos	Reflective (Part 2)	spotify:track:71VqCMlnkqH1TYnRUk6IHG
-Begin at the End	Swardy	Here on My Own	spotify:track:6lBu7wQzyNUbZ9WOCsZbEB
-Kelmpt Lon	Prospect Lux	Gray Instrument, Vol. 2	spotify:track:6ZJn9cMCAlFan6vy0tfUrS
+Half Awake	Joey Pecoraro	Half Awake	spotify:track:2UUVwDVZYR5StS7Si0SxrP
+Spike	Max Cooper	Spike	spotify:track:4DxGYJgokpQi2ChUzQEzp6
+PAST LIGHT	Willaris. K	5 O’CLOCK / PAST LIGHT	spotify:track:3lNNZqfjA9X4S0mn5fdUZA
+Gone Fishing	Harris Cole	Gone Fishing	spotify:track:43ZYhWQmtLdtgISK8QmBGE
+14	Kölsch	1989	spotify:track:0g2E4GVRbs4XHy96dLiv9V
+Leaving Earth 2	Medasin	Irene	spotify:track:0u74chsSgmcIyhhOqTrEyV
+Home Pt. 1	Justin Jay	Home	spotify:track:6saPrg6S00jIed8tGj6DpW
+Starlight	Embee	Starlight	spotify:track:5epMdylltsD0tLc8TCkt9M
+Formation	Louf	Formation	spotify:track:4EeltidRUkfOcyGqHmCZvA
+Subtract	A.L.I.S.O.N	Signal Flow	spotify:track:6CuyhncZBwwn1pt1amDPXq
+Just Saying	Jamie xx	In Colour	spotify:track:6wYROkv6ZrZJiS8utsY8P6
+The Warehouse	The M Machine	Glare	spotify:track:6cofOcVh37qyVEuBBVd6Wi
+Wave Propagation	10th Letter	Prism Scale	spotify:track:34p5mFJ2yMJJBewufyvq4s
+The Last Dance - Synthapella	Eagles & Butterflies	Art Imitating Life Vol. 3	spotify:track:5aK6dgeUUB12XBgOryteAa
+C O S M	Jon Hopkins	Singularity	spotify:track:4Hg9jafzzKavElQMAINzeP
+Sirocco - Original Mix	Bruxas	Sirocco	spotify:track:5qYEM2wsezbb37E786zIxm
 Neo (Tiger Lou Remix)	Christian Löffler, Tiger Lou	Mare Reworks	spotify:track:7s1WxIDmQ9OsFqApFLj6E3
-Further Than It	Mad Zach	Further Than It	spotify:track:6typP3PydlxW5m90XWkxYo
-Little Guy	Bob Juburi	Little Guy	spotify:track:3Ca3zAKGzcrd9ToMleCcdX
-I Need Space	M!NT 	I Need Space	spotify:track:2y6krW4iylDWiKVxTzUJcE
-Requiem for Vega	Lawrence Lui	Retroism EP	spotify:track:2ipxQSBcvB28gbFThM3zI5
-self-love	San Holo	The Trip EP	spotify:track:20Qufms0u6e9mHprf81SzX
-Prelude	The Blaze	Territory	spotify:track:1q1p0bsfEgqXDEWo1kx363
-Music for Happiness	Joey Pecoraro	Music for Happiness	spotify:track:5ZembGG7zKzIeSOuTCWPQW
-The Departure	Go Yama	The Departure	spotify:track:70a2Em6lDF6zowPLHWjWTA
-Time Capsule	Nick Beman	Time Capsule	spotify:track:02ht7aTttJ0zbbHQh6jKlL
-Sunday Maybe	Way Out West	Sunday Maybe	spotify:track:6k2pBpf10f3DNWKykGGJjn
-Intro	Cubicolor	Brainsugar	spotify:track:4bjeltvdBsWvyGDsZ0QwvH
+Dissolve	Liquid Stranger	Dissolve	spotify:track:7eLNDNV7Y2Qrcrya9zKeTA
+Ghomrassen	Bonobo	Star Wars Headspace	spotify:track:3KLlLHrAQsDUryZc3fMx7P
 Scene 2	Gui Boratto	Pentagram	spotify:track:0MrHjYitcj2AM851dimyn3
+Gem	boerd	Misplaced I	spotify:track:7pKAGTpmoKAQfFqW6etJgo
+Bleached Flamingo	Stavroz	Bleached Flamingo	spotify:track:7Auyn5OOY5uejUSqDGDc8e
+Sweet Apocalypse	Moby	Last Night (Bonus Tracks Edition)	spotify:track:2u5OxLRtgdazMVLcRev2ds
+XX Intro - Original Mix	Kate Simko, London Electronic Orchestra	Kate Simko & London Electronic Orchestra	spotify:track:6PBjqYBDA09CG7WJm4sXKF
+Swift Code	Christian Löffler, Marcus Roloff	A Forest	spotify:track:7vxz7zMvdxhsB8CDiN95ec
+The Visitor	Mad Zach	The Visitor	spotify:track:6cpOIIgk3nZ30imud87dGK
+Topaz	Oatmello, Cloudchord	Diamonds	spotify:track:397FlWenFDWA1G6DdFmhdq
+Jasmine Oceans	Julien Mier	Stirring Child Spirits	spotify:track:3XkUCBouaD0NOAjfbi5D95
+I Need Space	M!NT 	I Need Space	spotify:track:2y6krW4iylDWiKVxTzUJcE
+Harbour - Original Mix	Soundprank	Anjunabeats Chilled Summer	spotify:track:2eJTBg24OcjIQbld3libGX
+Moons	Embee	Moons	spotify:track:4t4uk0wS8mvGwuAsGW9TB8
+Machine Keys	Cubicolor	Brainsugar	spotify:track:7L96oyotFbLOxKAfywRczR
+Slow Buchla Sunshine	Above & Beyond	Flow State	spotify:track:4cwLYDk0qjI7hiwVA5TVSn
+Noth	Mad Zach, yunis	Noth	spotify:track:4bBaxQtS3RMjMJRRaREdAZ
+Further	ATTLAS	Further	spotify:track:3eROgdA5NjH03NF9RvInML
+Nightrun - Comaduster Remix	Trifonic, Comaduster	Nightrun (Comaduster Remix)	spotify:track:7Ld52GLxKBEFuydXBQVcqF
+Bleary-Eyed	Keeno	Futurist	spotify:track:2yJGyMf1BurGMyR4cqKfCX
+Landside	Matt Fax	Contrast	spotify:track:0MYcDq74yEMem9mW3m2ELY
+[Time] Place	Neighborhood Libraries	Golden Hours, Pt. 1	spotify:track:7y5KNFzUITQC3ObeFkf9cj
+Deep Blue	AK	Deep Blue	spotify:track:6CPOy0ncsGyFo4nDRItmfU
+Intro	Cubicolor	Brainsugar	spotify:track:4bjeltvdBsWvyGDsZ0QwvH
+Episodes	Mishegas	Episodes	spotify:track:4lIfzxIDvFtWmelRLY4oud
+Trunk Junk	Mad Zach	Out of Body	spotify:track:0ocJfFZr54mVbzLAtgHCjT
+Eleven	Klahr	Eleven	spotify:track:51ut6Hl3648UeCIuqMHymx
+Blanky (feat. Michiel Borstlap)	Joris Voorn, Michiel Borstlap	Four	spotify:track:4GV8JDF8UG3RIn3zhhDebT
+Sunday Maybe	Way Out West	Sunday Maybe	spotify:track:6k2pBpf10f3DNWKykGGJjn
+Crate	Austin Haga	SPLIT EP	spotify:track:0KK2zNRwCnDCaXHaGDPzQ3
+Respect The Source	Barclay Crenshaw	Barclay Crenshaw	spotify:track:7chpNfkxBfsGpUzj9btqLe
 Rare	Blake Skowron, Harris Cole	Rare	spotify:track:3vO4yolddOhdDHWL5GB0Fn
-Immersion	Jaffna	Ripples	spotify:track:1fchgXINtcQqZRAjKicdzz
-Release	Getter, Midoca	Visceral	spotify:track:3158gk3gslAHlPrapSLKrA
-Nyquist	deadmau5	mau5ville: Level 1	spotify:track:2vPlEZrLXYhZkMzEFyfroi
-Ryat	ATTLAS	Ryat	spotify:track:1MXmtk0zJhEhi4bqiPkq3D
 
 Indie Workout
 Seasons (Waiting On You)	Future Islands	Singles	spotify:track:41X9To0bQ4fpoSRri4NHiI
 Guilty Conscience - Tame Impala Remix	070 Shake, Tame Impala	Guilty Conscience (Tame Impala Remix)	spotify:track:5i5fCpsnqDJ9AfeObgd0gW
-Odessa	Caribou	Swim	spotify:track:5K6TfvT7sKAuEatUpHVvPQ
 Boy From School	Hot Chip	The Warning	spotify:track:7BR8iLWgruHFVRKMMDnIXD
-Comeback Kid	Sharon Van Etten	Comeback Kid	spotify:track:4uwpFuqYn5wON8iRg2mnhp
+Odessa	Caribou	Swim	spotify:track:5K6TfvT7sKAuEatUpHVvPQ
 Revival	Deerhunter	Halcyon Digest	spotify:track:30wvVTkqA4Fp5ZCG0xGof7
-Origins	Tennis	Young & Old	spotify:track:0PP4DZw3cg3mq9JqO0a4rN
-Ever Again	Robyn	Honey	spotify:track:5dYx6Vg16YTZwtR5obw4xz
-Alaska	Maggie Rogers	Alaska	spotify:track:1MsyEbEQca1sfC9JnkKnOm
 Wraith Pinned to the Mist and Other Games	of Montreal	The Sunlandic Twins	spotify:track:24HPkbkXJsIFC4eyg63zgQ
+Comeback Kid	Sharon Van Etten	Comeback Kid	spotify:track:4uwpFuqYn5wON8iRg2mnhp
+Had To Hear	Real Estate	Atlas	spotify:track:5pQXoXlUoNIv7L0PvY9E26
+Packt Like Sardines in a Crushed Tin Box	Radiohead	Amnesiac (Collector's Edition)	spotify:track:1lv2cq78vX9q9Sz8uqkTSu
 A Dream of You and Me	Future Islands	Singles	spotify:track:75dPA4e9zmNGZCMnTxHj6P
 Feel Your Weight - Poolside Remix	Rhye, Poolside	Blood Remixed	spotify:track:5heenx8v6qCOumRI9jpRBS
-Edge of Town	Middle Kids	Edge of Town	spotify:track:2NDtUkj8KbzqCQwhWeKlfx
-Had To Hear	Real Estate	Atlas	spotify:track:5pQXoXlUoNIv7L0PvY9E26
+The Rat	The Walkmen	Bows + Arrows	spotify:track:2YIOkqKgg3jZEFoL5qcEPT
+Ever Again	Robyn	Honey	spotify:track:5dYx6Vg16YTZwtR5obw4xz
+Alaska	Maggie Rogers	Alaska	spotify:track:1MsyEbEQca1sfC9JnkKnOm
+Gronlandic Edit	of Montreal	Hissing Fauna, Are You The Destroyer?	spotify:track:3X8gOyVXP93Tslnz9Bxw24
+Origins	Tennis	Young & Old	spotify:track:0PP4DZw3cg3mq9JqO0a4rN
+A Simple Beautiful Truth	Wild Beasts	Present Tense	spotify:track:5SlwTJdhDbZEKvq5DlkWRb
+Cruel	St. Vincent	Strange Mercy	spotify:track:3j5DVpcCELigVZrmwGOw3X
+Back in the Tall Grass	Future Islands	Singles	spotify:track:6mfUwnHd7OTYPEWmOsvJsn
 gun-shy	Grizzly Bear	Shields	spotify:track:51J200kBCGrPT1enOCBfbT
 New Beat	Toro y Moi	Underneath The Pine	spotify:track:7jWIolCo1nHYaAmOvFH0Lo
-Party Talk	Craft Spells	Idle Labor	spotify:track:6N2kBsYvZaS7tO5awPcnSV
-A Simple Beautiful Truth	Wild Beasts	Present Tense	spotify:track:5SlwTJdhDbZEKvq5DlkWRb
-Coins	Local Natives	Coins	spotify:track:5tN8YCXxRHewAyPWfyUdVw
-Gronlandic Edit	of Montreal	Hissing Fauna, Are You The Destroyer?	spotify:track:3X8gOyVXP93Tslnz9Bxw24
-Back in the Tall Grass	Future Islands	Singles	spotify:track:6mfUwnHd7OTYPEWmOsvJsn
-Cruel	St. Vincent	Strange Mercy	spotify:track:3j5DVpcCELigVZrmwGOw3X
-The Rat	The Walkmen	Bows + Arrows	spotify:track:2YIOkqKgg3jZEFoL5qcEPT
-Could I Be	Sylvan Esso	Sylvan Esso	spotify:track:4nPg1JG5d7WrgGGOmJHrbP
-Dear To Me	Electric Guest	Plural	spotify:track:5n2kAftaxSkdW4443xGxy4
+Edge of Town	Middle Kids	Edge of Town	spotify:track:2NDtUkj8KbzqCQwhWeKlfx
 What Ever Happened?	The Strokes	Room On Fire	spotify:track:78Gzxi27GuNHTfkn2BylG4
-After the Moment	Craft Spells	Idle Labor	spotify:track:5ozIJrlaCAf3g8MMyot483
-Packt Like Sardines in a Crushed Tin Box	Radiohead	Amnesiac (Collector's Edition)	spotify:track:1lv2cq78vX9q9Sz8uqkTSu
+Could I Be	Sylvan Esso	Sylvan Esso	spotify:track:4nPg1JG5d7WrgGGOmJHrbP
 Wide Eyes	Local Natives	Gorilla Manor	spotify:track:44DnIGEvTlhDkGv3xLSDcp
+Party Talk	Craft Spells	Idle Labor	spotify:track:6N2kBsYvZaS7tO5awPcnSV
+The Bay	Metronomy	The English Riviera	spotify:track:3ySxo6vRP0t9WCqhYXXMWN
 Elephant	Tame Impala	Lonerism	spotify:track:6qZjm61s6u8Ead9sWxCDro
 Afterlife	Arcade Fire	Reflektor	spotify:track:6D43oUO6nImERk2psfXdNY
-New Slang	The Shins	Oh, Inverted World	spotify:track:5IXopLipnMznYNwLB9MzYi
-The Bay	Metronomy	The English Riviera	spotify:track:3ySxo6vRP0t9WCqhYXXMWN
-All The Wine	The National	Alligator	spotify:track:7bO99KcE4fdkRBnAtm45zE
-Chinatown	Wild Nothing	Gemini	spotify:track:5ItgbH523aKmENTTtikCxO
-No Stranger	Small Black	Limits of Desire	spotify:track:7GPbLkRMgFuU4WtTYYFmeW
-Saltwater	Geowulf	Saltwater	spotify:track:1zXpHPdBAUxnOCQqFMFLk3
-Class Historian	BRONCHO	Just Enough Hip To Be Woman	spotify:track:5iaWq4djtfWZk8McqrtprO
 Heavy Metal Drummer	Wilco	Yankee Hotel Foxtrot	spotify:track:4xmeLj3uVcoAwgDtwM4MbG
-The Less I Know The Better	Tame Impala	Currents	spotify:track:4g3Ax56IslQkI6XVfYKVc5
-Life Itself	Glass Animals	Life Itself	spotify:track:2cKBRXAja8JIgF2gSmrMke
-Phantom Limb	The Shins	Wincing The Night Away	spotify:track:4l8knlwTeoTmSnGi45kqZ8
-Ruin Your Night	Sorcha Richardson	Ruin Your Night	spotify:track:6WkUf2gOjccjhJOvFeHx57
+No Stranger	Small Black	Limits of Desire	spotify:track:7GPbLkRMgFuU4WtTYYFmeW
 L.E.S. Artistes	Santigold	Santigold	spotify:track:4dmCLAZbWYT0qtcG7GVMdb
-We Used To Wait	Arcade Fire	The Suburbs	spotify:track:4HFL4WyH8gdR4eFof9mdoU
-Come Save Me	Jagwar Ma	Howlin	spotify:track:1LwxeFBV1dODgamm5MBTrP
-At My Heels	Twin Shadow	Forget	spotify:track:3oZFrabzEvkK2RL2SapqQG
-When They Fight, They Fight	Generationals	Con Law	spotify:track:37r6i0GTqgR05rGe5wNhmp
-Fineshrine	Purity Ring	Shrines	spotify:track:5KeyVNymqfqac1wLDseK8v
-High School Lover	Cayucas	Bigfoot	spotify:track:2hPT4VtaYhDY5OcT7jxzAb
-Coronado	Deerhunter	Halcyon Digest	spotify:track:2j0kpHKxlhWopk8usDrHmw
-Last Words	Hospitality	Trouble	spotify:track:6iRuPEB8pTRCsb6fyoUivj
-How Can You Luv Me	Unknown Mortal Orchestra	Unknown Mortal Orchestra	spotify:track:36iH5eNcnJiNgzyoCOljyS
-Luna	Bombay Bicycle Club	So Long, See You Tomorrow	spotify:track:2Nr1C6IbNHkVxXWc9l9QLB
-Santa Fe	Beirut	The Rip Tide	spotify:track:6c9t15M38cWxyt3uLnLfD8
-My Number	Foals	Holy Fire	spotify:track:4c9WmjVlQMr0s1IjbYO52Z
-Gun Has No Trigger	Dirty Projectors	Swing Lo Magellan	spotify:track:3dvnVubqVeeOjabs0wC1YB
-11th Dimension	Julian Casablancas	11th Dimension	spotify:track:10thiO3wUYUguz1VvkIiVN
+New Slang	The Shins	Oh, Inverted World	spotify:track:5IXopLipnMznYNwLB9MzYi
+Coins	Local Natives	Coins	spotify:track:5tN8YCXxRHewAyPWfyUdVw
 Slyd	!!!	Slyd	spotify:track:2AVR7f1ftv0ziCrRWProKS
+After the Moment	Craft Spells	Idle Labor	spotify:track:5ozIJrlaCAf3g8MMyot483
+The Less I Know The Better	Tame Impala	Currents	spotify:track:4g3Ax56IslQkI6XVfYKVc5
 Lonely Press Play	Damon Albarn	Everyday Robots	spotify:track:5lEIBqvpZEGhjMg8rdVKeg
-Hail Bop	Django Django	Django Django	spotify:track:0ouqGRFLXQDvdLg8JPwM8Y
+Dear To Me	Electric Guest	Plural	spotify:track:5n2kAftaxSkdW4443xGxy4
+Chinatown	Wild Nothing	Gemini	spotify:track:5ItgbH523aKmENTTtikCxO
+Class Historian	BRONCHO	Just Enough Hip To Be Woman	spotify:track:5iaWq4djtfWZk8McqrtprO
+Phantom Limb	The Shins	Wincing The Night Away	spotify:track:4l8knlwTeoTmSnGi45kqZ8
 History Eraser	Courtney Barnett	History Eraser	spotify:track:6hxyRVYSJO2wfZYFxbxUSc
-Polish Girl	Neon Indian	Era Extraña	spotify:track:2JGSZk5y65ZF79mtDz0o9r
-Collarbone	Fujiya & Miyagi	Transparent Things	spotify:track:3yRV0V5l87Q6EyEnv3d7YJ
-Floating Vibes	Surfer Blood	Astro Coast	spotify:track:1mxqozpIELFEnfwEzTdjLs
+Fineshrine	Purity Ring	Shrines	spotify:track:5KeyVNymqfqac1wLDseK8v
+All The Wine	The National	Alligator	spotify:track:7bO99KcE4fdkRBnAtm45zE
 Golden Age	TV On The Radio	Dear Science	spotify:track:038A1NyyetJslykmlBKyGo
-Best Of Friends	Palma Violets	Best Of Friends/Last of the Summer Wine	spotify:track:3pZZrFZEN1pcOUiPGDqcjd
-If I Ever Feel Better	Phoenix	United	spotify:track:3AA8xNhDC0MpqwkGX3EP5V
-Wasting Time	Day Wave	Wasting Time	spotify:track:5fLXDcq2QiQLBjSMwCpMgO
-Feel The Pain - 2007 Remastered	Dinosaur Jr.	Without A Sound	spotify:track:3NLUIBHlfnMVk81BgxFr42
+Gun Has No Trigger	Dirty Projectors	Swing Lo Magellan	spotify:track:3dvnVubqVeeOjabs0wC1YB
+We Used To Wait	Arcade Fire	The Suburbs	spotify:track:4HFL4WyH8gdR4eFof9mdoU
 Obstacle 1	Interpol	Turn On The Bright Lights	spotify:track:7J7z5NYNlEwv5cIcjbNVHi
-Oxford Comma	Vampire Weekend	Vampire Weekend	spotify:track:2Ml0l8YWJLQhPrRDLpQaDM
-Ready For The Floor	Hot Chip	Made In The Dark	spotify:track:7lsFHOFeMyWiqaKrESLudT
-Default	Django Django	Default	spotify:track:45u89A07YEku6NRlwyvkLJ
-Breakers	Local Natives	Breakers	spotify:track:6GOBlG8lzGF9K8lyJdndvI
-The New Year	Death Cab for Cutie	Transatlanticism (10th Anniversary Edition)	spotify:track:77thsdJI4T9KEYokz2IWWG
-Glory	Wye Oak	Glory	spotify:track:1gw7z2bNgZBvQWhfTFgm02
-O.N.E.	Yeasayer	O.N.E.	spotify:track:1T3ByeSenHSeTvZ9R6fccs
-Gone	Day Wave	Gone	spotify:track:6OJMVcgJYX3rJrjN6txUOI
-Lately	The Helio Sequence	Keep Your Eyes Ahead	spotify:track:4IfsAMEKYWO6LmaDoCAUKI
+Come Save Me	Jagwar Ma	Howlin	spotify:track:1LwxeFBV1dODgamm5MBTrP
+11th Dimension	Julian Casablancas	11th Dimension	spotify:track:10thiO3wUYUguz1VvkIiVN
+How Can You Luv Me	Unknown Mortal Orchestra	Unknown Mortal Orchestra	spotify:track:36iH5eNcnJiNgzyoCOljyS
+Last Words	Hospitality	Trouble	spotify:track:6iRuPEB8pTRCsb6fyoUivj
+Polish Girl	Neon Indian	Era Extraña	spotify:track:2JGSZk5y65ZF79mtDz0o9r
+Coronado	Deerhunter	Halcyon Digest	spotify:track:2j0kpHKxlhWopk8usDrHmw
+Santa Fe	Beirut	The Rip Tide	spotify:track:6c9t15M38cWxyt3uLnLfD8
+Hail Bop	Django Django	Django Django	spotify:track:0ouqGRFLXQDvdLg8JPwM8Y
 Get Away	Yuck	Yuck (Japanese Version)	spotify:track:5ldyk4HjUWuKav8jibJn4J
-Hang Loose	Alabama Shakes	Boys & Girls	spotify:track:5OQgbhTAEOrkgtgnqHJZnF
-MJ	Now, Now	Saved	spotify:track:4pk6I8l87QhPwvWT5Wan0Q
+High School Lover	Cayucas	Bigfoot	spotify:track:2hPT4VtaYhDY5OcT7jxzAb
+When They Fight, They Fight	Generationals	Con Law	spotify:track:37r6i0GTqgR05rGe5wNhmp
+Ruin Your Night	Sorcha Richardson	Ruin Your Night	spotify:track:6WkUf2gOjccjhJOvFeHx57
+At My Heels	Twin Shadow	Forget	spotify:track:3oZFrabzEvkK2RL2SapqQG
+Floating Vibes	Surfer Blood	Astro Coast	spotify:track:1mxqozpIELFEnfwEzTdjLs
+Saltwater	Geowulf	Saltwater	spotify:track:1zXpHPdBAUxnOCQqFMFLk3
+If I Ever Feel Better	Phoenix	United	spotify:track:3AA8xNhDC0MpqwkGX3EP5V
+Oxford Comma	Vampire Weekend	Vampire Weekend	spotify:track:2Ml0l8YWJLQhPrRDLpQaDM
+Luna	Bombay Bicycle Club	So Long, See You Tomorrow	spotify:track:2Nr1C6IbNHkVxXWc9l9QLB
+Ready For The Floor	Hot Chip	Made In The Dark	spotify:track:7lsFHOFeMyWiqaKrESLudT
+Collarbone	Fujiya & Miyagi	Transparent Things	spotify:track:3yRV0V5l87Q6EyEnv3d7YJ
+Feel The Pain - 2007 Remastered	Dinosaur Jr.	Without A Sound	spotify:track:3NLUIBHlfnMVk81BgxFr42
+Life Itself	Glass Animals	Life Itself	spotify:track:2cKBRXAja8JIgF2gSmrMke
+My Number	Foals	Holy Fire	spotify:track:4c9WmjVlQMr0s1IjbYO52Z
 Love's Dart	Django Django	Django Django	spotify:track:39UeQmrJx21wVoiMykTKoA
-FACES	The Blaze	FACES	spotify:track:337GOwUkPisx8pCL7jFBeD
-Crimewave	HEALTH, Crystal Castles	F*>k Dance Let's Art - Sounds from a new American Underground	spotify:track:4yk1OoIYOdocy7ZuHENtMu
-Don't You Evah	Spoon	Ga Ga Ga Ga Ga	spotify:track:4YW2R3AqcfQEiWEYkcq2AH
 Here Comes Your Man	Pixies	Doolittle	spotify:track:0cs671lxX2eoDzr2KMuo3N
-Future Starts Slow	The Kills	Future Starts Slow	spotify:track:6BE26BerB22cVUAhFCp3TJ
-Sweet Disposition	The Temper Trap	(500) Days of Summer (Music from the Motion Picture)	spotify:track:5nWbbQ0sIEabqPxAdqmh66
-The Heat	Jungle	The Heat / Lucky I Got What I Want	spotify:track:1vOMVuIa9B7G5MRK40mcE1
-Bad Street	Mr Twin Sister	Bad Street	spotify:track:11Y8wdOlgRBI12G2wo4Nix
-After the Disco	Broken Bells	After the Disco	spotify:track:5KBU7oxkNJ0hDGby9A1plU
+Ice Cream	New Young Pony Club	Fantastic Playroom	spotify:track:02ISLTUYF5GUjKrL7zvRb9
+Lately	The Helio Sequence	Keep Your Eyes Ahead	spotify:track:4IfsAMEKYWO6LmaDoCAUKI
+Don't You Evah	Spoon	Ga Ga Ga Ga Ga	spotify:track:4YW2R3AqcfQEiWEYkcq2AH
+O.N.E.	Yeasayer	O.N.E.	spotify:track:1T3ByeSenHSeTvZ9R6fccs
+Hang Loose	Alabama Shakes	Boys & Girls	spotify:track:5OQgbhTAEOrkgtgnqHJZnF
+Best Of Friends	Palma Violets	Best Of Friends/Last of the Summer Wine	spotify:track:3pZZrFZEN1pcOUiPGDqcjd
+Crimewave	HEALTH, Crystal Castles	F*>k Dance Let's Art - Sounds from a new American Underground	spotify:track:4yk1OoIYOdocy7ZuHENtMu
+Glory	Wye Oak	Glory	spotify:track:1gw7z2bNgZBvQWhfTFgm02
+Gone	Day Wave	Gone	spotify:track:6OJMVcgJYX3rJrjN6txUOI
+Default	Django Django	Default	spotify:track:45u89A07YEku6NRlwyvkLJ
 Evil	Interpol	Evil	spotify:track:1gX30Ai6eognTQNSv3L7xa
-Heads Above	WhoMadeWho	Dreams	spotify:track:1ObcPLLXdc9SmfBK28hGfa
-Bridges	Erthlings	Bridges	spotify:track:0ojeWdAk2FwiwrLqH2BiKI
 Do You	Spoon	Do You	spotify:track:74OReiDytIfln5dsYsSCsz
+Bad Street	Mr Twin Sister	Bad Street	spotify:track:11Y8wdOlgRBI12G2wo4Nix
+FACES	The Blaze	FACES	spotify:track:337GOwUkPisx8pCL7jFBeD
+The Heat	Jungle	The Heat / Lucky I Got What I Want	spotify:track:1vOMVuIa9B7G5MRK40mcE1
+MJ	Now, Now	Saved	spotify:track:4pk6I8l87QhPwvWT5Wan0Q
+After the Disco	Broken Bells	After the Disco	spotify:track:5KBU7oxkNJ0hDGby9A1plU
+Happy Idiot	TV On The Radio	Seeds	spotify:track:63mnZ0zF5fBwJzYg2pDo9e
+Future Starts Slow	The Kills	Future Starts Slow	spotify:track:6BE26BerB22cVUAhFCp3TJ
+Wave of Mutilation	Pixies	Doolittle	spotify:track:1yJiE307EBIzOB9kqH1deb
 The Sweetest Thing	Camera Obscura	My Maudlin Career	spotify:track:5HIfxhZRZp6BPpsz4wCKq9
-On Melancholy Hill	Gorillaz	Plastic Beach	spotify:track:0q6LuUqGLUiCPP1cbdwFs3
-Silver Lining	Rilo Kiley	Under The Blacklight (Standard Version)	spotify:track:0ieqq1wbtso2UjJWPqJ5Xc
+The New Year	Death Cab for Cutie	Transatlanticism (10th Anniversary Edition)	spotify:track:77thsdJI4T9KEYokz2IWWG
+Breakers	Local Natives	Breakers	spotify:track:6GOBlG8lzGF9K8lyJdndvI
+Sweet Disposition	The Temper Trap	(500) Days of Summer (Music from the Motion Picture)	spotify:track:5nWbbQ0sIEabqPxAdqmh66
+Wasting Time	Day Wave	Wasting Time	spotify:track:5fLXDcq2QiQLBjSMwCpMgO
+Lights & Music	Cut Copy	In Ghost Colours (International Version)	spotify:track:1UZUx1UXiptgOsrllZyKQs
 
 Golden Age Hip Hop Vol. 1
 Night Of The Living Baseheads	Public Enemy	It Takes A Nation Of Millions To Hold Us Back	spotify:track:6BxnzjGSfepdGDxJXmhhPU
@@ -4521,17 +4442,28 @@ The City	Vhyce	The City	spotify:track:5OrDtnPrtqqAZFOQQ4hWpe
 Arcade Desire	Laroze	Past Twenty Years	spotify:track:1ld445I80m2AakXC8rwQ5c
 Feel U	Ricky Razu	Feel U	spotify:track:45DqgsmQgEa22WTmItIIsm
 Carduelis	Kemback	Carduelis	spotify:track:3hKXsZ8OMonxO3ogwHVjSY
+Takin the easy way out	XXXY	A Fleeting Moment	spotify:track:6Kr2bDxMoKqDAXWoPm9vfy
+Heart Strings	Yadava	Ad Hoc Presents, Vol. 2	spotify:track:0b4jY3CvizVrQuuwi9mbED
+Magic Interference	Smallpeople	Afterglow	spotify:track:6KhAnepLaa683z9yTqRrAz
 Ce bon vieux Jean Lassalle	Vanderkraft	Kimono doux	spotify:track:4QZww1y2H8rYUqic10bR74
 Frenetic Dance Under the Moonlight	Saint Paul	Introspection EP	spotify:track:5cSylQqizQbKymQvzsRRLJ
+Home	Joe Corti	China White 004	spotify:track:0wtjFNCNrdgGqTGYJqvFEk
 No More	Bellaire	Saint Amour	spotify:track:3iqX33yzcd11lQfAI0h6u7
+Heard It	Madcat	Deuxième Virage	spotify:track:52xrIONMfvxU75K3uRHU2V
 Tonite	Jesse Bru	AOW 008	spotify:track:2tiJtKycfJk02RQtKRMJta
 Palermo	TIBASKO	Palermo	spotify:track:1DjGwNqQ86ASydenWph2U0
-Heard It	Madcat	Deuxième Virage	spotify:track:52xrIONMfvxU75K3uRHU2V
-Magic Interference	Smallpeople	Afterglow	spotify:track:6KhAnepLaa683z9yTqRrAz
-Heart Strings	Yadava	Ad Hoc Presents, Vol. 2	spotify:track:0b4jY3CvizVrQuuwi9mbED
-Takin the easy way out	XXXY	A Fleeting Moment	spotify:track:6Kr2bDxMoKqDAXWoPm9vfy
 
 Best New House
+Ischia	Isola	EP1	spotify:track:0LhXkyXcPf2bdRKJFkd2FK
+Hambone Cappuccino	Theo Parrish	Wuddaji	spotify:track:6M0UZhqFE1KPqYWcmCHPVg
+Baby's Born To Fish	2Lanes, Kesswa, Ian Finkelstein, Shigeto, John F.M.	Baby's Born To Fish / Impish Desires	spotify:track:1B3sDtDDMKCjGcsit3HDot
+Running to Chad - DJ Python Remix	Baba Stiltz, DJ Python	Running to Chad	spotify:track:3dhwI4PGqK2wtIl75jHNFi
+Swahili	Razzler Man	The Stolen Collection, Vol. 2	spotify:track:4GtaqMSBHvCl8ZXHhBUmIh
+Night	Kelly Lee Owens	Inner Song	spotify:track:78VsADFpDBlYmedBgISJ2R
+Apricots	Bicep	Apricots	spotify:track:73X9X7kDgsm4YeHpc8prf6
+DGTR8S	Human Space Machine	Drie punt twee	spotify:track:39ZtI8nIBLhI5n9VZgxqiw
+Break My Heart (Moodymann Remix)	Dua Lipa, Moodymann	Break My Heart (Moodymann Remix)	spotify:track:2XqtC59TxgAHkCz46i2SEN
+Honeycomb	MoMa Ready	Deep Technik	spotify:track:6iGV507BPFzHgNYIkF715Z
 I'm Waiting (Just 4 U)	India Jordan	I'm Waiting (Just 4 U)	spotify:track:7BIyJ214hMl5AukVIYMhaQ
 Never Come Back - Four Tet Remix	Caribou, Four Tet	Never Come Back (Four Tet Remix)	spotify:track:7DbreVo6L52z1RpplC9mPz
 Slu Terms	Christopher Rau	The Keys	spotify:track:3ZE4aNmTGjsDF7ewX08HAC
@@ -4735,6 +4667,7 @@ No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)	Oxide & Neutrino	Execute	spo
 Wings - Sunship Extended Mix	Little Mix, Sunship	Wings	spotify:track:1m0SPkX8VGRTqIQXwI83zN
 Flowers - Sunship Radio Edit	Sweet Female Attitude, Sunship	Flowers	spotify:track:1IqANTbvKLojRoomq685LA
 Smoke (feat. Jamie xx)	Headie One, Fred again.., Jamie xx	Smoke (feat. Jamie xx)	spotify:track:35D9ljqjFeYWGKwy3eI0bE
+Summer Dreams	Skream	Skream! (Expanded Edition)	spotify:track:6u4B0SFfhYXL5LGMyLKa54
 
 Classic UKG
 Heartbroken	T2	Heartbroken	spotify:track:367XSQs9TXPJzgvq0k5uxn
@@ -4841,6 +4774,10 @@ Channel 1 Suite - Four Tet remix	The Cinematic Orchestra	Xen Cuts	spotify:track:
 The Truth in You (Fourtet Remix) [feat. Fourtet & Erin Lang]	Roger O'Donnell, Four Tet, Erin Lang	Half Truths	spotify:track:6NnIRHf7JEJCWaDrZsBEGR
 
 The Longest Mixtape: 1000+ Songs For You
+Ravi - Shanti Celeste Remix	Caribou, Shanti Celeste	Suddenly Remixes EP	spotify:track:1skxY0DJd2AqAXHliT7Nit
+Sunny's Time - Kareem Ali Remix	Caribou, Kareem Ali	Suddenly Remixes EP	spotify:track:79hicwCBDA3WCoD8nPJNzf
+Sunny's Time - Logic1000 Remix	Caribou, Logic1000	Suddenly Remixes EP	spotify:track:5a9h7ivET6E8JW58X1k9IS
+Like I Loved You - India Jordan Remix	Caribou, India Jordan	Suddenly Remixes EP	spotify:track:7HB3u47JViVWWY20JpwFVv
 Nduzangou	Zaza	Nduzangou	spotify:track:261oqGIHQWXeBWoLNsnMDm
 Wheele	Anunaku, DJ Plead	032	spotify:track:5ADkHBTfjff1AbgU1ObeDD
 QuoVadis	Gman	Quo Vadis / Sparticus	spotify:track:1IzhgTb9MmDmTFaKqwR9E2
@@ -5491,7 +5428,7 @@ King Tubby's Badness - Dub	King Tubby	The Trojan: Dub Collection	spotify:track:4
 Kites Are Fun	The Free Design	The Best Of	spotify:track:5gtxcuwjfs43XLSRTbKIKZ
 Kong	Kerri Chandler	Kong/Pong from the Forthcoming Computer Games Album	spotify:track:3QB10mwxCBPeLmrjPI1wZ7
 Kono Samourai	Yamasuki Singers	Le Monde Fabuleux Des Yamasuki	spotify:track:1zs2cc3xtGpXtcrqTbBlnc
-Korô Dia (à Mamaye Dramé L'inoubliable)	Nahawa Doumbia	La Grande Cantatrice Malienne Vol 3	spotify:track:3Ur34XN0cPU1md2Mj75eML
+Korô Dia (à Mamaye Dramé L'inoubliable)	Nahawa Doumbia	La Grande Cantatrice Malienne Vol 3	spotify:track:3Ur34XN0cPU1md2Mj75eML
 Krautrock	Faust	Faust IV	spotify:track:7h9hsEOJbNH2Y46ZR5NFfQ
 Kulu Sé Mama (Juno Sé Mama)	John Coltrane	Kulu Se Mama (Originals Version)	spotify:track:3festq6zhGQi2kMWJxAkn0
 La voix psychédélique	Emmanuel Brun	Magie de la scie musicale (Musical Saw)	spotify:track:6OGybl75EBNMNalQ8cg5RD
@@ -5839,7 +5776,7 @@ You Can't Run From Love	Together Band	The Grasso Brothers present We Know How To
 Fancy Clown	Madvillain	Madvillainy	spotify:track:1QCF2Ef6Gkps8lX6ZajapX
 Music Madness (Extended Charles Maurice Version)	Beckie Bell, Charles Maurice	French Disco Boogie Sounds (1975-1984)	spotify:track:7KnUUQqVgrKMlAMZOtKNyn
 A Rã	João Donato	Blue Note Trip 7: Birds / Beats	spotify:track:0vZwdJBXOGppAMLjwDUNWg
-Dam Üstüne Çul Serer	Selda Bağcan	Türkülerimiz 5 - Dam Üstüne Çul Serer	spotify:track:6ivuppc6xiA4leKhlk4nVA
+Dam Üstüne Çul Serer	Selda Bağcan	Türkülerimiz 5 - Dam Üstüne Çul Serer	spotify:track:6ivuppc6xiA4leKhlk4nVA
 Via Beato Angelico	Perigeo	Genealogia	spotify:track:3TJBFoG24UtRjVvwFGo7dZ
 Love Call	Ramsey & Company	Keb Darge presents The Best of Legendary Deep Funk	spotify:track:1mgLkpQzgZ3dlop3wgwFzA
 The Continuing Story of Counterpoint, Pt. 9	David Borden	Music for Amplified Keyboard Instruments	spotify:track:7Fce6BT86NTwd7ZyDIXPuG
@@ -6728,6 +6665,46 @@ All Over Again	Sharon Van Etten	I Don't Want To Let You Down b/w All Over Again	
 Sundowner	Kevin Morby	Sundowner	spotify:track:4eNfeLVuzhdxogg082hwSJ
 
 Best Electronic Music
+Hennyweed Buckdance	Theo Parrish	Wuddaji	spotify:track:58p6b6upZZ1NENcqRHTyI1
+Apricots	Bicep	Apricots	spotify:track:73X9X7kDgsm4YeHpc8prf6
+Volcano	Eartheater	Phoenix: Flames Are Dew Upon My Skin	spotify:track:4QGfuME7RypaASEUVvnEby
+Re-Wild	Kelly Lee Owens	Inner Song	spotify:track:25NkJRs7J16XCfZg0OEFCL
+Washed In You	Andrew Ashong, Kaidi Tatham	Washed In You	spotify:track:3JhMrUh3EEXcbP8gsyf1sH
+all the things i've done	Deli Girls	BOSS	spotify:track:35jSMRUPJPGGfgBKRtxNxJ
+Bbymutha This, Bbymutha That	BbyMutha	Muthaland	spotify:track:323wBf9QAa0mvGee4aNS26
+Africanalidade	Blacksea Não Maya, DJ Kolt	Máquina De Vénus	spotify:track:2M2l4KCz8e3ngBKbiHUZ4D
+Jealousy	Róisín Murphy	Róisín Machine	spotify:track:50n7BlnyClJrRaAy25PJug
+Mr. Speaker	Grand River	Blink a Few Times to Clear Your Eyes	spotify:track:1rbUVxkFkUA4WMTSjUjS0H
+Poodle Power	Avalon Emerson	DJ-Kicks EP	spotify:track:4eGE2I4OAH6aOvnirdg5jH
+Don't Despair	Lafawndah	The Fifth Season	spotify:track:4l5OO8aaNP0N8K7sg445j4
+Reign	Severin Glance	Reign	spotify:track:1MOnkEmecrfa0hkMkwCgUW
+Swahili	Razzler Man	The Stolen Collection, Vol. 2	spotify:track:4GtaqMSBHvCl8ZXHhBUmIh
+Ischia	Isola	EP1	spotify:track:0LhXkyXcPf2bdRKJFkd2FK
+Broken Satellite	Hiro Ama	Uncertainty EP	spotify:track:3a0mWnv0M1iZ53rLXTckbY
+JL	Al Wootton	JL	spotify:track:3dr8H5045j4GJXZOBy2ulI
+I Wanna Show You	Sauce81	I Wanna Show You EP	spotify:track:6eQPg5SyhZfxSZwopnJkGR
+Relik	E-Saggila	Anima Bulldozer	spotify:track:5cRFYdbzZQ70jFL4KRamFZ
+Impish Desires	2Lanes, Ji Hoon	Baby's Born To Fish / Impish Desires	spotify:track:6S02j3vyMyJZ4ElzYFJj5y
+Ma6a6	Fawzi	Ma6a6	spotify:track:5LZZky0F4lbeh2VbSU2c5P
+Psychiatric Population - Astral Projection Mix	Jing	Psychiatric Population	spotify:track:65WvQECSlQj8fCpxvMO0kX
+Waves	Hagan	Waves	spotify:track:6NWZnftVAZPB8Rw7a5NWgT
+Misinai	Holy Tongue	Holy Tongue	spotify:track:79ZUk1AfTred4KkQlF3e1i
+Heaven Inc.	Shlohmo	Heaven Inc. EP	spotify:track:0Za62BDSCSTEJNlopLEIzx
+Everything Hurts	Dounia	POPPING IN THE ABYSS	spotify:track:6bdLGN3li3pjnwF1Tlrqdo
+Running to Chad - DJ Python Remix	Baba Stiltz, DJ Python	Running to Chad	spotify:track:3dhwI4PGqK2wtIl75jHNFi
+DGTR8S	Human Space Machine	Drie punt twee	spotify:track:39ZtI8nIBLhI5n9VZgxqiw
+Harajuku Girls	Parris	Polychrome Swim	spotify:track:0QmMOvFdHeR5n1E7Z2assO
+Sergio	BŪJIN, Keegan Steenkamp	Sergio	spotify:track:6HaI4ZG3cimwFWYanNBfdg
+Time Burns Heavy	Ital Tek	Dream Boundary	spotify:track:0nZ9GXsUGhZSGtmTI3l9TZ
+Blood Tinge	Ikonika	Hollow EP	spotify:track:6MZK0Y2R7UijuQQ0F8CBGJ
+Bando Diaries	dutchavelli	Bando Diaries	spotify:track:1gaMQvjO3dKpOGWv5z7Itr
+Paranoid	Zora Jones	Ten Billion Angels	spotify:track:0WLNkIyrtX5JOwDdzszVmh
+Loos In Twos (NRG)	Anz	Loos In Twos (NRG)	spotify:track:7AILf7MVG0SEl6skEXhAar
+Break My Heart (Moodymann Remix)	Dua Lipa, Moodymann	Break My Heart (Moodymann Remix)	spotify:track:2XqtC59TxgAHkCz46i2SEN
+Ahimsa	Shinedoe	Ahimsa	spotify:track:6tZm1QPPzm0mkfVoJt95G5
+(513)	Vladislav Delay, Sly Dunbar & Robbie Shakespeare	500 Push-Up	spotify:track:2CfW8L0mQhRRVcI3dOsDRA
+Hotel Nota	Roméo Poirier	Hotel Nota	spotify:track:0aBoMhb7VlK0n4xCTDSzFt
+Honeycomb	MoMa Ready	Deep Technik	spotify:track:6iGV507BPFzHgNYIkF715Z
 The Steady Heart	Kaitlyn Aurelia Smith	The Mosaic of Transformation	spotify:track:3vUcFxnOlGWpG2NjTjGrsv
 Augmented (Ascendent Mix)	Elijah	Augmented	spotify:track:1o96VYRCvjJ6bzqE681ND6
 Burn A Print	Lotic	Burn A Print	spotify:track:2KSx8ZSU9YEjuCQows1REj
@@ -7294,6 +7271,10 @@ Going for It	DJ Plead	Going for It EP	spotify:track:4WUIaZaMXqkmwavBpvuPIB
 Rough Text	DJ Plead	Going for It EP	spotify:track:47cEN1015j9IjsKgZvvD2a
 Espresso	DJ Plead	Going for It EP	spotify:track:79uGpCDDL4v85P4gViEwA1
 Ess	DJ Plead	Going for It EP	spotify:track:2lGdwDn4uKqca7pwsRZyOO
+Oww	Bakongo	3 x 2 EP	spotify:track:07w1RR0V3wRZ3KMzuR3akq
+Grainy	Bakongo	3 x 2 EP	spotify:track:1fCcz587IWvxVaBUDUiKsc
+Tribal Warrior	Bakongo	3 x 2 EP	spotify:track:5nlOnRGgf46AmVzyAPDPyh
+3 x 2	Bakongo	3 x 2 EP	spotify:track:0imsSXZ6xH6A10C2lzJyCo
 
 Galcher Lustwerk Dark Bliss Mix
 One Thousand (feat. Wiz Khalifa)	Juicy J, Wiz Khalifa	Stay Trippy (Deluxe)	spotify:track:5aru6zasqjI1WW7y6TGIuK
@@ -7303,7 +7284,7 @@ Bird On A Wire (Originally Performed by Action Bronson & Riff Raff) [Karaoke Ver
 Yulquen	Autechre	Amber	spotify:track:3PGYnbU4HJDUw01PrME2pz
 Be Still My Beating Heart	Sting	...Nothing Like The Sun	spotify:track:58me6gfG81fNG4v3dpRhh5
 This Girl	Thunderball	Ambassadors of Style	spotify:track:4eA7pPhj33WXMmfQkQtG0D
-Soon	Jazzanova	In Between	spotify:track:16ltUWKFy85F3Sq3bM6oke
+Soon	Jazzanova, Victer Duplaix	In Between	spotify:track:16ltUWKFy85F3Sq3bM6oke
 Lake By the Ocean	Maxwell	blackSUMMERS'night (2016)	spotify:track:515Sz5OLZs4ySr234CP2js
 Sands Of Time	The S.O.S Band	Best Of	spotify:track:5zQ8qJaNPUpruWfvlVX9xD
 Lily Was Here (feat. Candy Dulfer)	Dave Stewart, Candy Dulfer	Saxuality	spotify:track:5HVqftYQ37bJx3y0SI4obk
@@ -7315,7 +7296,7 @@ Chocolate Town	Ween	Quebec	spotify:track:0Ve2lqahZMrphmvFz3XT9J
 Migas	Joan Bibiloni	El Sur	spotify:track:1dF4yDtsLKHZBA6GM968ag
 Distance	Rhythm & Sound	Smile	spotify:track:65FIoPfrdMBCbyB5dmsAkP
 Sub-surface	John Beltran	Earth & Nightfall	spotify:track:06oybBYHfy5tsvZVRsg494
-Vänern - Bookworms, Steve Summers, and Antenes Mix	Royal Crown of Sweden, Bookworms, Steve Summers, Antenes	R.E.G.A.L.I.E.R.	spotify:track:1G974x6193iLCbzGxFUVC3
+Vänern - Bookworms, Steve Summers, and Antenes Mix	Royal Crown of Sweden, Bookworms, Steve Summers, Antenes	R.E.G.A.L.I.E.R.	spotify:track:1G974x6193iLCbzGxFUVC3
 No Ordinary Love	Sade	Love Deluxe	spotify:track:42vYxMAWsFpBOS7hgAdzqW
 Everybody Wanted To Know	Rob	Damaged Goods	spotify:track:0Ki8VL92R99zPjq2Z6cjIB
 Tri-State	Above & Beyond	Tri-State	spotify:track:0NYmQAHfHlG18sFYRLcQ8b
@@ -7801,8 +7782,8 @@ Sjelefred	Thorleif Bratval	Sjelefred	spotify:track:7BvV7F8j2J9Z2sOQZEYbZH
 Rosyln	Bon Iver, St. Vincent	The Twilight Saga: New Moon (Original Motion Picture Soundtrack)	spotify:track:4k7x3QKrc3h3U0Viqk0uop
 To the Mountains	Bigbang	Clouds Rolling By	spotify:track:7ve57V35wY1HpX92EqWWK0
 Sweater Weather	The Neighbourhood	I Love You.	spotify:track:2QjOHCTQ1Jl3zawyYOpxh6
-Problems / Canvas	Sheep, Dog & Wolf	Egospect	spotify:track:48A2ekMjfHf7uNT4r3dMYQ
 MALIBU	Bigbang	GLORY CHORD	spotify:track:5Bvb1RYE9tzZhFiukkKECW
+The Wilhelm Scream	The Bamboos, Washington	Medicine Man	spotify:track:59vZs9bJrEpBQHuK1M3tmS
 
 Not Not Fun Records & 100% Silk
 Phosphene	Severed+Said	Occlusions	spotify:track:0OqQWD9LtgLUti563WKi5G
@@ -8301,7 +8282,7 @@ Heal	Pentagon	Melody In The Mist (Ico OST)	spotify:track:5zJWRDohBVAB1D4X41EIQ0
 Fanfare for naran ratan	naran ratan	Trees etc.	spotify:track:7shulGeXPuc6oWZeYjKMA7
 Very Special - Remastered	Duke Ellington	Money Jungle	spotify:track:1eLKRJTsopYSLP7Uo6YwIG
 Like Spinning Plates (Live)	Radiohead	I Might Be Wrong	spotify:track:2j2n2VGCMIyFaQ6ToEC0Cy
-Concentrate On Me	Harold Melvin & The Blue Notes	Black & Blue (Expanded Edition)	spotify:track:2lu7G8oIwTUSVQHqV2TqKh
+Concentrate On Me (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes, Teddy Pendergrass	Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)	spotify:track:2lu7G8oIwTUSVQHqV2TqKh
 Clean up Woman	Betty Wright	I Love The Way You Love	spotify:track:6uqTETWok9npbL4c9cuLVh
 Don't Leave Me - Mono	Harry Nilsson	Aerial Ballet (Mono Version)	spotify:track:6KHRRnST58pRpuWqsOk7Js
 
@@ -8351,6 +8332,7 @@ Knott's Berry Farm Molly - Instrumental	John Fahey	The Great San Bernardino Birt
 Dance For The Death Of A Bird	Will Ackerman	In Search Of The Turtle's Navel	spotify:track:3aGD0Iu2QEUKOS3xQaPrlN
 Lenono	Michael Hedges	Breakfast In The Field	spotify:track:2dg4UWLKhtshzxMTWznMdz
 An Oxy Blonde	Arian Shafiee	A Scarlet Fail	spotify:track:0eAi6cf6C4unotPR2OqxNC
+In the Light of the Common Day	Phil Keaggy	Beyond Nature	spotify:track:6Tq3H9CCgnXyWpe4rQAkjL
 
 Hard Bop Jazz
 Warm-Up / Dialogue Between Lee Morgan And Rudy Van Gelder - Remastered 1998/Rudy Van Gelder Edition	Lee Morgan	Moanin' (The Rudy Van Gelder Edition)	spotify:track:3A94GcANmg8APx68mGfoix
@@ -8553,7 +8535,7 @@ Zellmar's Delight	Sonny Clark	Leapin' And Lopin' (Remastered)	spotify:track:6HQJ
 Upptankt	Charlie Rouse	Takin' Care Of Business (Reissue)	spotify:track:4y8J44sosAb0fdNWszFoeL
 Where You At?	Horace Silver	Horace - Scope	spotify:track:5FNFqKj1mSTsLgZTfphZNh
 Me 'N You - Remastered 2000 / Rudy Van Gelder Edition	Hank Mobley	No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)	spotify:track:6ZjYhwFtfYsZxkjDjZLeLY
-Totem Pole - Remastered	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:782py08Vd3JdBAP79X0FSz
+Totem Pole - Remastered 1999/Rudy Van Gelder Edition	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:782py08Vd3JdBAP79X0FSz
 Night Dreamer - 2004 Digital Remaster	Wayne Shorter, Lee Morgan, Reginald Workman, Elvin Jones	Night Dreamer	spotify:track:2HbpOucCYcPyVEBpjTiJK8
 When Love Is New	Art Blakey	Indestructible	spotify:track:0nHjdvbKsDcKjKKs1wuRQp
 Do It - Remastered 2004	Jack Wilson	Easterly Winds (Remastered)	spotify:track:00JAZ9GvGweAd3pQvUwbKh
@@ -8864,7 +8846,7 @@ One Finger Snap - Remastered 1999 / Rudy Van Gelder Edition	Herbie Hancock	Empyr
 502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	spotify:track:0F8xfPspwyXxRjsiW12mya
 Pensativa - Rudy Van Gelder Edition / 2004 Remaster	Art Blakey & The Jazz Messengers	Free For All (Remastered / Rudy Van Gelder Edition)	spotify:track:5DGTmpn0z4qlqEq2ZBd8XH
 A Caddy For Daddy	Hank Mobley	A Caddy For Daddy	spotify:track:0LcumNOQqE5rSS5V48WQJf
-Boy, What A Night - Remastered	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:57abY9xX9SVdfjn0vydx0t
+Boy, What A Night - Remastered 1999/Rudy Van Gelder Edition	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:57abY9xX9SVdfjn0vydx0t
 Jinrikisha - Rudy Van Gelder Edition / 1999 Digital Remaster / 24-Bit Mastering	Joe Henderson	Page One	spotify:track:2wS7boTGeTJnlsUD2t5oUV
 Philly Twist - Remastered 2014	Kenny Dorham	Whistle Stop (Remastered 2014)	spotify:track:7wYyJht8qy7D7VfxCpNIQe
 Soul Station - Remastered 1999/Rudy Van Gelder Edition	Hank Mobley	Soul Station	spotify:track:3HIO2Ysxx47gnwMGWy7dwB
@@ -9006,7 +8988,7 @@ Stolen Moments	Oliver Nelson	The Blues And The Abstract Truth	spotify:track:564K
 Birdlike - Remastered	Freddie Hubbard	Ready For Freddie (Rudy Van Gelder Remaster Edition)	spotify:track:4CHHDkxbgYOE0wP71CL0AT
 Moon River - Remastered	Art Blakey & The Jazz Messengers	Buhaina's Delight (Rudy Van Gelder Edition / Remastered)	spotify:track:2LijflvQkR33bshus1jrOE
 Clubhouse	Dexter Gordon	Clubhouse	spotify:track:50W4TvxSFd1xP1UtO1kzeO
-Hocus-Pocus - Remastered	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:4oLmztYOcw02rDTUe7dfNO
+Hocus-Pocus - Remastered 1999/Rudy Van Gelder Edition	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:4oLmztYOcw02rDTUe7dfNO
 I See Your Face Before Me - Remastered	Hank Mobley	Dippin'	spotify:track:3yitw1j44b1AiXvTKFe3lG
 I Want To Hold Your Hand	Grant Green	I Want To Hold Your Hand	spotify:track:0OKrqpR7de2s6TTXYnbGyO
 Tyrone - Remastered	Larry Young	Into Somethin'	spotify:track:3vlOE8x92uVdROBSTiKLQ8
@@ -9273,7 +9255,7 @@ Kayin'	The Art Farmer Quartet	Perception	spotify:track:3lh8CfE61g9wfaX5QkRLCn
 Six Steps	Jimmy Heath & Brass	Swamp Seed	spotify:track:09u5N3yjUz6TioVVrVu9aD
 I'm An Old Cowhand	Donald Byrd	Chant	spotify:track:2EDhBSThSwCkRGSn8YMtH5
 Sleeping Dancer Sleep On	Art Blakey & The Jazz Messengers	Like Someone In Love	spotify:track:5GXJ4YrXUORAsB5IsCZIL6
-Gary's Notebook - Remastered	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:00dDsLgxoPzhbPD3owDfwT
+Gary's Notebook - Remastered 1999/Rudy Van Gelder Edition	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	spotify:track:00dDsLgxoPzhbPD3owDfwT
 Vernestune (A.K.A. The Three Minors) - Remastered	Jackie McLean	Consequence	spotify:track:0j8O5iAhdZeEciNYfCvhhJ
 A Time For Love - Rudy Van Gelder 24Bit Mastering; 2004 Digital Remaster	Jack Wilson	Easterly Winds (Remastered)	spotify:track:1EjRIKnZ6zIPvnewQg3GlH
 Most Like Lee	Lee Morgan	Cornbread	spotify:track:3JfUaUogPIFkw0u0hdMnLd
@@ -9305,6 +9287,24 @@ The Head	Blue Mitchell	Blue Soul [Keepnews Collection]	spotify:track:0Z0qsQffWPO
 All Members	Sam Jones	The Soul Society	spotify:track:37pIl5WPFb7k3ooTAsax1I
 Hush - 2006 Digital Remaster	Donald Byrd	Royal Flush	spotify:track:0QHtTrWeW9uCAVEpJUNlp9
 Hello, Young Lovers - Remastered 2006	Hank Mobley	Another Workout	spotify:track:0FbiwclsX9EVAY711xZQ9g
+Quick Trick	Art Blakey & The Jazz Messengers	Just Coolin'	spotify:track:2EW1mFJaikQh0vxOoB7uGp
+Just One Of Those Things	Lee Morgan	The Cooker	spotify:track:0zztrA9NQkQTz3OQiNljXR
+Sudwest Funk - Rudy Van Gelder Edition/Digital Remaster/2006	Donald Byrd	Off To The Races (Remastered)	spotify:track:6XhZU5osZoYRyfpng46MjC
+Minor Apprehension - Remastered	Jackie McLean	New Soil	spotify:track:0u0Z0mH5NlqARoHLN7ZE7L
+Cool Struttin'	Sonny Clark	Cool Struttin' (Remastered / Rudy Van Gelder Edition)	spotify:track:7CnOzCWGrTINcDExG6u99y
+Capri	Art Farmer, Gigi Gryce	When Farmer Met Gryce	spotify:track:3pgrQmHGPlCIiKXCPYJNOv
+Cliff Craft	Cliff Jordan	Cliff Craft	spotify:track:6NWgoWAfcICQZdQRqAQnlc
+Quantrale	Curtis Fuller	Volume 3	spotify:track:149t93hQt9KF5TjsP1Jx9n
+Shoutin' On A Riff	Sonny Clark	Dial S For Sonny	spotify:track:7iMm3EOsY39gOArSjyyE9U
+The Outlaw - 2007 Digital Remaster; Rudy Van Gelder Edition	Horace Silver Quintet	Further Explorations By The Horace Silver Quintet (Remastered)	spotify:track:3px36D49hATHtIUvKh7xv2
+Stella-Wise - Rudy Van Gelder Edition/Digital Remaster/2008	Hank Mobley	Hank Mobley Quintet (Remastered)	spotify:track:40terF0HK4AHvIdxYoFdbo
+It's You or No One	Art Blakey & The Jazz Messengers	The Jazz Messengers	spotify:track:5XVsNByeqX0YN2VBpw0dVW
+Let It Stand - Rudy Van Gelder 24Bit Mastering	Clifford Jordan, John Gilmore	Blowing In From Chicago	spotify:track:7Dq3kMBQ9beclx92l9SbX4
+Four Strings - Rudy Van Gelder Edition/2008 Digital Remaster	Paul Chambers Quintet	Paul Chambers Quintet (Remastered)	spotify:track:4jRXL4ft1WOvogZ1KFHvIU
+When Your Lover Has Gone - Rudy Van Gelder Edition/Digital Remaster/2006	Donald Byrd	Off To The Races (Remastered)	spotify:track:2mj6XXq0XBTEYbseOp0QeP
+Fidel - Remastered	Jackie McLean	Jackie's Bag	spotify:track:7DGD76uSCMikhXmhOQnbj7
+Star Eyes - Remastered 2000	Tina Brooks	Minor Move (Remastered / Expanded Edition)	spotify:track:7xCzg9H6SZszRLuvVyTC5q
+Close Your Eyes	Art Blakey & The Jazz Messengers	Just Coolin'	spotify:track:3vlX5kFfQHDloPDV1cGENX
 
 🍉Floating Points' Turntable🍉
 Something	Duval Timothy, Mr. Mitch	Help	spotify:track:0ymbJIrf42wp9FXkcQ7Q32
@@ -9656,7 +9656,7 @@ Ain't it Time	Queen Yahna	Disco Juice	spotify:track:7C4aW4t6PzrAkrM85hGVrv
 Sweet Power, Your Embrace	James Mason	DJ-Kicks (Motor City Drum Ensemble) [Mixed Tracks]	spotify:track:5cmo0oP1To7N0ogNbtUr5n
 Merry Go Round	The Equatics	Doin It!!!!	spotify:track:4X4NrHp5VpibgirzuImxXd
 Riding	Michael Henderson	Do It All (Expanded Edition)	spotify:track:0HodbMp1sIBY0HTG0gBSK7
-Father Stretch My Hands	Pastor T.L. Barrett	Do Not Pass Me By	spotify:track:4HNbRPTXTKaBwX7qSmkQu6
+Father Stretch My Hands	Pastor T.L. Barrett, The Youth For Christ Choir, House of Stone	Do Not Pass Me By	spotify:track:4HNbRPTXTKaBwX7qSmkQu6
 Na boca do sol	Celia	Dose Dupla Célia	spotify:track:60MZFihVOUinG6FY6ZI9l2
 Heavy Water/I'd Rather Be Sleeping	Grouper	Dragging a Dead Deer Up a Hill	spotify:track:6IUwiHsyKAZtfBy37Wu4ij
 Vota Ubu	Vanishing Twin	Dream by Numbers - EP	spotify:track:1lJKKKkwc1Eb6OjE9Bbb7u
@@ -10261,9 +10261,15 @@ How You Want It? (feat. King Combs)	Teyana Taylor, King Combs	The Album	spotify:
 Made It	Teyana Taylor	The Album	spotify:track:5aI2VUmejj1Ywzj0tQLYH6
 Let's Build (feat. Quavo)	Teyana Taylor, Quavo	The Album	spotify:track:2CrK0hSGlIFESHiT6rPe1s
 Get into the Party Life	Little Beaver	Party Down	spotify:track:3rZrK0m6FsVwNBS0SFpivX
-Little Man - Exemen Works	Sia	Healing Is Difficult (10th Anniversary Edition) [Deluxe]	spotify:track:0PxXQz4Im41YdDi0J3kPCv
+Little Man - Exemen Works	Sia, Wookie, Exemen	Healing is Difficult (10th Anniversary Edition) (Deluxe)	spotify:track:0PxXQz4Im41YdDi0J3kPCv
 Sizwile	SPAZA, Nonku Phiri, Malcolm Jiyane, Gontse Makhene, Ariel Zamonsky	Sizwile	spotify:track:21d6vGSrRSZnAnNTTfr5Lw
 Princess Cuts (feat. Young T & Bugsey)	Headie One, Young T & Bugsey	EDNA	spotify:track:692CXTayYB3PHcp1WxzwVd
+House of Love	Peter Hunnigale	Rhythm & Song	spotify:track:5H8nwGuPFmuPiGX1Pp1Dzm
+Girl Of My Dreams	Cornell Campbell	Very Best	spotify:track:44x96dSK7FKZUk0xIdNmsE
+I Dunno (feat. Dutchavelli & Stormzy)	Tion Wayne, dutchavelli, Stormzy	I Dunno (feat. Dutchavelli & Stormzy)	spotify:track:3B0WbRucJ6ZIla2G9IVt2E
+Nena	YEИDRY	Nena	spotify:track:4fWY8QZsAhEF0WeI20QhMj
+Loose	Actress, Christel Well	Karma & Desire	spotify:track:6OvapGBkMYMzWGTZpcpMOj
+Diamond X	Actress	Karma & Desire	spotify:track:1nRsrH6U6XJX9iQ6XgZvxh
 
 Music Box
 Acid Tracks	Phuture	Acid Tracks	spotify:track:05kXJj11PCg7aIWvQxp683
@@ -10532,6 +10538,7 @@ Be My Baby	The Ronettes	Wall of Sound: The Very Best of Phil Spector 1961-1966	s
 My Woman's Love	Out of Sights	Eccentric Soul: The Saru Label	spotify:track:2eRNWgooAYznzhhRr2yj1P
 
 🐧🐦🐤🐧🐦🐤☉☉☉　̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖ఠీੂ☉☉ʅ͡͡͡͡͡͡͡͡͡͡͡(ƪ☉📟🐧🐦🐤🐧🐦🐤
+Rainbo Locals - Four Tet Remix	A Grape Dope, Four Tet	Backyard Blenders: The Remixes	spotify:track:0j4UWiJbgpxufsSYMoywXZ
 Tron - Kieran Hebden Version	Foals, Kieran Hebden	Collected Reworks	spotify:track:7DLwns5Txh7MEgbr4n4B91
 Everything U Need	Overmono	Everything U Need	spotify:track:0pwYCGZE0qELSDnXyQBlWn
 The Relic	Machinedrum, Rochelle Jordan	A View of U	spotify:track:415z4JEuCKRr5T8djU13Wl
@@ -11359,7 +11366,7 @@ I Will Make Room for You - Four Tet Remix	Kaitlyn Aurelia Smith, Four Tet	I Will
 World	Champion, Four Tet	Snapshot	spotify:track:108gNz7r7fJKljxfwpGlQq
 ✧₊⁎❝᷀ົཽ*ೃƪ❍⊁ƪ❍⊁༽ৣৢ؞ৢ؞ؖ ཥ	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	)✧⃛*	spotify:track:05mO22Uzz4AcVTFTrZRxQd
 °。 * ̧.·*  ́ ̈・*・ . °。· ́ ̈ ́ ゚ * ́ ̈・ 。・ ゚.  ́ ̈ ゚. .· ・*.。 * ̈°. ・*。 ̧.·*  ́.·* ̈.· ・ ゚. 。 * ́ ̈* ́ ̈ .·.·* ́ ̈.·*:・✧(๑ඕัළඕั๑)✧*:・s░ƪ.	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	・✧(๑ඕัළ*.。 * ̈°。	spotify:track:2qY8zRRNvCQR40WnLGsmdu
-ƪ. ◖ƪ❍⊁◞.|◗щ (*ᄋ△+⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ ̈.·*:・✧⃛(ཽ๑	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	)✧⃛*	spotify:track:5S0yiOErSgkU4yRsz6amKN
+ƪ. ◖ƪ❍⊁◞.|◗щ (*ᄋ△+⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ ̈.·*:・✧⃛(ཽ๑	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	)✧⃛*	spotify:track:5S0yiOErSgkU4yRsz6amKN
 Gentle Soul	Four Tet	New Energy	spotify:track:2aeUaNxToB2xb5kNoqNQBC
 The Animal Spirits	James Holden, The Animal Spirits	The Animal Spirits	spotify:track:3b1RjfPP5U79gZtkI9lXfc
 The Neverending	James Holden, The Animal Spirits	The Animal Spirits	spotify:track:7uqvuGaLJHOF10KpvPw5ym
@@ -12283,6 +12290,7 @@ Sinnerman	Nina Simone	Feeling Good: The Very Best Of Nina Simone	spotify:track:6
 Cory Wong	Vulfpeck	The Beautiful Game	spotify:track:1L9qsoNnyT3r8fgr2Pr7Ty
 This Must Be the Place (Naive Melody) - 2005 Remaster	Talking Heads	Speaking in Tongues (Deluxe Version)	spotify:track:6aBUnkXuCEQQHAlTokv9or
 Working My Way Back to You	The Spinners	The Very Best of the Spinners	spotify:track:7cLkQkC9Z7hnN767rfRl5G
+Early Byrd	Theo Parrish	Baby Steps EP	spotify:track:3bBNkMUG7KLnyZ3i9HoVjd
 
 Long Island Electrical Systems (L. I. E. S. Records)
 Targets	Malvoeaux	Targets	spotify:track:1eRVKyeDmt4zrT51xDWhwd
@@ -12925,6 +12933,12 @@ Mystical Ascent	ADMX-71	Coherent Abstractions	spotify:track:3TxYXbH3ZkcHpv2UFa5A
 Mgm_41-85	ADMX-71	Coherent Abstractions	spotify:track:5ktalhvLQd1up7KjDpCQp2
 
 Best New Techno
+Relik	E-Saggila	Anima Bulldozer	spotify:track:5cRFYdbzZQ70jFL4KRamFZ
+Wastelands and Oases	Avalon Emerson	Wastelands and Oases	spotify:track:0ovt7COFyFzCr0ooiLLJhK
+JL	Al Wootton	JL	spotify:track:3dr8H5045j4GJXZOBy2ulI
+Psychiatric Population - Astral Projection Mix	Jing	Psychiatric Population	spotify:track:65WvQECSlQj8fCpxvMO0kX
+Scilo	Eversines	Drie punt twee	spotify:track:4vXaBMYPleyJng2OqyAlcB
+Cortisol	Shinedoe	Ahimsa	spotify:track:0PhZMIfcAKDf1ilH8XdDbZ
 The Puzzle	Elijah	Augmented	spotify:track:4Kk3ep9WLFht5PDTiJKX9O
 Easy	THIRD WIFE	Easy	spotify:track:1inoCOOpNJoeF99jL0C17I
 Never Come Back - Four Tet Remix	Caribou, Four Tet	Never Come Back (Four Tet Remix)	spotify:track:7DbreVo6L52z1RpplC9mPz
@@ -13138,8 +13152,8 @@ Delete Forever	Grimes	Miss Anthropocene (Deluxe Edition)	spotify:track:6pBaH4u4W
 So Heavy I Fell Through the Earth - Algorithm Mix	Grimes	Miss Anthropocene (Deluxe Edition)	spotify:track:7vRvuaS5TalFruaBoApKUg
 Gospel For A New Century	Yves Tumor	Gospel For A New Century	spotify:track:0bt7P4sertYry5PQJ6o0ZO
 Lilacs	Waxahatchee	Lilacs	spotify:track:3pexh626z6y0VFieT8hvpF
-Workaround Two	Beatrice Dillon	Workaround	spotify:track:1vebX4LzoQVFBMtnFmwEuX
-Workaround One	Beatrice Dillon	Workaround	spotify:track:3aEIaA52dHbkiiX9DerDd2
+Workaround Two	Beatrice Dillon, Laurel Halo, Jonny Lam, Verity Susman, untold	Workaround	spotify:track:1vebX4LzoQVFBMtnFmwEuX
+Workaround One	Beatrice Dillon, Kuljit Bhamra	Workaround	spotify:track:3aEIaA52dHbkiiX9DerDd2
 People, I've been sad	Christine and the Queens	People, I've been sad	spotify:track:0KywIrJ4Xir4tS6q61aY1W
 Where Did the Night Go	Gil Scott-Heron, Makaya McCraven	We're New Again - A Reimagining by Makaya McCraven	spotify:track:69lWznHbSlGRz7ZpW48rVt
 Special Tribute - (Broken Home pt. 1)	Gil Scott-Heron, Makaya McCraven	We're New Again - A Reimagining by Makaya McCraven	spotify:track:0XNk6ItsKKNQ05uBkgWUxk
@@ -13367,7 +13381,10 @@ Someday My Prince Will Come	Miles Davis	Someday My Prince Will Come	spotify:trac
 Ninety-Nine and One Half (Won't Do)	Fever Tree	Live 1969	spotify:track:11ehGQtKdbYoPl8s6M8EX9
 Wish That You Were Mine	The Manhattans	There's No Me Without You (Expanded Edition)	spotify:track:19mXqYcLHY716cN53T1d1E
 Cherub Rock - Remastered 2011	The Smashing Pumpkins	Siamese Dream (2011 - Remaster)	spotify:track:0F2LiyHp9E0pAanpfnzHNp
-Expensive Shit	Fela Kuti	Expensive Shit	spotify:track:2yBjFF19OmukrC7deP7LfZ
+Expensive Shit	Fela Kuti, Afrika 70	Expensive Shit	spotify:track:2yBjFF19OmukrC7deP7LfZ
+Up Around The Bend	Creedence Clearwater Revival	Cosmo's Factory	spotify:track:36gPq8WG7tDxrblyGVUCiT
+Weighted Down (The Prison Song)	Alexander 'Skip' Spence	Oar	spotify:track:1JcPmUFeFSNdQXrxMeW0Sc
+Keep on Dubbing	King Tubby, Augustus Pablo	King Tubbys Meets Rockers Uptown	spotify:track:61l0tJwZex2PnvE8HAGYWm
 
 Maybes
 Unicorn	Gojira	From Mars To Sirius	spotify:track:0VVp5OIRI0n1FxQFE7YOmU
@@ -13428,6 +13445,7 @@ Generation	Liturgy	Aesthethica	spotify:track:6AqbYNueUljHHtSa22pJLS
 spectres de mouse	mouse on the keys	an anxious object	spotify:track:1lNvvqTxIG5CFyQ4zVfoaZ
 Now I Lay Thee Down	Machine Head	The Blackening	spotify:track:65GqoNsz3q6GMW9AXjv8mz
 Freddy Kreuger	Reuben	Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)	spotify:track:6yheqxgSKIkSm4guRLp5Y5
+Sunbather	Deafheaven	Sunbather	spotify:track:1XIlhPjBt4udymVWzcPrwm
 
 Hippity Hop 🥁🎷
 mylife	Knxwledge	Hud Dreems	spotify:track:2PWK3iECxYUEjIUQBMVfpy
@@ -13494,7 +13512,7 @@ That's O.K.	Jonwayne	That's O.K.	spotify:track:3u72mCiUlP0pTuk6qwf5BU
 Forerunner Foray	Shabazz Palaces	Lese Majesty	spotify:track:6oTYX8Lbk6OHv5UGgw8w6H
 2 Cups of Blood	Gravediggaz	Late Night Tales: Four Tet	spotify:track:1m13vXnb9g1AOiyvksLYfi
 Ziggy Starfish (Anxiety Raps) [feat. Gold Panda]	Open Mike Eagle, Gold Panda	A Special Episode - EP	spotify:track:7fjLBPTsQrbkV2WRedi2bw
-Cool	zack villere	Little World	spotify:track:4PevTpnIWy2D1wIQZY3MmX
+Cool	Zack Villere	Little World	spotify:track:4PevTpnIWy2D1wIQZY3MmX
 You Got Me	The Roots, Erykah Badu	Things Fall Apart	spotify:track:2xoPn7HkB4K4liMVojQQ3T
 Pattern Select	Suff Daddy	Suff Sells	spotify:track:0Oz1Zjhb8yGGaO9CXFqQVh
 Roy Roy	Twit One	The Sit-In	spotify:track:6AyPVrK3KDF1HolV0U8fZU
@@ -13565,7 +13583,6 @@ Foe Tha Love of $	Bone Thugs-N-Harmony, Eazy-E	Creepin on Ah Come Up	spotify:tra
 Mystic Styles	Three 6 Mafia	Mystic Stylez	spotify:track:60i2dhtMYqaZiD6iLJJyke
 Notorious Thugs - 2014 Remaster	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	spotify:track:19FsxX4RthRMZGfXkImdCb
 The Mint (feat. Navy Blue)	Earl Sweatshirt, Navy Blue	Some Rap Songs	spotify:track:5uLZ3YIQGC0mOk6q3lJ6Ng
-Keep It On	The Nonce	World Ultimate Deluxe Edition	spotify:track:04I8ABSAw9otMTDThKyfgv
 December 24	Earl Sweatshirt	Some Rap Songs	spotify:track:0LppLsxXXDBTqihx84BJGo
 Catchin' The Vibe	Quasimoto, Madlib	Yessir Whatever	spotify:track:5HjXHLruir1Av0gpuiwVmq
 Love Yourself	Rome Fortune, Toro y Moi	Toro Y Rome Vol.1	spotify:track:1BTav4DsgX8NqW2655Asl0
@@ -14610,7 +14627,7 @@ You're Still the One	Andres	Out in the Open	spotify:track:6aSI5qgrJU9gsjUTfXlx5q
 Arise	Anthony Shakir	Arise - Single	spotify:track:0yl87yOZg3yyMGYDvByixu
 Maidens Response	Joey Anderson	After Forever	spotify:track:7vZVUbW5sLeEwqCyGOq38i
 Stick To My Side	Pantha Du Prince	Black Noise	spotify:track:27bGAYkGTdA2ZFA4Auo8Uw
-Four Tet version of “Stick To My Side”	Pantha Du Prince	XI versions of Black Noise	spotify:track:2L7sxeJao9vY9mENJLHvOA
+Four Tet version of 'Stick To My Side'	Pantha Du Prince	XI versions of Black Noise	spotify:track:2L7sxeJao9vY9mENJLHvOA
 9 Years	Roman Flügel	DJ Koze Presents Pampa, Vol. 1	spotify:track:5eK7Fn9uwBLfeKf77PJi9S
 Andreaen Sand Dunes	Drexciya	Neptunes Lair	spotify:track:4IGmrZ2FwqxjRwGO7pSr8m
 Archangel	Burial	Untrue	spotify:track:28hwfx6WVMQoOCHMvD2IMJ
@@ -14685,7 +14702,7 @@ You Can Always Leave	Francis Harris	Minutes Of Sleep	spotify:track:6zkpCBy89HiPj
 Slample	Gesloten Cirkel	Moustache Techno Series 001	spotify:track:7gHey0G9pQXmFlXfCp5pbq
 Future Fusion	Streetwalker	Future Fusion	spotify:track:1YwTkX2whpbKWA7L3Zt18r
 Musafir	Morphosis	Musafir EP	spotify:track:2fV9JCawLyCgOha41mhzcD
-Vänern	Royal Crown of Sweden	R.E.G.A.L.I.E.R.	spotify:track:2wciyksfjP2VDvArqgJQ46
+Vänern	Royal Crown of Sweden	R.E.G.A.L.I.E.R.	spotify:track:2wciyksfjP2VDvArqgJQ46
 Get Back To You Soon	D. Tiffany	Blue Dream	spotify:track:748CMVnWaxAfIIcvBudngK
 Opal	Bicep	Bicep	spotify:track:5b8yttQjXgh03MjFQDxO1c
 Ghetto Kyote	Treble Clef	Pure Grime - The Very Best of Grime	spotify:track:5CUTvZLUU4QzfT6bDKGGx9
@@ -14718,7 +14735,7 @@ Yahweh - Original Mix	Ofuren	Yahweh	spotify:track:2zFdp4NsGvMbOQ9gjuZNe3
 A tergo Real	Lee Gamble	Mnestic Pressure	spotify:track:282C1jO1LRXOANI7vnX3MC
 Glass Museum	Skee Mask	2012	spotify:track:5ISNQA9MqRdIjfl9lymZ6h
 1 Year	Austin Cesear	There's A Crack In Everything	spotify:track:4kVZytxMSqjxfI1e6Ev07k
-ƪ. ◖ƪ❍⊁◞.|◗щ (*ᄋ△+⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ ̈.·*:・✧⃛(ཽ๑	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	)✧⃛*	spotify:track:5S0yiOErSgkU4yRsz6amKN
+ƪ. ◖ƪ❍⊁◞.|◗щ (*ᄋ△+⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ ̈.·*:・✧⃛(ཽ๑	⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ	)✧⃛*	spotify:track:5S0yiOErSgkU4yRsz6amKN
 OAR003-B - Original Mix	Oni Ayhun	OAR003	spotify:track:0t5Rr3zaALBh7yI2kGhYyl
 IDK About You	Fever Ray	Plunge	spotify:track:7CFQA88EzvK6WA3mEinnUd
 Justify	Ramadanman, Appleblim	Justify	spotify:track:4mZygWajhp6YpstrNaT1jA
@@ -14901,7 +14918,6 @@ Starwood Choker	Bing & Ruth	No Home of the Mind	spotify:track:2w5l9sDXytt4lu0ZYF
 Thank U 4 Letting Me Be Myself	Omar S	Thank You for Letting Me Be Myself	spotify:track:2qXCLKpQlWWQq1A9sFRUu8
 Outgrown	George FitzGerald, Bonobo	All That Must Be	spotify:track:5tVXm479a7e1NybJcq1QIQ
 LA Trance	Four Tet	New Energy	spotify:track:3DIqOukIhN6BbXzdvC5iZW
-I'm Ready	DJ Paypal	Buy Now	spotify:track:40760XKxDvjNtLAmrXyThh
 Footprints In Solid Rock - Beatrice Dillon Remix	Ploy, Beatrice Dillon	Remixes - 2	spotify:track:0pxLDHQqDqPhlnd7tAGIWj
 Trance Fusion - Hunee Tempo Edit	Mappa Mundi, Hunee	Hunchin' All Night	spotify:track:3VUHUTNnIFTOFfBg7YsP8v
 0181 000 0002	00110100 01010100	0181	spotify:track:4CHvJmCYKfCljBXJ3Ounay
@@ -14988,7 +15004,7 @@ HT Conundrum	Route 94	Bada / HT Conundrum	spotify:track:0F4En5vStNYYkbYc0pZPnr
 Post Present	Florian Kupfer	DJ Haus Enters the Unknown, Vol. 2	spotify:track:1kzJ6Ug2AJjR4kYlMyP7O2
 Rez - Skee Mask Remix	Konx-Om-Pax, Skee Mask	Rez (Skee Mask Remix)	spotify:track:6wUw5ad1rO0wME88rrFpwG
 Muse	Jay Daniel	SSD	spotify:track:4WBgonjKwnLd3SOPO7VWOa
-Workaround Two	Beatrice Dillon	Workaround	spotify:track:1vebX4LzoQVFBMtnFmwEuX
+Workaround Two	Beatrice Dillon, Laurel Halo, Jonny Lam, Verity Susman, untold	Workaround	spotify:track:1vebX4LzoQVFBMtnFmwEuX
 Fantasy	Against All Logic	2017 - 2019	spotify:track:75TKpJuNK2abswVZNFJ5Uz
 993	Blawan	Nutrition	spotify:track:4yDFhjGlhRcS5Ay8mBYuk5
 Glock & Roll	Kowton	Whities 002	spotify:track:3s32Z2INFo72gFwmFp7TX9
@@ -15051,14 +15067,29 @@ Brace & Bit	Earth To Mickey	Brace & Bit	spotify:track:2JWRgmcZ3yz2I6AO39LXeQ
 Second Life	Omar S, John F.M.	You Want	spotify:track:6rAnjfvnJs5tNzE8kjZJWI
 High and Low	Cassegrain, Tin Man	High and Low	spotify:track:1aeXzKfCOrcObSza3SAyom
 Parola - Rework	Donato Dozzy, Anna Caragnano	Variations	spotify:track:0GQZojX9G6n6YADImDzYW4
-Vancouver - 2562 Puur Natuur Mix	Martyn, 2562	Natural Selection	spotify:track:0u9XBfgba6BnjQzLkv16Nx
 Slasherr	Rustie	Triadzz / Slasherr	spotify:track:52SPa846gRMhjujh054UFr
 Cut End	Goth Trad	Cut End	spotify:track:2kFySm9rcZJAX3Y6j18mMF
 Menschen und Mauern	Shed	Oderbruch	spotify:track:6GCvxithTmls2pMBqjFJBY
 Psychedelic Runway	Joker	Do It / Psychedelic Runway	spotify:track:6zenZha4M4O99MtxCpoRba
-Concrete Jungle - Yardman Riddim	Balistiq Beats, Jamakabi	Yardman Riddim ft Riko, Badness, Jamakabi & Killa P	spotify:track:2kTvcLVSYdTnvmq4FBIOto
 Run 'Em Out	Breakage, Roots Manuva	Run 'Em Out / Higher	spotify:track:4b4lqJRiNoW103jSE7k5mR
 Automotive	Lassigue Bendthaus	Matter	spotify:track:3IgN5W2SMH0i9xd9rBvADU
+Everything U Need	Overmono	Everything U Need	spotify:track:0pwYCGZE0qELSDnXyQBlWn
+Concrete Jungle (Yardman Riddim ft Jamakabi) - Beneath's 350 remix	Beneath	Illusions EP	spotify:track:5YLxpkxI0boDPGZ12Zs52g
+Kalawanji (feat. Cessman)	Kromestar, Cessman	Kalawanji	spotify:track:1BdbNjrKq2sgcz69eWwOns
+Do The Jazz	Swindle	Do The Jazz	spotify:track:5HNw8mPqS2eSLKIs94kJYe
+Rain 3	Shinichi Atobe	Yes	spotify:track:2TvgXwgbSkt4hsDyOlmyQA
+Who’s In Control	Zenker Brothers	Cosmic Transmission	spotify:track:6MvrjQ5fNLQWKqmPR0nBXQ
+Triangulum Australe (Say It in Space)	Omar S	Triangulum Australe (Say It in Space)	spotify:track:47iuK2RlF8X42OkKiUmH10
+Club Rez	Girl Unit	Club Rez EP	spotify:track:6XhAZWr4DLr6rgfe5P70w4
+Anti Inferno	Surgeon	All the Saints Have Been Hung	spotify:track:6EVe61KYcsB3eW11vUinrF
+Black Sea	Drexciya	Journey of the Deep Sea Dweller IV	spotify:track:0GQJuLehat8Hm5CUTnlfQp
+Crispy Bacon	Laurent Garnier	30	spotify:track:3PQGdUJ9GTKv0EttfvPlii
+Lyot - Maurizio Mix	Vainqueur, Maurizio	Lyot	spotify:track:52s4racNrmo1iPwZyYQq08
+Angel Echoes	Four Tet	There Is Love in You (Expanded Edition)	spotify:track:0Zuw3doXy3H4HCfyb9cMK3
+Illusion	Beneath	Illusions EP	spotify:track:5mCdgiTEUso2Bcx1tCWhTt
+Luxury Problems	Andy Stott	Luxury Problems	spotify:track:2Qtq6zVNB4BgkLJUrdHoYR
+Bells - System Mix	Peverelist, Hodge	Bells	spotify:track:6t6OYeQ8PbSmYBIYs0qpyF
+Ellipsis	Joy Orbison	Ellipsis	spotify:track:58eWUMFPVu4aCl1sEoNa8a
 
 Radiohead Office Charts
 Aroo	King Midas Sound	Aroo	spotify:track:364h1iFSjG2yYCpaE7PhmS
